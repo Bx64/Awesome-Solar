@@ -48,43 +48,14 @@
     
 - [Tools (Delegates)](#tools-delegates)
     - Blogs
-	    - Awesome Solar blog - by bfx
-		- TBC
-		- TBC
 	- Core Plugins
-        - Productivity Statistics - by gym
-        - Relay Verifier - by gym
-        - Rocket Boot - by gym
-        - Round Monitor - by gym
-        - Universal Delegate Monitor - by gym
     - Guides and articles
-        - Staking your SXP (Solar Network) - by bfx
-        - Voting and Reward Dilution - by bfx
-        - TBC
     - Products & stores
-        - Friends of Little Yus Merchandise - by friendsoflittleyus
-        - Relay @ Home - by friendsoflittleyus
-        - TBC
     - Reward Calculators
-        - TBC
-        - TBC
-        - TBC
     - Reward Programs
-        - TBC
-        - TBC
-        - TBC
     - Telegram Bots
-        - Devnet faucet - by pj
-        - TBC
-        - TBC
     - True Block Weight Payout Scripts
-        - core2_tbw - by goose
-        - cryptology_tbw - by cryptology
-        - zen delegate manager - by toons
     - Websites
-        - Awesome Solar - by bfx
-        - Solar Network Info - by friendsoflittleyus
-        - TBC
 
 [Back to top](#Contents)
 
