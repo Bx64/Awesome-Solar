@@ -16,6 +16,7 @@
 - [Solar Resources](#solar-resources)
     - Websites*
     - Whitepaper*
+    - Roadmap*
     - GitHub
     - Network: Devnet
     - Network: Mainnet
@@ -41,6 +42,17 @@
     - TBC
     - TBC
 
+- [Social Media (Community)](#social-media-community)
+    - Solar India
+    - Solar Italy
+    - Solar Iran
+    - Solar Korea
+    - Solar Netherlands
+    - Solar Spain
+    - Solar Sweden
+    - Solar Turkey
+    - Solar Vietnam
+
 - [Tools (Community)](#tools-community)
     - TBC
     - TBC
@@ -48,12 +60,12 @@
     
 - [Tools (Delegates)](#tools-delegates)
     - Blogs
-	- Core Plugins
+    - Core Plugins
     - Guides and articles
     - Products & stores
     - Reward Calculators
     - Reward Programs
-    - Telegram Bots
+    - Social Media Bots
     - True Block Weight Payout Scripts
     - Websites
 
@@ -79,6 +91,10 @@
 *Official Solar Whitepaper. Listed second due to relevance.*
 
 * [Whitepaper](https://github.com/Solar-network/whitepaper/raw/main/solar-whitepaper-december-2021.pdf) - Official Solar whitepaper.
+
+*Official Solar Roadmap. Listed third due to relevance.*
+
+* [Roadmap](https://solar.network/roadmap) - Official Solar Roadmap.
 
 *Official Solar GitHub.*
 
@@ -149,6 +165,9 @@
                 * [Public API Quick Guide](https://docs.solar.network/exchanges/public-api-guide/) - Guide on how to use the Public API.
                 * [Configuring Rate Limits](https://docs.solar.network/exchanges/configuring-rate-limits/) - Guide on how to configure rate limits on your API node.
     * **Old - currently broken, will be fixed when new docs are released**
+        <details>
+            <summary>Click to expand!</summary>
+       
         * [FAQ](https://docs.solar.network/faq/) - Frequently asked questions.
             * [Bounties](https://docs.solar.network/faq/bounties.html) - About bounties.
             * [Desktop Wallet](https://docs.solar.network/faq/desktop-wallet.html) - About the desktop wallet 
@@ -217,6 +236,7 @@
             * [Deployer](https://docs.solar.network/tutorials/deployer/) - Tutorials on Solar deployer.
             * [Exchanges](https://exchange.solar.network/) - Tutorials on Solar exchanges.
             * [IOT](https://docs.solar.network/tutorials/iot/) - Tutorials on Solar IOT.
+        </details>
 
 [Back to top](#Contents)
 
@@ -253,6 +273,22 @@
 
 [Back to top](#Contents)
 
+## Social Media (Community)
+
+***Unofficial** social media channels by Solar community members/delegates.*
+
+* [Solar India](https://t.me/solarSXP_india)
+* [Solar Italy](https://t.me/solarNetwork_IT)
+* [Solar Iran](https://t.me/solarNetwork_IRAN)
+* [Solar Korea](https://t.me/solar_kr)
+* [Solar Netherlands]()https://t.me/Solar_Dutch)
+* [Solar Spain](https://t.me/solar_ESP)
+* [Solar Sweden](https://t.me/SolarNetwork_SE)
+* [Solar Turkey](https://t.me/solarnetwork_tr)
+* [Solar Vietnam](https://t.me/Solar_VN)
+
+[Back to top](#Contents)
+
 ## Tools (Community)
 
 ***Unofficial** tools developed by Solar community members.*
@@ -269,8 +305,11 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-	* TBC
-	* TBC
+	    * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
+        * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
+        * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
+    * TBC
+    * TBC
 * Core Plugins
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - allows relays ran by delegates to be monitored for activity, created by gym.
@@ -293,19 +332,19 @@
     * TBC
     * TBC
     * TBC
-* Telegram Bots
-    * [Devnet Faucet - pj](https://t.me/dSXP_bot) - Faucet where users can request 100 devnet SXP coins, and check their balance, created by pj.
-    * TBC
+* Social Media Bots
+    * [ARK faucet discord bot - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
+    * [Devnet Faucet - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 devnet SXP coins, and check their balance, created by friendsoflittleyus.
     * TBC
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
     * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
 * Websites
-    * [Awesome Solar](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource.
+    * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
     * Solar Network Info - friendsoflittleyus
         * [Devnet](https://friendsoflittleyus.nl/solar-devnet-network-info/#) - Devnet network information page, created by friendsoflittleyus
         * TBC [Mainnet](TBC) - Mainnet network information page, created by friendsoflittleyus
-    * TBC
+    * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
 
 [Back to top](#Contents)
