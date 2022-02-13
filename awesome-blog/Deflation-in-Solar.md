@@ -13,7 +13,7 @@ Solar has several transaction types which we will consider "regular" transaction
 - Registering or resigning a delegate;
 - Creating a multisignature address.
 
-Additionally, Solar provides SLP transactions which are used for creating and interacting with both fungible token (SLP-1) contracts and non-fungible token (SLP-2) contracts, comparable to ERC20 and ERC721 on the Ethereum blockchain. These transactions include:
+Additionally, Solar provides SLP transactions which are used for creating and interacting with both fungible token (SLP-1) contracts and non-fungible token (SLP-2) contracts. SLP-1 is comparable to ERC20 tokens (such as USDT, wETH, ..) and SLP-2 is comparable to ERC721 NFTs (such as BAYC, ENS, ..) on the Ethereum blockchain. These transactions include:
 
 - Contract deployment (SLP-1 + SLP-2): creating a token;
 - Contract interaction (SLP-1): burn, transfer, mint, pause, resume, (un)freeze a token or setting a new owner;

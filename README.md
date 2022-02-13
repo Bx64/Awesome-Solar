@@ -43,11 +43,14 @@
     - TBC
 
 - [Social Media (Community)](#social-media-community)
+    - Solar China
     - Solar India
-    - Solar Italy
     - Solar Iran
+    - Solar Italy
     - Solar Korea
     - Solar Netherlands
+    - Solar Poland
+    - Solar Russia
     - Solar Spain
     - Solar Sweden
     - Solar Turkey
@@ -99,6 +102,7 @@
 *Official Solar GitHub.*
 
 * [Solar Github](https://github.com/Solar-Network) - Official Solar GitHub.
+    * [Common](https://github.com/Solar-Network/common) - Github Repository for common Solar network information and peers.
     * [Community Tools](https://github.com/Solar-Network/community-tools) - Github Repository for Solar community tools.
     * [Core](https://github.com/Solar-Network/core) - Github Repository for Solar core.
         * [Core Devnet Setup](https://docs.solar.network/tutorials/node/setupdevnet.html#introduction) - Devnet Core Setup (Automated Relay/Core Setup).
@@ -277,11 +281,14 @@
 
 ***Unofficial** social media channels by Solar community members/delegates.*
 
+* [Solar China](https://t.me/SolarNetwork_CN)
 * [Solar India](https://t.me/solarSXP_india)
-* [Solar Italy](https://t.me/solarNetwork_IT)
 * [Solar Iran](https://t.me/solarNetwork_IRAN)
+* [Solar Italy](https://t.me/solarNetwork_IT)
 * [Solar Korea](https://t.me/solar_kr)
-* [Solar Netherlands]()https://t.me/Solar_Dutch)
+* [Solar Netherlands](https://t.me/Solar_Dutch)
+* [Solar Poland](https://t.me/SolarNetwork_PL)
+* [Solar Russia](https://t.me/SolarNetworkRu)
 * [Solar Spain](https://t.me/solar_ESP)
 * [Solar Sweden](https://t.me/SolarNetwork_SE)
 * [Solar Turkey](https://t.me/solarnetwork_tr)
@@ -305,7 +312,7 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-	    * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
+        * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * TBC
@@ -325,7 +332,7 @@
     * [Relay @ Home](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
     * TBC
 * Reward Calculators
-    * TBC
+    * [SXP Stake Calculator - fonk](https://github.com/qvanphong/sxp-stake-calculator) - Stake calculator website, created by fonk.
     * TBC
     * TBC
 * Reward Programs
