@@ -53,4 +53,4 @@ The way fees are distributed or burnt can be summarized in the following way:
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://explorer.solar.network/devnet/wallet/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx).

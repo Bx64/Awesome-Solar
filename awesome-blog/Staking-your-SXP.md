@@ -20,11 +20,11 @@ DPoS chains typically have fixed inflation based over several years, this is to 
 
 #### The Solar blockchain produces around 3,294,000 SXP per month
 
-Block rewards are controlled through an annual milestone which is fixed in the current networks config. This can only be updated if the 53 delegates reach consensus and accept the potential change. The current emission for the Solar blockchain is 10 SXP per block. At 8 seconds per block, and (60s * 60m * 24h * ~30.5d / 8s =) 329,400 blocks per month, the total emission is roughly 3,294,000 SXP per month.
+Block rewards are controlled through an annual milestone which is fixed in the current networks config. This can only be updated if the 53 delegates reach consensus and accept the potential change. The current emission for the Solar blockchain is 10 SXP per block. At 8 seconds per block, and (60s * 60m * 24h * 365d / 12m / 8s =) 328,500 blocks per month, the total emission is roughly 3,285,000 SXP per month.
 
 #### Deflationary effects
 In general DPoS blockchains allow voters to vote, allocating their wallet weight to a specific delegate and receiving rewards commensurate to weight.  This helps control inflation as the coins are out of supply when being used to vote, but the coins are not locked for a fixed time, a voter can move some or all funds at any time. You can read about how deflation is created in my article on [deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md).
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://explorer.solar.network/devnet/wallet/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx).

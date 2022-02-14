@@ -1,5 +1,5 @@
 # Awesome Solar
- A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate [bfx](https://explorer.solar.network/devnet/wallet/bfx), please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
+ A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx), please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
  
  ** Disclaimer - All of the resources available below are publicly available, we cannot guarantee the accuracy or efficacy of the resources listed, and are not liable for any submitted content.
 
@@ -43,18 +43,12 @@
     - TBC
 
 - [Social Media (Community)](#social-media-community)
-    - Solar China
-    - Solar India
-    - Solar Iran
-    - Solar Italy
-    - Solar Korea
-    - Solar Netherlands
-    - Solar Poland
-    - Solar Russia
-    - Solar Spain
-    - Solar Sweden
-    - Solar Turkey
-    - Solar Vietnam
+    - Solar Africa
+    - Solar Asia
+    - Solar Australia
+    - Solar Europe
+    - Solar North America
+    - Solar South America
 
 - [Tools (Community)](#tools-community)
     - TBC
@@ -281,18 +275,29 @@
 
 ***Unofficial** social media channels by Solar community members/delegates.*
 
-* [Solar China](https://t.me/SolarNetwork_CN)
-* [Solar India](https://t.me/solarSXP_india)
-* [Solar Iran](https://t.me/solarNetwork_IRAN)
-* [Solar Italy](https://t.me/solarNetwork_IT)
-* [Solar Korea](https://t.me/solar_kr)
-* [Solar Netherlands](https://t.me/Solar_Dutch)
-* [Solar Poland](https://t.me/SolarNetwork_PL)
-* [Solar Russia](https://t.me/SolarNetworkRu)
-* [Solar Spain](https://t.me/solar_ESP)
-* [Solar Sweden](https://t.me/SolarNetwork_SE)
-* [Solar Turkey](https://t.me/solarnetwork_tr)
-* [Solar Vietnam](https://t.me/Solar_VN)
+* Solar Africa
+    * [Solar Africa](https://t.me/SolarNetwork_Africa)
+    * [Solar Nigeria](https://t.me/SolarNetwork_Nigeria)
+* Solar Asia
+    * [Solar China](https://t.me/SolarNetwork_CN)
+    * [Solar India](https://t.me/solarSXP_india)
+    * [Solar Iran](https://t.me/solarNetwork_IRAN)
+    * [Solar Korea](https://t.me/solar_kr)
+    * [Solar Russia](https://t.me/SolarNetworkRu)
+    * [Solar Turkey](https://t.me/solarnetwork_tr)
+    * [Solar Vietnam](https://t.me/Solar_VN)
+* Solar Australia
+    * None so far
+* Solar Europe
+    * [Solar Italy](https://t.me/solarNetwork_IT)
+    * [Solar Netherlands](https://t.me/Solar_Dutch)
+    * [Solar Poland](https://t.me/SolarNetwork_PL)
+    * [Solar Spain](https://t.me/solar_ESP)
+    * [Solar Sweden](https://t.me/SolarNetwork_SE)
+* Solar North America
+    * None so far
+* Solar South America
+    * None so far
 
 [Back to top](#Contents)
 

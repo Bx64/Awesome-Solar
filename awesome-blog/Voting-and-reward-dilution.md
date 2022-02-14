@@ -17,7 +17,7 @@ For a delegate to actively forge blocks (and thereby securing the network), they
 
 **(i) Sharing Pool -** Typically a high sharing percentage public pool. Voters receive rewards based on their total vote power.
 
-**(ii) Contributing Delegate -** A delegate produces a proposal, including what they have done & plan to do for the community.  Voters can read these proposal by clicking on a delegate's name on the [Delegate Proposal Site](TBC).  If they have set a proposal, it will be visible for voters to read. These delegates usually share a slightly lower percentage than public pools.
+**(ii) Contributing Delegate -** A delegate produces a proposal, including what they have done & plan to do for the community.  Voters can read these proposal by clicking on a delegate's name on the [Delegate Proposal Site](https://delegates.solar.network/).  If they have set a proposal, it will be visible for voters to read. These delegates usually share a slightly lower percentage than public pools.
 
 **(iii) Private Delegate -** Typically someone who holds a significant amount of SXP, also known as "a whale". They typically do not share their rewards and forge blocks for themselves.
 
@@ -57,4 +57,4 @@ But reward sharing is not everything and lots of delegates offer different thing
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://explorer.solar.network/devnet/wallet/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx).
