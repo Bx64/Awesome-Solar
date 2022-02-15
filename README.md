@@ -289,6 +289,7 @@
 * Solar Australia
     * None so far
 * Solar Europe
+    * [Solar France](https://t.me/SolarNetwork_FR)
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
     * [Solar Poland](https://t.me/SolarNetwork_PL)
@@ -317,6 +318,7 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
+        * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX) - AMA session with StealthEX about the Solar Network, held on Telegram.
         * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
