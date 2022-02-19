@@ -22,7 +22,7 @@ The Side Ledger Protocol allows for the creation of token contracts both fungibl
 
 This way, Solar aims to offset inflation whilst creating a large set of possible utilities on the network. There have already been several businesses, including an exchange, that have confirmed to use a token created with SLP for their operations.
 
-of course, there are many other features being developed, so I would urge anyone to check out the roadmap and the upcoming whitepaper.
+Of course, there are many other features being developed, so I would urge anyone to check out the roadmap and the upcoming whitepaper.
 
 **Ben Frost:** That was an exceptional answer, thank you! Roadmap is definitely worth checking out :)
 
@@ -112,6 +112,46 @@ Also, experienced (community) developers have already started working on Solar, 
 **Ben Frost:** That was stellar!
 
 Huge thank you for taking your time to provide such an in-depth insight into Solar Network. I for sure have learned a lot!
+
+#### Live Questions
+
+*Q1: Do you have a Token Burning plan to increase Token value and attract Investors to invest?*
+
+**BFX:** Yes, all fees paid for creating token contracts will be collected and burnt monthly!
+
+*Q2: How can users stay updated with this project? Are there channels, including local communities where users can get the latest updates?*
+
+**BFX:** Yes, there are a lot of community channels. I think it would be easiest to go to the official Telegram chat and move from there. There’s also a Discord with multiple channels for different languages!
+
+*Q3: Many projects have problems with UI / UX and this one turns off new users. How do you plan to improve the interaction with new users and with users outside the crypto space?*
+
+**BFX:** There will be a lot of documentation available for end-users and developers alike. Any questions about user interface or experience can be asked in the official channels, or in your own local community chat. There are also delegates working on creating articles, videos and tools to help you with all these issues!
+
+*Q4: Can you tell me more details on the IDO? The schedule and contribution for each?*
+
+**BFX:** There is no IDO, the current holders of SXP will be able to swap their ERC- / BSC- based tokens to the new mainnet. No additional tokens can or will be minted for this swap.
+
+*Q5: Marketing is a central element for every project, so that everyone knows the potential that a project can bring is vital to achieve the goals set. What is your strategy to attract new users and Investor to your platform and keep them long term?*
+
+**BFX:** Marketing will at first be covered by the former project lead, but can also be helped by delegates. Additionally, a foundation will be created – the Solar Community Foundation – that will be able to provide grants and fund proposals by community members, of which marketing in a certain way or strategy could be one.
+
+*Q6: Smart contracts are susceptible to failure and many projects fall victim to this, costing users money and the project discrediting. How reliable and secure is your smart contract? Have you tested it through any of the parties?*
+
+**BFX:** All contracts can be created as open-source and audited either through firms (a code audit is part of the roadmap) or community developers/security researchers.
+
+*Q7: ‘STAKING” is one of the STRATEGIES to ATTRACT USERS and HOLD Them long term. Does your GREAT PROJECT have plan about Staking??*
+
+**BFX:** There is, you can refer to the articles “Staking your SXP (Solar Network)” and “Voting & reward dilution” on my blog.
+
+*Q8: Since NFT is popular nowadays, is there a plan for NFT integration?*
+
+**BFX:** Yes, they are part of the Side Ledger Protocol, specifically the SLP-2 type token contracts!
+
+*Q9: What’s your main focus right now, are you focused on the community or market/Exchange or the products?*
+
+**BFX:** Definitely focussed on the projects features, products and utilities. There are already several large exchanges that SXP is on, and the exchanges supporting the swap will be released soon. However, full focus is on what adds value to Solar; its features and utilities.
+
+**StealthEX:** That was it! Once again, a huge thank you to BFX for such an amazing AMA, it was truly educational, and a great insight into what makes Solar Network a standout project!
 
 ---
 

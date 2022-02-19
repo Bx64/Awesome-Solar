@@ -57,6 +57,7 @@
     
 - [Tools (Delegates)](#tools-delegates)
     - Blogs
+    - Core Management
     - Core Plugins
     - Guides and articles
     - Products & stores
@@ -289,6 +290,7 @@
 * Solar Australia
     * None so far
 * Solar Europe
+    * [Solar Balkan](https://t.me/SolarNetwork_Balkan)
     * [Solar France](https://t.me/SolarNetwork_FR)
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
@@ -318,12 +320,17 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-        * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX) - AMA session with StealthEX about the Solar Network, held on Telegram.
+        * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar Network, held on Telegram.
         * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * TBC
     * TBC
+* Core Management
+    * [Core Control devnet - geops](https://github.com/geopsllc/core-control/tree/sxp-devnet) - Core Control makes node management easy, created by geops.
+    * TBC [Core Control mainnet - geops](https://github.com/geopsllc/core-control/tree/sxp-mainnet) - Core Control makes node management easy, created by geops.
+    * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
+    * TBC [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
 * Core Plugins
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - allows relays ran by delegates to be monitored for activity, created by gym.

@@ -18,9 +18,13 @@ DPoS delegates secure the blockchain through forging blocks, and in the case of 
 ## Supply inflation
 DPoS chains typically have fixed inflation based over several years, this is to help control the coin supply in circulation. Inflation comes from delegates forging new blocks as described above. The effect of delegates forging new blocks increases the supply by 10 SXP per block.
 
-#### The Solar blockchain produces around 3,294,000 SXP per month
+#### The Solar blockchain produces around 3,285,000 SXP per month
 
-Block rewards are controlled through an annual milestone which is fixed in the current networks config. This can only be updated if the 53 delegates reach consensus and accept the potential change. The current emission for the Solar blockchain is 10 SXP per block. At 8 seconds per block, and (60s * 60m * 24h * 365d / 12m / 8s =) 328,500 blocks per month, the total emission is roughly 3,285,000 SXP per month.
+Block rewards are controlled through an annual milestone which is fixed in the current networks config. This can only be updated if the 53 delegates reach consensus and accept the potential change. 
+
+The current emission for the Solar blockchain is based on a sliding scale with an average of 10 SXP per block and are based on the rank of a delegate at the start of each round. Delegate ranked #1 will forge 6.75 SXP and each subsequent delegate will forge an additional 0.125 SXP per rank lower, meaning #2 will forge 6.875 SXP, #3 will forge 7 SXP, ..., #52 will forge 13.125 SXP and #53 will forge 13.25 SXP - for an average of 10 SXP per block (and 530 SXP per round).
+
+At 8 seconds per block, and (60s * 60m * 24h * 365d / 12m / 8s =) 328,500 blocks per month, the total emission is roughly 3,285,000 SXP per month.
 
 #### Deflationary effects
 In general DPoS blockchains allow voters to vote, allocating their wallet weight to a specific delegate and receiving rewards commensurate to weight.  This helps control inflation as the coins are out of supply when being used to vote, but the coins are not locked for a fixed time, a voter can move some or all funds at any time. You can read about how deflation is created in my article on [deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md).
