@@ -23,24 +23,22 @@
 
 - [Solar Documentation](#solar-documentation)
     - Documentation Website
-        - New
-            - Exchanges
-        - Old - currently broken, will be fixed when new docs are released
-            - FAQ
-            - Guidebook
-            - Introduction
-            - Navigating the docs
-            - Security Vulnerabilities
-            - Tutorials
+        - API
+        - Brand
+        - Exchange Integration
+        - Project
+        - SDK
+        - SXPSwap
 
 - [Exchanges](#Exchanges)
     - New
     - Old
     
 - [Mainnet API Documentation](#mainnet-api-documentation)
-    - TBC
-    - TBC
-    - TBC
+    - Mainnet API
+        - Manager API
+        - Public REST-API
+        - Webhook API
 
 - [Social Media (Community)](#social-media-community)
     - Solar Africa
@@ -97,35 +95,23 @@
 *Official Solar GitHub.*
 
 * [Solar Github](https://github.com/Solar-Network) - Official Solar GitHub.
-    * [Common](https://github.com/Solar-Network/common) - Github Repository for common Solar network information and peers.
-    * [Community Tools](https://github.com/Solar-Network/community-tools) - Github Repository for Solar community tools.
     * [Core](https://github.com/Solar-Network/core) - Github Repository for Solar core.
         * [Core Devnet Setup](https://docs.solar.network/tutorials/node/setupdevnet.html#introduction) - Devnet Core Setup (Automated Relay/Core Setup).
         * [Core Mainnet Setup](TBC) - Mainnet Core Setup (Automated Relay/Core Setup).
         * [Mainnet Blockchain Milestones](https://github.com/Solar-network/core/tree/main/packages/crypto/src/networks) - Solar Blockchain Milestones.
-    * [Core Control](https://github.com/Solar-Network/core-control) - Github Repository for Solar core-control.
     * [Crypto](https://github.com/Solar-Network/crypto) - Github Repository for Solar cryptography.
     * [Crypto Networks](https://github.com/Solar-Network/crypto-networks) - Github Repository for Solar cryptography networks.
-    * [Desktop wallet](https://github.com/Solar-Network/desktop-wallet) - Github Repository for Solar desktop wallet.
     * [Docs](https://github.com/Solar-Network/docs) - Github Repository for Solar documentation.
-    * [Explorer](https://github.com/Solar-Network/explorer) - Github Repository for Solar block explorer.
+    * [Legacy wallet](https://github.com/Solar-Network/legacy-wallet) - Github Repository for Solar legacy wallet.
+    * [Metaverse](https://github.com/Solar-Network/metaverse) - Github Repository for Solar metaverse development.
+    * [Peers](https://github.com/Solar-Network/peers) - Github Repository for Solar seed peers.
+    * [PHP Client](https://github.com/Solar-Network/php-client) - Github Repository for Solar PHP client.
     * [Python Client](https://github.com/Solar-Network/python-client) - Github Repository for Solar Python client.
     * [Python SLP](https://github.com/Solar-Network/python-slp) - Github Repository for Solar Side Ledger Protocol in Python.
-    * [SDK](https://github.com/Solar-Network/sdk) - Github Repository for Solar softwaare development kit.
     * [Solar Explorer](https://github.com/Solar-Network/solar-explorer) - Github Repository for Solar explorer.
-    * [Solar-JS](https://github.com/Solar-Network/solar-js) - Github Repository for Solar JavaScript implementation.
     * [Solar-JS-SDK](https://github.com/Solar-Network/solar-js-sdk) - Github Repository for Solar JavaScript software development kit.
     * [Solar-JS-SLP](https://github.com/Solar-Network/solar-js-slp) - Github Repository for Solar Side Ledger Protocol in JavaScript.
-    * [Swipechain.org](https://github.com/Solar-Network/swipechain.org) - Github Repository for old Swipechain website.
-    * [Wallet Core Kernel](https://github.com/Solar-Network/wallet-core-kernel) - Github Repository for Solar wallet core kernel.
-    * [Wallet Core Magistrate Crypto](https://github.com/Solar-Network/wallet-core-magistrate-crypto) - Github Repository for Solar wallet core magistrate cryptography.
-    * [Wallet Crypto Identities](https://github.com/Solar-Network/wallet-crypto-identities) - Github Repository for Solar wallet cryptographic identities.
-    * [Wallet Crypto Networks](https://github.com/Solar-Network/wallet-crypto-networks) - Github Repository for Solar wallet cryptography networks.
-    * [Wallet Peers](https://github.com/Solar-Network/wallet-peers) - Github Repository for Solar wallet seed peers.
-    * [Wallet Utils](https://github.com/Solar-Network/wallet-utils) - Github Repository for Solar wallet utilities.
     * [Website](https://github.com/Solar-Network/website) - Github Repository for Solar new website.
-    * [Whitepaper](https://github.com/Solar-Network/whitepaper) - Github Repository for Solar Whitepaper.
-    * [Peers](https://github.com/Solar-Network/peers) - Github Repository for Solar seed peers.
 
 *Official Devnet Resources.*
 
@@ -146,96 +132,68 @@
 *Official Solar Documentation.*
 
 * [Documentation Website](https://docs.solar.network/) - Official Documentation Website.
-    * New
-        * [Exchanges](https://docs.solar.network/exchanges/)
-            * [Introduction](https://docs.solar.network/exchanges/intro/) - Introduction to exchanges.
-            * Core Node Introduction
-                * [Core Node Hardware Requirements](https://docs.solar.network/exchanges/node-installation/hardware-requirements/) - How to setup your Core Node.
-                * [Relay Node Installation Instructions (Bare Metal or VM)](https://docs.solar.network/exchanges/node-installation/baremetal-instructions/) - How to setup a Relay Node.
-            * JSON-RPC
-                * [Getting Started](https://docs.solar.network/exchanges/json-rpc/getting-started/) - Getting started with JSON-RPC.
-                * Endpoints
-                    * [Blocks](https://docs.solar.network/exchanges/json-rpc/endpoints/blocks/) - Information on the 'blocks' endpoint.
-                    * [Transactions](https://docs.solar.network/exchanges/json-rpc/endpoints/transactions/) - Information on the 'transactions' endpoint.
-                    * [Wallets](https://docs.solar.network/exchanges/json-rpc/endpoints/wallets/) - Information on the 'wallets' endpoint.
-                * Examples
-                    * [Examples](https://docs.solar.network/exchanges/json-rpc/examples/) - Examples on how to use JSON-RPC.
-            * Public API
-                * [Public API Quick Guide](https://docs.solar.network/exchanges/public-api-guide/) - Guide on how to use the Public API.
-                * [Configuring Rate Limits](https://docs.solar.network/exchanges/configuring-rate-limits/) - Guide on how to configure rate limits on your API node.
-    * **Old - currently broken, will be fixed when new docs are released**
-        <details>
-            <summary>Click to expand!</summary>
-       
-        * [FAQ](https://docs.solar.network/faq/) - Frequently asked questions.
-            * [Bounties](https://docs.solar.network/faq/bounties.html) - About bounties.
-            * [Desktop Wallet](https://docs.solar.network/faq/desktop-wallet.html) - About the desktop wallet 
-            * [Passphrases](https://docs.solar.network/faq/passphrases.html) - About passphrases.
-            * [Roadmap & Updates](https://docs.solar.network/faq/roadmap-updates.html) - About the roadmap & updates.
-            * [Voting & Delegates](https://docs.solar.network/faq/voting-delegates.html) - About voting & delegates.
-        * [Guidebook](https://docs.solar.network/guidebook/) - Guidebook to core, contributions and guides.
-            * Getting Started
-            * [How to Setup Your Dev Environment](https://docs.solar.network/guidebook/developer/setup-dev-environment.html#installation)
-            * [How to Monitor the Blockchain](https://docs.solar.network/guidebook/developer/monitor-blockchain.html)
-            * [How to Send Your First Transaction Using the Solar SDK](https://docs.solar.network/guidebook/developer/send-transaction.html)
-            * [How to Send Transactions Using the Solar Core Tester Cli](https://docs.solar.network/guidebook/developer/tester-cli-transaction.html)
-        * Core
-            * [Intro to Core](https://docs.solar.network/guidebook/core/)
-            * [Examnining the Node Lifecycle](https://docs.solar.network/guidebook/core/node-lifecycle.html)
-            * [Inside a Transaction Lifecycle: From Client to Blockchain](https://docs.solar.network/guidebook/core/transaction-lifecycle.html)
-            * [Command Line Interface](https://docs.solar.network/guidebook/core/cli.html)
-            * [Configuration](https://docs.solar.network/guidebook/core/configuration.html)
-            * [Development](https://docs.solar.network/guidebook/core/development.html)
-            * [Docker](https://docs.solar.network/guidebook/core/docker.html)
-            * [Events](https://docs.solar.network/guidebook/core/events.html)
-            * [Logging](https://docs.solar.network/guidebook/core/logging.html)
-            * [Testing](https://docs.solar.network/guidebook/core/testing.html)
-            * [Webhooks](https://docs.solar.network/guidebook/core/webhooks.html)
-            * [Data Models](https://docs.solar.network/guidebook/core/data-models.html)
-            * [Source Code](https://docs.solar.network/guidebook/core/source-code.html)
-        * Other products
-            * [Introduction](https://docs.solar.network/guidebook/guides/)
-            * [Mobile Wallet](https://docs.solar.network/guidebook/guides/mobile.html)
-            * [Solar Desktop Wallet v2.x.x](https://docs.solar.network/guidebook/guides/desktop.html)
-            * [Explorer](https://docs.solar.network/guidebook/guides/explorer.html)
-            * [Pay](https://docs.solar.network/guidebook/guides/pay.html)
-        * Contribution guidelines
-            * [Contributor's Introduction](https://docs.solar.network/guidebook/contribution-guidelines/)
-            * [Clean Code & Tests](https://docs.solar.network/guidebook/contribution-guidelines/clean-code-and-tests.html)
-            * [Contributing](https://docs.solar.network/guidebook/contribution-guidelines/contributing.html)
-            * [Writing Documentation for Solar](https://docs.solar.network/guidebook/contribution-guidelines/writing-documentation.html)
-            * [Google Season of Docs](https://docs.solar.network/guidebook/contribution-guidelines/gsod.html)
-            * [Git Branch Guidelines](https://docs.solar.network/guidebook/contribution-guidelines/git-branch-guidelines.html)
-            * [Git Commit Guidelines](https://docs.solar.network/guidebook/contribution-guidelines/git-commit-guidelines.html)
-            * [Project Structuring](https://docs.solar.network/guidebook/contribution-guidelines/project-structuring.html)
-            * [Repository Management](https://docs.solar.network/guidebook/contribution-guidelines/repository-management.html)
-        * Release guidelines
-            * [Release Guidelines](https://docs.solar.network/guidebook/release-guidelines/)
-            * [Releases & Versioning](https://docs.solar.network/guidebook/release-guidelines/releases-and-versioning.html)
-            * [Going Live!](https://docs.solar.network/guidebook/release-guidelines/going-live.html)
-        * [Introduction](https://docs.solar.network/introduction) - Introduction to Solar.
-            * [From Blockchain to Solar](https://docs.solar.network/#from-blockchain-to-solar) - On blockchain and Solar.
-                * Blockchain introduction:
-                    * [Introduction to Blockchain](https://docs.solar.network/introduction/blockchain/)
-                    * [What is Blockchain?](https://docs.solar.network/introduction/blockchain/what-is-blockchain.html)
-                    * [How Secure Is a Blockchai?n](https://docs.solar.network/introduction/blockchain/how-secure-is-blockchain.html)
-                    * [Why Do Blockchains Exist?](https://docs.solar.network/introduction/blockchain/why-do-blockchains-exist.html)
-                    * [When Do You Need a Blockchain?](https://docs.solar.network/introduction/blockchain/when-do-you-need-blockchain.html)
-                    * [Anonymous vs Untraceable](https://docs.solar.network/introduction/blockchain/anonymous-vs-untraceable.html)
-                    * [Understanding Consensus Models](https://docs.solar.network/introduction/blockchain/understanding-consensus-models.html)
-                * Solar's Blockchain Implementation:
-                    * [Intro to Solar](https://docs.solar.network/introduction/solar/)
-                    * [The Solar Network](https://docs.solar.network/introduction/solar/solar-network-topology.html)
-                    * [Understanding Transactions and Block Propagation](https://docs.solar.network/introduction/solar/understanding-transactions-and-block-propagation.html)
-                    * [What Is a Solar Address?](https://docs.solar.network/introduction/solar/what-is-an-solar-address.html)
-                    * [What Is Delegated Proof-Of-Stake?](https://docs.solar.network/introduction/solar/what-is-delegated-proof-of-stake.html)
-        * [Navigating The Docs](https://docs.solar.network/#navigating-the-docs) - Explanation of how to navigate the documentation.
-        * [Security Vulnerabilities](https://docs.solar.network/security) - On finding and disclosure about security vulnerabilities.
-        * [Tutorials](https://docs.solar.network/#the-solar-tutorials) - Solar tutorials.
-            * [Deployer](https://docs.solar.network/tutorials/deployer/) - Tutorials on Solar deployer.
-            * [Exchanges](https://exchange.solar.network/) - Tutorials on Solar exchanges.
-            * [IOT](https://docs.solar.network/tutorials/iot/) - Tutorials on Solar IOT.
-        </details>
+    * [API](https://docs.solar.network/api/) - Solar Network API.
+        * Manager API
+            * [Endpoints](https://docs.solar.network/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
+            * [Getting Started](https://docs.solar.network/api/manager-api/getting-started/) - Getting started with the manager API.
+        * Public REST-API
+            * [Getting started](https://docs.solar.network/api/public-rest-api/getting-started/) - Getting started with the public API.
+            * [Endpoints](https://docs.solar.network/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
+            * [Modify API response](https://docs.solar.network/api/public-rest-api/modify-response/) - How to modify the API response.
+            * [Troubleshooting](https://docs.solar.network/api/public-rest-api/troubleshooting/) - Troubleshooting the public API.
+        * Webhook API
+            * [Endpoints](https://docs.solar.network/api/webhook-api/endpoints/) - Explanation about possible webhook endpoints.
+            * [Getting Started](https://docs.solar.network/api/webhook-api/getting-started/) - Getting started with webhooks.
+            * [Usage](https://docs.solar.network/api/webhook-api/usage/) - Explanation about how to use webhooks.
+    * [Brand](https://docs.solar.network/brand/intro/)
+        * [Brand-Guidelines](https://docs.solar.network/assets/mediakit/guidelines.pdf) - Guidelines on how to use the Solar brand.
+        * [Download Github Banners](https://docs.solar.network/assets/mediakit/github.zip) - Download the banners used on Github.
+        * [Download Mediakit](https://docs.solar.network/assets/mediakit/mediakit.zip) - Mediakit download containing all Solar branded items.
+    * Exchange Integration
+        * Core Node Introduction
+            * [Core Node Hardware Requirements](https://docs.solar.network/exchanges/node-installation/hardware-requirements/) - How to setup your Core Node.
+            * [Relay Node Installation Instructions (Bare Metal or VM)](https://docs.solar.network/exchanges/node-installation/baremetal-instructions/) - How to setup a Relay Node.
+        * [Introduction](https://docs.solar.network/exchanges/intro/) - Introduction to exchanges.
+        * JSON-RPC
+            * [Getting Started](https://docs.solar.network/exchanges/json-rpc/getting-started/) - Getting started with JSON-RPC.
+            * [Endpoints](https://docs.solar.network/exchanges/json-rpc/endpoints/blocks/) - Usage of JSON-RPC endpoints.
+            * [Examples](https://docs.solar.network/exchanges/json-rpc/examples/) - Examples on how to use JSON-RPC.
+        * Public API
+            * [Public API Quick Guide](https://docs.solar.network/exchanges/public-api-guide/) - Guide on how to use the Public API.
+            * [Configuring Rate Limits](https://docs.solar.network/exchanges/configuring-rate-limits/) - Guide on how to configure rate limits on your API node.
+    * Project
+        * [Blockchain](https://docs.solar.network/project/blockchain/) - Information on Solar blockchain.
+        * [DAO](https://docs.solar.network/project/dao/) - Information on Solar DAO.
+        * [Intro](https://docs.solar.network/project/intro/) - Introduction to Solar Network.
+        * [Team](https://docs.solar.network/project/team/) - Information on Solar team.
+        * [Whitepaper](https://docs.solar.network/project/whitepaper/) - Solar Network Whitepaper documents.
+    * SDK
+        * [Introduction](https://docs.solar.network/sdk/documentation/) - Software development kit introduction.
+        * Guidelines
+            * [Client](https://docs.solar.network/sdk/guidelines/client/) - SDK Client Guidelines.
+            * [Crypto](https://docs.solar.network/sdk/guidelines/crypto/) - SDK Crypto Guidelines.
+            * [Documentation](https://docs.solar.network/sdk/guidelines/documentation/) - SDK Documentation.
+        * Javascript
+            * [Client](https://docs.solar.network/sdk/javascript/client/intro/) - Javascript SDK Client.
+            * [Crypto](https://docs.solar.network/sdk/javascript/crypto/intro/) - Javascript SDK Crypto.
+            * [Installation](https://docs.solar.network/sdk/javascript/installation/) - Javascript SDK Installation.
+        * Python
+            * [Client](https://docs.solar.network/sdk/python/client/intro/) - Python SDK Client.
+            * [Complementary Examples](https://docs.solar.network/sdk/python/complementary-examples/) - Python SDK Complementary Examples.
+            * [Crypto](https://docs.solar.network/sdk/python/crypto/intro/) - Python SDK Crypto.
+            * [Getting Started](https://docs.solar.network/sdk/python/client/getting-started/) - Getting Started with Python SDK.
+        * Typescript
+            * [Client](https://docs.solar.network/sdk/typescript/client/getting-started/) - Typescript SDK Client.
+            * [Complementary Examples](https://docs.solar.network/sdk/typescript/complementary-examples/) - Typescript SDK Complementary Examples.
+            * [Crypto](https://docs.solar.network/sdk/typescript/crypto/getting-started/) - Typescript SDK Crypto.
+            * [Installation](https://docs.solar.network/sdk/typescript/installation/) - Typescript SDK Installation.
+    * SXPSwap
+        * [Introduction](https://docs.solar.network/sxpswap/introduction/) - Introduction to the ERC-20/BSC-20 to Solar Mainnet swap.
+        * Swap / Migration
+            * [Users](https://docs.solar.network/sxpswap/users/getting-started/) - Getting started with your swap for users.
+            * [Exchanges](https://docs.solar.network/sxpswap/exchanges/getting-started/) - Getting started with your migration for exchanges.
+        * Technical Details
+            * [Security](https://docs.solar.network/sxpswap/technical-details/security/introduction/) - Security technical details for the swap.
 
 [Back to top](#Contents)
 
@@ -266,9 +224,35 @@
 
 *Official Solar Mainnet API Documentation.*
 
-* TBC [Mainnet API Documentation](TBC) - Mainnet API Documentation.
-* TBC
-* TBC
+* [Mainnet API](https://docs.solar.network/api/) - Solar Network mainnet API.
+    * Manager API
+        * [Endpoints](https://docs.solar.network/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
+            * [Blockchain](https://docs.solar.network/api/public-rest-api/endpoints/blockchain/) - Documentation on blockchain endpoint.
+            * [Blocks](https://docs.solar.network/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
+            * [Delegates](https://docs.solar.network/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
+            * [Introduction](https://docs.solar.network/api/public-rest-api/endpoints/intro/) - Introduction on Manager API endpoints.
+            * [Node](https://docs.solar.network/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
+            * [Peers](https://docs.solar.network/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
+            * [Transactions](https://docs.solar.network/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
+            * [Votes](https://docs.solar.network/api/public-rest-api/endpoints/votes/) - Documentation on votes endpoint.
+            * [Wallets](https://docs.solar.network/api/public-rest-api/endpoints/wallets/) - Documentation on wallets endpoint.
+        * [Getting Started](https://docs.solar.network/api/manager-api/getting-started/) - Getting started with the manager API.
+    * Public REST-API
+        * [Getting started](https://docs.solar.network/api/public-rest-api/getting-started/) - Getting started with the public API.
+        * [Endpoints](https://docs.solar.network/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
+            * [Configuration](https://docs.solar.network/api/manager-api/endpoints/configuration/) - Documentation on Public REST-API configuration.
+            * [Info](https://docs.solar.network/api/manager-api/endpoints/info/) - Documentation on info endpoint.
+            * [Log](https://docs.solar.network/api/manager-api/endpoints/log/) - Documentation on log endpoint.
+            * [Plugin](https://docs.solar.network/api/manager-api/endpoints/plugin/) - Documentation on plugin endpoint.
+            * [Process](https://docs.solar.network/api/manager-api/endpoints/process/) - Documentation on process endpoint.
+            * [Snapshots](https://docs.solar.network/api/manager-api/endpoints/snapshots/) - Documentation on snapshots endpoint.
+            * [Watcher](https://docs.solar.network/api/manager-api/endpoints/watcher/) - Documentation on watcher endpoint.
+        * [Modify API response](https://docs.solar.network/api/public-rest-api/modify-response/) - How to modify the API response.
+        * [Troubleshooting](https://docs.solar.network/api/public-rest-api/troubleshooting/) - Troubleshooting the public API.
+    * Webhook API
+        * [Endpoints](https://docs.solar.network/api/webhook-api/endpoints/) - Explanation about possible webhook endpoints.
+        * [Getting Started](https://docs.solar.network/api/webhook-api/getting-started/) - Getting started with webhooks.
+        * [Usage](https://docs.solar.network/api/webhook-api/usage/) - Explanation about how to use webhooks.
 
 [Back to top](#Contents)
 
@@ -290,7 +274,7 @@
 * Solar Australia
     * None so far
 * Solar Europe
-    * [Solar Balkan](https://t.me/SolarNetwork_Balkan)
+    * [Solar Balkan](https://t.me/SolarNetwork_Balkans)
     * [Solar France](https://t.me/SolarNetwork_FR)
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
@@ -338,9 +322,9 @@
     * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Guides and articles
+    * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
     * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
     * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Information about voting for a delegate and how dilution impacts your returns, created by bfx.
-    * TBC
 * Products & stores
     * [Friends of Little Yus Merchandise](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
