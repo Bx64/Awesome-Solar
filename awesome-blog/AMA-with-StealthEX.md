@@ -107,7 +107,7 @@ I do think I have shown a good starting point with describing some of the featur
 
 Also, experienced (community) developers have already started working on Solar, several businesses have confirmed wanting to create a token using SLP and delegates have begun to list their (upcoming) contributions, which makes me feel the project is in a good place for its upcoming mainnet launch!
 
-[Roadmap](https://solar.network/roadmap) & [delegates page](https://delegates.solar.network).
+[Roadmap](https://solar.org/roadmap) & [delegates page](https://delegates.solar.org).
 
 **Ben Frost:** That was stellar!
 
@@ -155,4 +155,4 @@ Huge thank you for taking your time to provide such an in-depth insight into Sol
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx).

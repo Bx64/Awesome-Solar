@@ -6,7 +6,7 @@ In this blog post we will try to clarify how dilution and voting for high ranked
 
 Secondly, the explorer ranks delegates by the total vote power/influence of all their voters combined. This is not a good measure for which delegate will provide voters with the highest return for their vote.
 
-Looking at the delegate page of the [Solar Mainnet Explorer](https://explorer.solar.network/mainnet/delegates), we can see the number of votes across the 53 active delegates differs wildly.
+Looking at the delegate page of the [Solar Mainnet Explorer](https://explorer.solar.org/mainnet/delegates), we can see the number of votes across the 53 active delegates differs wildly.
 
 
 ## What is voting, and why is it important?
@@ -17,7 +17,7 @@ For a delegate to actively forge blocks (and thereby securing the network), they
 
 **(i) Sharing Pool -** Typically a high sharing percentage public pool. Voters receive rewards based on their total vote power.
 
-**(ii) Contributing Delegate -** A delegate produces a proposal, including what they have done & plan to do for the community.  Voters can read these proposal by clicking on a delegate's name on the [Delegate Proposal Site](https://delegates.solar.network/).  If they have set a proposal, it will be visible for voters to read. These delegates usually share a slightly lower percentage than public pools.
+**(ii) Contributing Delegate -** A delegate produces a proposal, including what they have done & plan to do for the community.  Voters can read these proposal by clicking on a delegate's name on the [Delegate Proposal Site](https://delegates.solar.org/).  If they have set a proposal, it will be visible for voters to read. These delegates usually share a slightly lower percentage than public pools.
 
 **(iii) Private Delegate -** Typically someone who holds a significant amount of SXP, also known as "a whale". They typically do not share their rewards and forge blocks for themselves.
 
@@ -57,4 +57,4 @@ But reward sharing is not everything and lots of delegates offer different thing
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx).

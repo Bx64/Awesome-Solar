@@ -1,6 +1,6 @@
-This resource was created by the Solar delegate [bfx](https://delegates.solar.network/dsxp/delegates/bfx) ([@Bx64](https://github.com/Bx64)), for the community - and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/Bx64/Awesome-Solar/graphs/contributors).
+This resource was created by the Solar delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx) ([@Bx64](https://github.com/Bx64)), for the community - and wouldn't be possible without you! We appreciate and recognize [all contributors](https://github.com/Bx64/Awesome-Solar/graphs/contributors).
 
-Join us on [Discord](https://discord.solar.network).
+Join us on [Discord](https://discord.solar.org).
 
 
 # Contribution Guidelines
