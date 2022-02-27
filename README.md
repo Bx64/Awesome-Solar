@@ -315,6 +315,7 @@
     * TBC [Core Control mainnet - geops](https://github.com/geopsllc/core-control/tree/sxp-mainnet) - Core Control makes node management easy, created by geops.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
     * TBC [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
+	* [Solar/ARK Node Monitor for Discord & Telegram](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
 * Core Plugins
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - allows relays ran by delegates to be monitored for activity, created by gym.
