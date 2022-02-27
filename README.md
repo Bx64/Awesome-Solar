@@ -86,7 +86,7 @@
 
 *Official Solar Whitepaper. Listed second due to relevance.*
 
-* [Whitepaper](https://github.com/Solar-network/whitepaper/raw/main/solar-whitepaper-december-2021.pdf) - Official Solar whitepaper.
+* [Whitepaper](https://docs.solar.org/project/whitepaper/) - Official Solar whitepaper.
 
 *Official Solar Roadmap. Listed third due to relevance.*
 
@@ -117,13 +117,13 @@
 
 * TBC [Solar Devnet API](TBC) - Solar Devnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Solar Devnet Block Explorer](https://explorer.solar.network/devnet/dashboard) - Devnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
-* TBC [Solar Devnet Wallet](TBC) - Devnet Wallet for managing your SXP.
+* [Solar Devnet Wallet](https://solar.network/#wallet) - Devnet Wallet for managing your SXP.
 
 *Official Mainnet Resources.*
 
 * TBC [Solar Mainnet API](TBC) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
 * TBC [Solar Mainnet Block Explorer](TBC) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
-* TBC [Solar Mainnet Wallet](TBC) - Mainnet Wallet for managing your SXP.
+* [Solar Mainnet Wallet](https://solar.network/#wallet) - Mainnet Wallet for managing your SXP.
 
 [Back to top](#Contents)
 
