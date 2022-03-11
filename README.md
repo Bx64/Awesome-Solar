@@ -96,8 +96,8 @@
 
 * [Solar Github](https://github.com/Solar-Network) - Official Solar GitHub.
     * [Core](https://github.com/Solar-Network/core) - Github Repository for Solar core.
-        * [Core Devnet Setup](https://docs.solar.org/tutorials/node/setupdevnet.html#introduction) - Devnet Core Setup (Automated Relay/Core Setup).
-        * [Core Mainnet Setup](TBC) - Mainnet Core Setup (Automated Relay/Core Setup).
+        * [Core Devnet Setup](https://github.com/Solar-network/core/blob/develop/install-next.sh) - Devnet Core Setup (Automated Relay/Core Setup).
+        * [Core Mainnet Setup](https://github.com/Solar-network/core/blob/main/install.sh) - Mainnet Core Setup (Automated Relay/Core Setup).
         * [Mainnet Blockchain Milestones](https://github.com/Solar-network/core/tree/main/packages/crypto/src/networks) - Solar Blockchain Milestones.
     * [Crypto](https://github.com/Solar-Network/crypto) - Github Repository for Solar cryptography.
     * [Crypto Networks](https://github.com/Solar-Network/crypto-networks) - Github Repository for Solar cryptography networks.
@@ -162,10 +162,7 @@
             * [Public API Quick Guide](https://docs.solar.org/exchanges/public-api-guide/) - Guide on how to use the Public API.
             * [Configuring Rate Limits](https://docs.solar.org/exchanges/configuring-rate-limits/) - Guide on how to configure rate limits on your API node.
     * Project
-        * [Blockchain](https://docs.solar.org/project/blockchain/) - Information on Solar blockchain.
-        * [DAO](https://docs.solar.org/project/dao/) - Information on Solar DAO.
-        * [Intro](https://docs.solar.org/project/intro/) - Introduction to Solar Network.
-        * [Team](https://docs.solar.org/project/team/) - Information on Solar team.
+        * [Solar](https://docs.solar.org/project/intro/) - Information on Solar project.
         * [Whitepaper](https://docs.solar.org/project/whitepaper/) - Solar Network Whitepaper documents.
     * SDK
         * [Introduction](https://docs.solar.org/sdk/documentation/) - Software development kit introduction.
@@ -279,8 +276,8 @@
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
     * [Solar Poland](https://t.me/SolarNetwork_PL)
+    * [Solar Scandinavia](https://t.me/SolarNetwork_Scandinavia)
     * [Solar Spain](https://t.me/solar_ESP)
-    * [Solar Sweden](https://t.me/SolarNetwork_SE)
 * Solar North America
     * None so far
 * Solar South America
@@ -313,9 +310,10 @@
 * Core Management
     * [Core Control devnet - geops](https://github.com/geopsllc/core-control/tree/sxp-devnet) - Core Control makes node management easy, created by geops.
     * TBC [Core Control mainnet - geops](https://github.com/geopsllc/core-control/tree/sxp-mainnet) - Core Control makes node management easy, created by geops.
+    * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
+    * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
     * [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
-	* [Solar/ARK Node Monitor for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
 * Core Plugins
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - allows relays ran by delegates to be monitored for activity, created by gym.
@@ -352,5 +350,6 @@
         * [Devnet](https://friendsoflittleyus.nl/solar-devnet-network-info/#) - Devnet network information page, created by friendsoflittleyus
         * TBC [Mainnet](TBC) - Mainnet network information page, created by friendsoflittleyus
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
+    * [SXP Directory](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
 
 [Back to top](#Contents)
