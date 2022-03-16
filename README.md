@@ -18,8 +18,8 @@
     - Whitepaper*
     - Roadmap*
     - GitHub
-    - Network: Devnet
     - Network: Mainnet
+    - Network: Testnet
 
 - [Solar Documentation](#solar-documentation)
     - Documentation Website
@@ -96,8 +96,8 @@
 
 * [Solar Github](https://github.com/Solar-Network) - Official Solar GitHub.
     * [Core](https://github.com/Solar-Network/core) - Github Repository for Solar core.
-        * [Core Devnet Setup](https://github.com/Solar-network/core/blob/develop/install-next.sh) - Devnet Core Setup (Automated Relay/Core Setup).
         * [Core Mainnet Setup](https://github.com/Solar-network/core/blob/main/install.sh) - Mainnet Core Setup (Automated Relay/Core Setup).
+        * [Core Testnet Setup](https://github.com/Solar-network/core/blob/develop/install-next.sh) - Testnet Core Setup (Automated Relay/Core Setup).
         * [Mainnet Blockchain Milestones](https://github.com/Solar-network/core/tree/main/packages/crypto/src/networks) - Solar Blockchain Milestones.
     * [Crypto](https://github.com/Solar-Network/crypto) - Github Repository for Solar cryptography.
     * [Crypto Networks](https://github.com/Solar-Network/crypto-networks) - Github Repository for Solar cryptography networks.
@@ -113,17 +113,18 @@
     * [Solar-JS-SLP](https://github.com/Solar-Network/solar-js-slp) - Github Repository for Solar Side Ledger Protocol in JavaScript.
     * [Website](https://github.com/Solar-Network/website) - Github Repository for Solar new website.
 
-*Official Devnet Resources.*
-
-* TBC [Solar Devnet API](TBC) - Solar Devnet API - API's expose different resources and data provided by the Core Server (Node).
-* [Solar Devnet Block Explorer](https://explorer.solar.org/) - Devnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
-* [Solar Devnet Wallet](https://solar.org/#wallet) - Devnet Wallet for managing your SXP.
-
 *Official Mainnet Resources.*
 
 * TBC [Solar Mainnet API](TBC) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
 * TBC [Solar Mainnet Block Explorer](TBC) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
 * [Solar Mainnet Wallet](https://solar.org/#wallet) - Mainnet Wallet for managing your SXP.
+
+*Official Testnet Resources.*
+
+* TBC [Solar Testnet API](TBC) - Solar Testnet API - API's expose different resources and data provided by the Core Server (Node).
+* [Solar Testnet Block Explorer](https://explorer.solar.org/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
+* [Solar Testnet Wallet](https://solar.org/#wallet) - Testnet Wallet for managing your SXP.
+
 
 [Back to top](#Contents)
 
@@ -301,6 +302,7 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
+        * [AMA with Solar Network Community](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Network Community, held on Telegram.
         * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar Network, held on Telegram.
         * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
@@ -308,7 +310,7 @@
     * TBC
     * TBC
 * Core Management
-    * [Core Control devnet - geops](https://github.com/geopsllc/core-control/tree/sxp-devnet) - Core Control makes node management easy, created by geops.
+    * [Core Control testnet - geops](https://github.com/geopsllc/core-control/tree/sxp-devnet) - Core Control makes node management easy, created by geops.
     * TBC [Core Control mainnet - geops](https://github.com/geopsllc/core-control/tree/sxp-mainnet) - Core Control makes node management easy, created by geops.
     * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
@@ -338,7 +340,7 @@
     * TBC
 * Social Media Bots
     * [ARK faucet discord bot - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
-    * [Devnet Faucet - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 devnet SXP coins, and check their balance, created by friendsoflittleyus.
+    * [Testnet Faucet - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
     * TBC
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
@@ -347,8 +349,8 @@
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
     * Solar Network Info - friendsoflittleyus
-        * [Devnet](https://friendsoflittleyus.nl/solar-devnet-network-info/#) - Devnet network information page, created by friendsoflittleyus
-        * TBC [Mainnet](TBC) - Mainnet network information page, created by friendsoflittleyus
+        * TBC [Mainnet](TBC) - Mainnet network information page, created by friendsoflittleyus.
+        * [Testnet](https://friendsoflittleyus.nl/solar-devnet-network-info/#) - Testnet network information page, created by friendsoflittleyus.
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [SXP Directory](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
 
