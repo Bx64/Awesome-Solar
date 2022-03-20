@@ -1,4 +1,4 @@
-# AMA with Solar Network Community
+# AMA with Solar Community
 
 ## English (above) and Turkish (below)
 
@@ -83,7 +83,7 @@ If you found this article helpful, check out [my other articles](https://github.
 
 ---
 
-# AMA with Solar Network Community 
+# AMA with Solar Community 
 
 ## English (above) and Turkish (below)
 

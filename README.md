@@ -133,7 +133,7 @@
 *Official Solar Documentation.*
 
 * [Documentation Website](https://docs.solar.org/) - Official Documentation Website.
-    * [API](https://docs.solar.org/api/) - Solar Network API.
+    * [API](https://docs.solar.org/api/) - Solar API.
         * Manager API
             * [Endpoints](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
             * [Getting Started](https://docs.solar.org/api/manager-api/getting-started/) - Getting started with the manager API.
@@ -164,7 +164,7 @@
             * [Configuring Rate Limits](https://docs.solar.org/exchanges/configuring-rate-limits/) - Guide on how to configure rate limits on your API node.
     * Project
         * [Solar](https://docs.solar.org/project/intro/) - Information on Solar project.
-        * [Whitepaper](https://docs.solar.org/project/whitepaper/) - Solar Network Whitepaper documents.
+        * [Whitepaper](https://docs.solar.org/project/whitepaper/) - Solar Whitepaper documents.
     * SDK
         * [Introduction](https://docs.solar.org/sdk/documentation/) - Software development kit introduction.
         * Guidelines
@@ -222,7 +222,7 @@
 
 *Official Solar Mainnet API Documentation.*
 
-* [Mainnet API](https://docs.solar.org/api/) - Solar Network mainnet API.
+* [Mainnet API](https://docs.solar.org/api/) - Solar mainnet API.
     * Manager API
         * [Endpoints](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
             * [Blockchain](https://docs.solar.org/api/public-rest-api/endpoints/blockchain/) - Documentation on blockchain endpoint.
@@ -302,16 +302,16 @@
 
 * Blogs
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-        * [AMA with Solar Network Community](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Network Community, held on Telegram.
-        * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar Network, held on Telegram.
+        * [AMA with Solar Community](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram.
+        * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram.
         * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * TBC
     * TBC
 * Core Management
-    * [Core Control testnet - geops](https://github.com/geopsllc/core-control/tree/sxp-devnet) - Core Control makes node management easy, created by geops.
-    * TBC [Core Control mainnet - geops](https://github.com/geopsllc/core-control/tree/sxp-mainnet) - Core Control makes node management easy, created by geops.
+    * [Core Control testnet - geops](https://github.com/geopsllc/solar-control/tree/dev) - Core Control makes node management easy, created by geops.
+    * TBC [Core Control mainnet - geops](https://github.com/geopsllc/solar-control/tree/master) - Core Control makes node management easy, created by geops.
     * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
