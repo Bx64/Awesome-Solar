@@ -18,7 +18,7 @@ With transparency in mind, the original article will still be available below fo
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**.
 
 ---
 
@@ -77,4 +77,4 @@ The way fees are distributed or burnt can be summarized in the following way:
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**.

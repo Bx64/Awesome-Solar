@@ -57,4 +57,4 @@ But reward sharing is not everything and lots of delegates offer different thing
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx).
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**.

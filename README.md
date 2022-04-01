@@ -1,5 +1,5 @@
 # Awesome Solar
- A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx), please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
+ A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**, please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
  
  ** Disclaimer - All of the resources available below are publicly available, we cannot guarantee the accuracy or efficacy of the resources listed, and are not liable for any submitted content.
 
@@ -29,6 +29,7 @@
         - Project
         - SDK
         - SXPSwap
+        - Wallets
 
 - [Exchanges](#Exchanges)
     - New
@@ -274,6 +275,7 @@
 * Solar Asia
     * [Solar China](https://t.me/SolarNetwork_CN)
     * [Solar India](https://t.me/solarSXP_india)
+    * [Solar Indonesia](https://t.me/SolarNetwork_Indonesia)
     * [Solar Iran](https://t.me/solarNetwork_IRAN)
     * [Solar Korea](https://t.me/solar_kr)
     * [Solar Russia](https://t.me/SolarNetworkRu)
@@ -355,6 +357,7 @@
     * None so far.
 * Social Media Bots
     * [ARK faucet discord bot - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
+    * [Solar Network Monitor Bot - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
     * [Testnet Faucet - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.

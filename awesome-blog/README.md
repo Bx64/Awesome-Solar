@@ -1,6 +1,6 @@
 # Awesome Solar Blog
 
-In this blog, Solar delegate [bfx](https://delegates.solar.org/dsxp/delegates/bfx) addressess items and subjects pertaining to the Solar Network ecosystem. I explore both simple and more complex topics and try to do this in an accessible way, creating blog posts that are useful for the entire community.
+In this blog, Solar delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)** addressess items and subjects pertaining to the Solar Network ecosystem. I explore both simple and more complex topics and try to do this in an accessible way, creating blog posts that are useful for the entire community.
 
 ## Articles:
 * [AMA with Solar Community](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md)
