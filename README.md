@@ -342,7 +342,9 @@
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
     * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
-    * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
+    * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
+* Desktop Wallet Plugins
+    * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
 * Guides & Articles
     * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
     * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.

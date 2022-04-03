@@ -49,7 +49,7 @@ The community have built some very nice calculators that provide a rough estimat
 
 Therefore, it is advisable that you compare several delegates every few weeks or months so you can vote for a different delegate, maximizing your return. This, of course, is optional but recommended if you want to increase your ROI.
 
-**[Delegate-made reward calculators](https://github.com/Bx64/Awesome-Solar/#tools-delegates)** 
+**[Delegate-made reward calculators](https://github.com/Bx64/Awesome-Solar#tools--resources-delegates)** 
 
 Often, voting for a delegate near the top of the explorer ranking is a trade-off between stability and rewards. A higher ranking delegate might give you less reward per SXP voted, but he might also be at less risk to drop out of the forging delegates. The same principle applies to lower ranked delegaates: they will give you more reward per SXP voting, but it might be good to check whether they still remain in a forging position, every so often. So, if you want to maximise your rewards, dilution is something you have to understand and work with it.
 
