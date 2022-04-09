@@ -57,6 +57,7 @@
     - Core Management
     - Core Plugins
     - Guides & Articles
+    - Network Statistics
     - Products & Stores
     - Reward Calculators
     - Reward Programs
@@ -99,14 +100,14 @@
         * [Core Testnet Setup](https://github.com/Solar-Network/core/tree/develop#installation) - Testnet Core Setup (Automated Relay/Core Setup).
         * [Mainnet Blockchain Milestones](https://github.com/Solar-network/core/blob/main/packages/crypto/src/networks/mainnet/milestones.json) - Solar Blockchain Milestones.
         * [Testnet Blockchain Milestones](https://github.com/Solar-network/core/blob/main/packages/crypto/src/networks/testnet/milestones.json) - Solar Blockchain Milestones.
-    * [Crypto](https://github.com/Solar-Network/crypto) - GitHub Repository for Solar cryptography.
     * [Crypto Networks](https://github.com/Solar-Network/crypto-networks) - GitHub Repository for Solar cryptography networks.
     * [Desktop Wallet](https://github.com/Solar-network/desktop-wallet) - GitHub Repository for the Solar Desktop Wallet.
+    * [Desktop Wallet Plugins](https://github.com/Solar-network/desktop-wallet-plugins) - GitHub Repository for the Solar Desktop Wallet Plugins.
     * [Docs](https://github.com/Solar-Network/docs) - GitHub Repository for Solar documentation.
-    * [Legacy wallet](https://github.com/Solar-Network/legacy-wallet) - GitHub Repository for Solar legacy wallet.
     * [Peers](https://github.com/Solar-Network/peers) - GitHub Repository for Solar seed peers.
     * [PHP Client](https://github.com/Solar-Network/php-client) - GitHub Repository for Solar PHP client.
     * [Python Client](https://github.com/Solar-Network/python-client) - GitHub Repository for Solar Python client.
+    * [Python Crypto](https://github.com/Solar-Network/python-crypto) - GitHub Repository for Solar Python crypto.
     * [Python SLP](https://github.com/Solar-Network/python-slp) - GitHub Repository for Solar Side Ledger Protocol in Python.
     * [Solar Explorer](https://github.com/Solar-Network/solar-explorer) - GitHub Repository for Solar explorer.
     * [Solar-JS-SDK](https://github.com/Solar-Network/solar-js-sdk) - GitHub Repository for Solar JavaScript software development kit.
@@ -273,11 +274,13 @@
     * [Solar Africa](https://t.me/SolarNetwork_Africa)
     * [Solar Nigeria](https://t.me/SolarNetwork_Nigeria)
 * Solar Asia
+    * [Solar Bangladesh]((https://t.me/SolarNetwork_Bangladesh)
     * [Solar China](https://t.me/SolarNetwork_CN)
     * [Solar India](https://t.me/solarSXP_india)
     * [Solar Indonesia](https://t.me/SolarNetwork_Indonesia)
     * [Solar Iran](https://t.me/solarNetwork_IRAN)
     * [Solar Korea](https://t.me/solar_kr)
+    * [Solar Phillippines](https://t.me/SolarNetwork_Phillippines)
     * [Solar Russia](https://t.me/SolarNetworkRu)
     * [Solar Turkey](https://t.me/solarnetwork_tr)
     * [Solar Vietnam](https://t.me/Solar_VN)
@@ -347,14 +350,22 @@
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
 * Guides & Articles
     * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
+    * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
+    * [How to create SXP wallet - arktoshi](https://sxpdirectory.com/create-sxp-wallet/) - Information on how to create a SXP wallet, created by arktoshi.
+    * [How to Stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
     * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
     * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Information about voting for a delegate and how dilution impacts your returns, created by bfx.
+* Network Statistics
+    * Solar Network Info - friendsoflittleyus
+        * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
+        * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
+    * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
 * Reward Calculators
     * [dpos.info - dated](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dated.
-    * [SXP Stake Calculator - fonk](https://github.com/qvanphong/sxp-stake-calculator) - Stake calculator website, created by fonk.
+    * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
 * Reward Programs
     * None so far.
 * Social Media Bots
@@ -368,9 +379,6 @@
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
     * [Solar Block Explorer - cactus1549](https://explore.solar/) - An alternative block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
-    * Solar Network Info - friendsoflittleyus
-        * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
-        * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
 
