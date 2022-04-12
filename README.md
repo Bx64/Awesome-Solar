@@ -56,6 +56,7 @@
     - Blogs & Podcasts
     - Core Management
     - Core Plugins
+    - Desktop Wallet Plugins
     - Guides & Articles
     - Network Statistics
     - Products & Stores
@@ -113,6 +114,7 @@
     * [Solar-JS-SDK](https://github.com/Solar-Network/solar-js-sdk) - GitHub Repository for Solar JavaScript software development kit.
     * [Solar-JS-SLP](https://github.com/Solar-Network/solar-js-slp) - GitHub Repository for Solar Side Ledger Protocol in JavaScript.
     * [Swap Contract](https://github.com/Solar-network/swap-contract) - GitHub Repository for Solar ERC-20/BSC-20 > SXP (Solar) swap.
+    * [Translations](https://github.com/Solar-network/translations) - GitHub Repository for Solar translations.
     * [Website](https://github.com/Solar-Network/website) - GitHub Repository for Solar new website.
 
 ***Official** Mainnet Resources.*
@@ -274,7 +276,7 @@
     * [Solar Africa](https://t.me/SolarNetwork_Africa)
     * [Solar Nigeria](https://t.me/SolarNetwork_Nigeria)
 * Solar Asia
-    * [Solar Bangladesh]((https://t.me/SolarNetwork_Bangladesh)
+    * [Solar Bangladesh](https://t.me/SolarNetwork_Bangladesh)
     * [Solar China](https://t.me/SolarNetwork_CN)
     * [Solar India](https://t.me/solarSXP_india)
     * [Solar Indonesia](https://t.me/SolarNetwork_Indonesia)
@@ -292,12 +294,13 @@
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
     * [Solar Poland](https://t.me/SolarNetwork_PL)
+    * [Solar Romania](https://t.me/Solar_RO)
     * [Solar Scandinavia](https://t.me/SolarNetwork_Scandinavia)
     * [Solar Spain](https://t.me/solar_ESP)
 * Solar North America
     * None so far.
 * Solar South America
-    * None so far.
+    * [Solar Brasil](https://t.me/SolarNetwork_Brasil)
 
 [Back to top](#Contents)
 
@@ -312,6 +315,7 @@
     * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
     * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
     * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
+    * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
     * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
     * [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
     * [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
@@ -331,7 +335,9 @@
         * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * Solar Summarization Podcasts - sigma
         * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization, created by sigma.
+        * [Episode 2](https://youtu.be/3JK1by-SgqQ) - Second episode of Solar Summarization, created by sigma.
 * Core Management
+    * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends delegate change notifications to Discord, created by biz_classic.
     * Core Control - geops
         * [Solar Control mainnet - geops](https://github.com/geopsllc/solar-control/tree/master) - Core Control makes node management easy, created by geops.
         * [Solar Control testnet - geops](https://github.com/geopsllc/solar-control/tree/dev) - Core Control makes node management easy, created by geops.
@@ -340,6 +346,7 @@
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
     * [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
+    * [TBW Node monitoring - sevi](https://github.com/sevi93/tbw_node_monitoring/) - Node monitoring tool for your TBW relay node, created by sevi.
 * Core Plugins
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
@@ -360,14 +367,17 @@
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
+    * [Swap and burn information - dpos.info](https://dpos.info/stats/solar) - Information on total swapped amount and total fees burned, created by dpos.info
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
 * Reward Calculators
-    * [dpos.info - dated](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dated.
+    * [dpos.info - dpos.info](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
 * Reward Programs
-    * None so far.
+    * [Learn about Solar Network - CoinMarketCap](https://coinmarketcap.com/earn/project/solar) - Learn & Earn campaign on CoinMarketCap, created by Solar.
+    * [Relay Node Programs - cams_yellow_jacket](https://sites.google.com/view/cyjsrelaynodeprograms/home) - Users will be rewarded with SXP for running a relay node, created by cams_yellow_jacket.
+    * [SXP faucet - biz_classic](https://solar.classicdelegate.biz/faucet) - Users can roll and will be rewarded SXP based on roll result, created by biz_classic.
 * Social Media Bots
     * [ARK faucet discord bot - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
     * [Solar Network Monitor Bot - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
@@ -379,7 +389,16 @@
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
     * [Solar Block Explorer - cactus1549](https://explore.solar/) - An alternative block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
+    * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
+    * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/voters) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
+    * Delegate websites
+        * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.
+        * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
+        * [Solar - friendsoflittleyus](https://friendsoflittleyus.nl/) - Website with delegate information, created by friendsoflittleyus.
+        * [Solar - fun](https://www.arkfun.io/) - Website with delegate information, created by fun.
+        * [Solar - mtaylan](https://solar.mtaylan.com/) - Website with delegate information, created by mtaylan.
+        * [Solar - osrn](https://osrn.github.io/) - Website with delegate information, created by osrn.
 
 [Back to top](#Contents)
