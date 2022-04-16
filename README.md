@@ -37,7 +37,6 @@
     
 - [Mainnet API Documentation](#mainnet-api-documentation)
     - Mainnet API
-        - Manager API
         - Public REST-API
         - Webhook API
 
@@ -65,6 +64,7 @@
     - Social Media Bots
     - True Block Weight Payout Scripts
     - Websites
+        - Delegate Websites
 
 [Back to top](#Contents)
 
@@ -137,9 +137,6 @@
 
 * [Documentation Website](https://docs.solar.org/) - Official Documentation Website.
     * [API](https://docs.solar.org/api/) - Solar API.
-        * Manager API
-            * [Endpoints](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
-            * [Getting Started](https://docs.solar.org/api/manager-api/getting-started/) - Getting started with the manager API.
         * Public REST-API
             * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
             * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
@@ -237,18 +234,6 @@
 ***Official** Solar Mainnet API Documentation.*
 
 * [Mainnet API](https://docs.solar.org/api/) - Solar mainnet API.
-    * Manager API
-        * [Endpoints](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Explanation about possible manager API endpoints.
-            * [Blockchain](https://docs.solar.org/api/public-rest-api/endpoints/blockchain/) - Documentation on blockchain endpoint.
-            * [Blocks](https://docs.solar.org/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
-            * [Delegates](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
-            * [Introduction](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Introduction on Manager API endpoints.
-            * [Node](https://docs.solar.org/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
-            * [Peers](https://docs.solar.org/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
-            * [Transactions](https://docs.solar.org/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
-            * [Votes](https://docs.solar.org/api/public-rest-api/endpoints/votes/) - Documentation on votes endpoint.
-            * [Wallets](https://docs.solar.org/api/public-rest-api/endpoints/wallets/) - Documentation on wallets endpoint.
-        * [Getting Started](https://docs.solar.org/api/manager-api/getting-started/) - Getting started with the manager API.
     * Public REST-API
         * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
         * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
@@ -368,6 +353,7 @@
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
     * [Swap and burn information - dpos.info](https://dpos.info/stats/solar) - Information on total swapped amount and total fees burned, created by dpos.info
+    * [Vote Report - biz_classic](https://solar.classicdelegate.biz/api/delegate/voteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
@@ -391,9 +377,9 @@
     * [Solar Block Explorer - cactus1549](https://explore.solar/) - An alternative block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
     * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
-    * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/voters) - Voter and position changes of Solar delegates, created by arbaro.
+    * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
-    * Delegate websites
+    * Delegate Websites
         * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.
         * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
         * [Solar - friendsoflittleyus](https://friendsoflittleyus.nl/) - Website with delegate information, created by friendsoflittleyus.
