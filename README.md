@@ -213,8 +213,8 @@
 *Exchanges where SXP can be traded.*
 
 * New
-    * None so far.
-* [Old](https://coinmarketcap.com/currencies/swipe/markets/) - Several listed below, more available here.
+    * [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
+* Old(https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
     * [Binance](https://www.binance.com/en/trade/SXP_USDT)
     * [Bithumb](https://www.bithumb.com/trade/order/SXP_KRW)
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
@@ -225,7 +225,6 @@
     * [Huobi](https://www.huobi.com/en-us/exchange/sxp_usdt)
     * [KuCoin](https://trade.kucoin.com/SXP-USDT)
     * [Poloniex](https://poloniex.com/exchange/BTC_SXP)
-    * [Uniswap](https://etherscan.io/token/0x8ce9137d39326ad0cd6491fb5cc0cba0e089b6a9)
 
 [Back to top](#Contents)
 
@@ -276,10 +275,11 @@
 * Solar Europe
     * [Solar Balkan](https://t.me/SolarNetwork_Balkans)
     * [Solar France](https://t.me/SolarNetwork_FR)
+    * [Solar Germany](https://t.me/solarNetwork_Germany)
     * [Solar Italy](https://t.me/solarNetwork_IT)
     * [Solar Netherlands](https://t.me/Solar_Dutch)
     * [Solar Poland](https://t.me/SolarNetwork_PL)
-    * [Solar Romania](https://t.me/Solar_RO)
+    * [Solar Romania](https://t.me/SolarNetwork_Romania)
     * [Solar Scandinavia](https://t.me/SolarNetwork_Scandinavia)
     * [Solar Spain](https://t.me/solar_ESP)
 * Solar North America
@@ -354,6 +354,7 @@
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
     * [Swap and burn information - dpos.info](https://dpos.info/stats/solar) - Information on total swapped amount and total fees burned, created by dpos.info
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/api/delegate/voteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
+    * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
