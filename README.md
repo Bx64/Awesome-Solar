@@ -354,13 +354,13 @@
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
     * [Swap and burn information - dpos.info](https://dpos.info/stats/solar) - Information on total swapped amount and total fees burned, created by dpos.info
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/api/delegate/voteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
-    * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
 * Reward Calculators
     * [dpos.info - dpos.info](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
+    * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
 * Reward Programs
     * [Learn about Solar Network - CoinMarketCap](https://coinmarketcap.com/earn/project/solar) - Learn & Earn campaign on CoinMarketCap, created by Solar.
     * [Relay Node Programs - cams_yellow_jacket](https://sites.google.com/view/cyjsrelaynodeprograms/home) - Users will be rewarded with SXP for running a relay node, created by cams_yellow_jacket.
