@@ -213,7 +213,17 @@
 *Exchanges where SXP can be traded.*
 
 * New
-    * [Upbit](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
+    * [Upbit](https://upbit.com)
+        * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-BTC)
+        * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
+    * [XeggeX](https://xeggex.com)
+        * [SXP - ARK](https://xeggex.com/market/SXP_ARK)
+        * [SXP - BTC](https://xeggex.com/market/SXP_BTC)
+        * [SXP - BNB](https://xeggex.com/market/SXP_BNB)
+        * [SXP - ETH](https://xeggex.com/market/SXP_ETH)
+        * [SXP - USDT](https://xeggex.com/market/SXP_USDT)
+        * [SXP - USDC](https://xeggex.com/market/SXP_USDC)
+        * [SXP - XQR](https://xeggex.com/market/SXP_XQR)
 * Old(https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
     * [Binance](https://www.binance.com/en/trade/SXP_USDT)
     * [Bithumb](https://www.bithumb.com/trade/order/SXP_KRW)
