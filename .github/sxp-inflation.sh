@@ -9,7 +9,7 @@ ENDCOLOUR="\e[0m"
 # genesisSupply = 520737576  || https://explore.solar/blocks/e492f9d34df01238fda8bac79be19cb77656f444347d076a55811f909eb24e3a
 
 currentUnixTs=$(date +%s)
-currentSupply=$(curl -sS supply.mainnet.sh)
+currentSupply=$(curl -sS https://supply.mainnet.sh)
 
 echo ""
 echo -e "${RED}Genesis supply was:${ENDCOLOUR}"

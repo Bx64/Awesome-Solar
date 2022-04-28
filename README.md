@@ -112,7 +112,6 @@
     * [Python SLP](https://github.com/Solar-Network/python-slp) - GitHub Repository for Solar Side Ledger Protocol in Python.
     * [Solar Explorer](https://github.com/Solar-Network/solar-explorer) - GitHub Repository for Solar explorer.
     * [Solar-JS-SDK](https://github.com/Solar-Network/solar-js-sdk) - GitHub Repository for Solar JavaScript software development kit.
-    * [Solar-JS-SLP](https://github.com/Solar-Network/solar-js-slp) - GitHub Repository for Solar Side Ledger Protocol in JavaScript.
     * [Swap Contract](https://github.com/Solar-network/swap-contract) - GitHub Repository for Solar ERC-20/BSC-20 > SXP (Solar) swap.
     * [Translations](https://github.com/Solar-network/translations) - GitHub Repository for Solar translations.
     * [Website](https://github.com/Solar-Network/website) - GitHub Repository for Solar new website.
@@ -188,7 +187,7 @@
     * SXPSwap
         * [Introduction](https://docs.solar.org/sxpswap/introduction/) - Introduction to the ERC-20/BSC-20 to Solar Mainnet swap.
         * Swap / Migration
-            * [Users](https://docs.solar.org/sxpswap/users/getting-started/) - Getting started with your swap for users.
+            * [Users](https://docs.solar.org/sxpswap/users/metamask/) - Getting started with your swap for users of MetaMask or Trust Wallet.
             * [Exchanges](https://docs.solar.org/sxpswap/exchanges/getting-started/) - Getting started with your migration for exchanges.
         * Technical Details
             * [Security](https://docs.solar.org/sxpswap/technical-details/security/introduction/) - Security technical details for the swap.
@@ -214,7 +213,7 @@
 
 * New
     * [Upbit](https://upbit.com)
-        * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-BTC)
+        * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-SXP)
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
     * [XeggeX](https://xeggex.com)
         * [SXP - ARK](https://xeggex.com/market/SXP_ARK)
@@ -224,7 +223,7 @@
         * [SXP - USDT](https://xeggex.com/market/SXP_USDT)
         * [SXP - USDC](https://xeggex.com/market/SXP_USDC)
         * [SXP - XQR](https://xeggex.com/market/SXP_XQR)
-* Old(https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
+* [Old](https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
     * [Binance](https://www.binance.com/en/trade/SXP_USDT)
     * [Bithumb](https://www.bithumb.com/trade/order/SXP_KRW)
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
@@ -246,13 +245,14 @@
     * Public REST-API
         * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
         * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
-            * [Configuration](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Documentation on Public REST-API configuration.
-            * [Info](https://docs.solar.org/api/manager-api/endpoints/info/) - Documentation on info endpoint.
-            * [Log](https://docs.solar.org/api/manager-api/endpoints/log/) - Documentation on log endpoint.
-            * [Plugin](https://docs.solar.org/api/manager-api/endpoints/plugin/) - Documentation on plugin endpoint.
-            * [Process](https://docs.solar.org/api/manager-api/endpoints/process/) - Documentation on process endpoint.
-            * [Snapshots](https://docs.solar.org/api/manager-api/endpoints/snapshots/) - Documentation on snapshots endpoint.
-            * [Watcher](https://docs.solar.org/api/manager-api/endpoints/watcher/) - Documentation on watcher endpoint.
+            * [Blockchain](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Documentation on blockchain endpoint.
+            * [Blocks](https://docs.solar.org/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
+            * [Delegates](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
+            * [Node](https://docs.solar.org/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
+            * [Peers](https://docs.solar.org/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
+            * [Transactions](https://docs.solar.org/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
+            * [Votes](https://docs.solar.org/api/public-rest-api/endpoints/votes/) - Documentation on votes endpoint.
+            * [Wallets](https://docs.solar.org/api/public-rest-api/endpoints/wallets/) - Documentation on wallets endpoint.
         * [Modify API response](https://docs.solar.org/api/public-rest-api/modify-response/) - How to modify the API response.
         * [Troubleshooting](https://docs.solar.org/api/public-rest-api/troubleshooting/) - Troubleshooting the public API.
     * Webhook API
