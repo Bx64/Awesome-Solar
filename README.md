@@ -48,11 +48,9 @@
     - Solar North America
     - Solar South America
 
-- [Tools & Resources (Community)](#tools--resources-community)
-    - Community AMA-events
-    
 - [Tools & Resources (Delegates)](#tools--resources-delegates)
     - Blogs & Podcasts
+    - Community AMA-events
     - Core Management
     - Core Plugins
     - Desktop Wallet Plugins
@@ -299,24 +297,6 @@
 
 [Back to top](#Contents)
 
-## Tools & Resources (Community)
-
-***Unofficial** tools & resources developed by Solar community members.*
-
-* Community AMA-events
-    * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
-    * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
-    * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
-    * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
-    * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
-    * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
-    * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
-    * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
-    * [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
-    * [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
-
-[Back to top](#Contents)
-
 ## Tools & Resources (Delegates)
 
 ***Unofficial** tools & resources developed by Solar delegates.*
@@ -331,6 +311,18 @@
     * Solar Summarization Podcasts - sigma
         * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization, created by sigma.
         * [Episode 2](https://youtu.be/3JK1by-SgqQ) - Second episode of Solar Summarization, created by sigma.
+* Community AMA-events
+    * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
+    * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
+    * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+    * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
+    * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
+    * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
+    * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
+    * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
+    * [NowPayments & delegate sigma](https://twitter.com/NOWPayments_io/status/1506681181756137479) - AMA with sigma on Solar on NowPayments Twitter Spaces.
+    * [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
+    * [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
 * Core Management
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends delegate change notifications to Discord, created by biz_classic.
     * Core Control - geops
@@ -376,9 +368,10 @@
     * [Relay Node Programs - cams_yellow_jacket](https://sites.google.com/view/cyjsrelaynodeprograms/home) - Users will be rewarded with SXP for running a relay node, created by cams_yellow_jacket.
     * [SXP faucet - biz_classic](https://solar.classicdelegate.biz/faucet) - Users can roll and will be rewarded SXP based on roll result, created by biz_classic.
 * Social Media Bots
-    * [ARK faucet discord bot - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
-    * [Solar Network Monitor Bot - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
-    * [Testnet Faucet - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
+    * [ARK Faucet (Discord) - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
+    * [BurnSxpDaily Tracker (Twitter) - mtaylan](https://twitter.com/BurnSxpDaily) - Automatically updating burn tracker bot on Twitter, created by mtaylan.
+    * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
+    * [Testnet Faucet (Telegram) - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
