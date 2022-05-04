@@ -309,8 +309,9 @@
         * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * Solar Summarization Podcasts - sigma
-        * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization, created by sigma.
-        * [Episode 2](https://youtu.be/3JK1by-SgqQ) - Second episode of Solar Summarization, created by sigma.
+        * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization; on Solar mainnet launch, created by sigma.
+        * [Episode 2](https://www.youtube.com/watch?v=3JK1by-SgqQ) - Second episode of Solar Summarization; on Solar desktop wallet, created by sigma.
+        * [Episode 3](https://www.youtube.com/watch?v=nMKJJSnsH9A) - Third episode of Solar Summarization; on Awesome Solar, created by sigma.
 * Community AMA-events
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
