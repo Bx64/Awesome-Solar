@@ -210,6 +210,10 @@
 *Exchanges where SXP can be traded.*
 
 * New
+    * [Gate.io](https://www.gate.io/)
+        * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
+        * [SXP - USD](https://www.gate.io/trade/SXP_USD)
+        * [SXP - USDT](https://www.gate.io/trade/SXP_USDT)
     * [Upbit](https://upbit.com)
         * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-SXP)
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
@@ -228,7 +232,6 @@
     * [Bittrex](https://global.bittrex.com/Market/Index?MarketName=BTC-SXP)
     * [Coinone](https://coinone.co.kr/exchange/trade/sxp/)
     * [FTX](https://ftx.com/trade/SXP/USD)
-    * [Gate](https://www.gate.io/trade/sxp_usdt)
     * [Huobi](https://www.huobi.com/en-us/exchange/sxp_usdt)
     * [KuCoin](https://trade.kucoin.com/SXP-USDT)
     * [Poloniex](https://poloniex.com/exchange/BTC_SXP)
@@ -346,6 +349,7 @@
 * Guides & Articles
     * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
     * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
+    * [Fix common wallet issues - arktoshi](https://sxpdirectory.com/fix-common-issues/) - Information on how to fix common wallet issues, created by arktoshi.
     * [How to create SXP wallet - arktoshi](https://sxpdirectory.com/create-sxp-wallet/) - Information on how to create a SXP wallet, created by arktoshi.
     * [How to Stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
     * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
