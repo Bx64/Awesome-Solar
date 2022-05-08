@@ -28,7 +28,7 @@
 - I add to and improve existing contributions, such as with the node monitoring script
 - I try to be engaged with the community and help spread awareness by providing the community with resources and information.
 
-You can read more about my intentions and view my full proposal here: [BFX delegate proposal](https://delegates.solar.org/sxp/delegates/bfx).
+You can read more about my intentions and view my full proposal here: [BFX delegate proposal](https://delegates.solar.org/delegates/bfx).
 
 **Leonidas:** Thank you for your answers, if you're ready I'll take a chat for the community to ask their questions.
 
@@ -79,7 +79,7 @@ I think this concludes most of the questions, when I scan them there are similar
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate ****[bfx](https://delegates.solar.org/sxp/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate ****[bfx](https://delegates.solar.org/delegates/bfx)**.
 
 ---
 
@@ -113,7 +113,7 @@ If you found this article helpful, check out [my other articles](https://github.
 - Düğüm izleme komut dosyası gibi mevcut katkıları eklemeye ve iyileştirmeye çalışacağım;
 - Topluluğa katılmaya ve topluluğa kaynak ve bilgi sağlayarak farkındalığın yayılmasına yardımcı olmaya çalışıyorum.
 
-Niyetlerim hakkında daha fazla bilgi edinebilir ve teklifimin tamamını buradan görüntüleyebilirsiniz: [BFX delege önerisi](https://delegates.solar.org/sxp/delegates/bfx)
+Niyetlerim hakkında daha fazla bilgi edinebilir ve teklifimin tamamını buradan görüntüleyebilirsiniz: [BFX delege önerisi](https://delegates.solar.org/delegates/bfx)
 
 **Leonidas:** Cevapların için teşekkür ederim, eğer hazırsan topluluğa sorularını sormaları için sohbetti acağım.
 
@@ -164,4 +164,4 @@ Sanırım bu, soruların çoğunu sonlandırıyor, onları taradığımda cevapl
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/delegates/bfx)**.

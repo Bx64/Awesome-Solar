@@ -1,5 +1,5 @@
 # Awesome Solar
- A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate **[bfx](https://delegates.solar.org/sxp/delegates/bfx)**, please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
+ A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate **[bfx](https://delegates.solar.org/delegates/bfx)**, please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
  
  ** Disclaimer - All of the resources available below are publicly available, we cannot guarantee the accuracy or efficacy of the resources listed, and are not liable for any submitted content.
 
@@ -119,6 +119,7 @@
 * [Solar Mainnet API](https://sxp.mainnet.sh/api/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Solar Mainnet Block Explorer](https://explorer.solar.org/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
 * [Solar Mainnet Wallet](https://solar.org/desktop-wallet/) - Mainnet Wallet for managing your SXP.
+* [Solar Mainnet Delegate Proposals](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
 
 ***Official** Testnet Resources.*
 
@@ -389,6 +390,7 @@
     * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
     * Delegate Websites
+        * [Delegate Proposals Website - leitesv](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
         * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.
         * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
         * [Solar - friendsoflittleyus](https://friendsoflittleyus.nl/) - Website with delegate information, created by friendsoflittleyus.
