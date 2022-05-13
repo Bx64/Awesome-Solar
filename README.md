@@ -55,6 +55,7 @@
     - Core Plugins
     - Desktop Wallet Plugins
     - Guides & Articles
+    - Interoperability
     - Network Statistics
     - Products & Stores
     - Reward Calculators
@@ -340,6 +341,8 @@
     * [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
     * [TBW Node monitoring - sevi](https://github.com/sevi93/tbw_node_monitoring/) - Node monitoring tool for your TBW relay node, created by sevi.
 * Core Plugins
+    * [Core Auto Refunds - dpos.info](https://github.com/dpos-info/core-auto-refunds) - Auto refund plugin for HTLC unlocks, created by dpos.info.
+    * [Core Voter Count - dpos.info](https://github.com/dpos-info/core-voter-count) - Adds voter count to delegates API response, created by dpos.info.
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
@@ -355,7 +358,10 @@
     * [How to Stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
     * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
     * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Information about voting for a delegate and how dilution impacts your returns, created by bfx.
+* Interoperability
+    * [Jumpgate - deadlock](https://github.com/deadlock-delegate/jumpgate) - A portal between DPoS blockchains, created by deadlock.
 * Network Statistics
+    * [Delegate Rankings Visualiser - friendsoflittleyus](https://solar.friendsoflittleyus.nl/delegate-ranking) - A delegate ranking change visualiser, created by friendsoflittleyus.
     * Solar Network Info - friendsoflittleyus
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
@@ -368,6 +374,7 @@
 * Reward Calculators
     * [dpos.info - dpos.info](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
+    * [Verifier - st3v3n](https://verifier.dutchpool.io/solar/#/) - A payout verifier, created by st3v3n.
     * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
 * Reward Programs
     * [Learn about Solar Network - CoinMarketCap](https://coinmarketcap.com/earn/project/solar) - Learn & Earn campaign on CoinMarketCap, created by Solar.
@@ -395,6 +402,7 @@
         * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
         * [Solar - friendsoflittleyus](https://friendsoflittleyus.nl/) - Website with delegate information, created by friendsoflittleyus.
         * [Solar - fun](https://www.arkfun.io/) - Website with delegate information, created by fun.
+        * [Solar - kimchi](https://www.kimchigraphics.com/) - Website with 2D & 3D graphics, created by kimchi.
         * [Solar - mtaylan](https://solar.mtaylan.com/) - Website with delegate information, created by mtaylan.
         * [Solar - osrn](https://osrn.github.io/) - Website with delegate information, created by osrn.
 
