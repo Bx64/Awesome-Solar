@@ -54,6 +54,7 @@
     - Core Management
     - Core Plugins
     - Desktop Wallet Plugins
+    - Development Packages
     - Guides & Articles
     - Interoperability
     - Network Statistics
@@ -350,12 +351,18 @@
     * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
+* Development Packages
+    * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
 * Guides & Articles
     * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
     * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
     * [Fix common wallet issues - arktoshi](https://sxpdirectory.com/fix-common-issues/) - Information on how to fix common wallet issues, created by arktoshi.
     * [How to create SXP wallet - arktoshi](https://sxpdirectory.com/create-sxp-wallet/) - Information on how to create a SXP wallet, created by arktoshi.
-    * [How to Stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
+    * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
+    * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
+    * [How to stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
+    * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
+    * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
     * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
     * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Information about voting for a delegate and how dilution impacts your returns, created by bfx.
 * Interoperability
@@ -366,13 +373,11 @@
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
-    * [Swap and burn information - dpos.info](https://dpos.info/stats/solar) - Information on total swapped amount and total fees burned, created by dpos.info
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/api/delegate/voteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
 * Reward Calculators
-    * [dpos.info - dpos.info](https://rewards.dpos.info/) - Reward calculator for multiple blockchains including Solar, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
     * [Verifier - st3v3n](https://verifier.dutchpool.io/solar/#/) - A payout verifier, created by st3v3n.
     * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
@@ -391,11 +396,13 @@
     * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
+    * [Contributions - aurelion_sol](https://aurelion-sol.com/contributions.txt) - A text list of delegate contributions reported on the delegate proposal site, created by aurelion_sol.
     * [Solar Block Explorer - cactus1549](https://explore.solar/) - An alternative block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
     * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
+    * [Voter Chat - friendsoflittleyus](http://chat.littleyus.com/) - Proof of concept chat app that uses MQTT and Solar testnet wallets to sign messages.
     * Delegate Websites
         * [Delegate Proposals Website - leitesv](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
         * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.

@@ -2,7 +2,7 @@
 
 If you talk about voting & earning rewards on the Solar Mainnet network, a word that you hear all the time is “dilution”, yet not everyone has a clear picture what that means for the voter.
 
-In this blog post we will try to clarify how dilution and voting for high ranked delegates doesn't always provide voters with the best return for their vote power. The basic principle is this: each delegate forges the same amount of blocks and earns the same amount of block rewards per day: ~2,037 SXP per day (203.7 blocks worth 10 SXP each). These rewards can be shared with their voters. A larger total of voters means less reward per SXP for each voter. This is called vote dilution. 
+In this blog post we will try to clarify how dilution and voting for high ranked delegates doesn't always provide voters with the best return for their vote power. The basic principle is this: each delegate forges the same amount of blocks per day. Although the block rewards differ from 6.75 - 13.25 SXP (average: 10 SXP per block) based on rank, on average a delegate forges ~2,037 SXP per day (203.7 blocks worth an average of 10 SXP each). These rewards can be shared with their voters. A larger total of voters means less reward per SXP for each voter. This is called vote dilution. 
 
 Secondly, the explorer ranks delegates by the total vote power/influence of all their voters combined. This is not a good measure for which delegate will provide voters with the highest return for their vote.
 
@@ -31,9 +31,9 @@ As a voter your aim is to find a delegate who offers what you, the voter, wants.
 
 The aim of this section is to help clarify the effect delegates share and vote weight have on reward payouts. We will give four examples with virtual delegates.
 
-(1) We are going to use some easier to understand numbers. Lets say a delegate has 2,000,000 total vote power/influence and this puts them at rank 50. A Solar Delegate produces circa 2,037 SXP per day (regardless of their position in the top 53). Lets also say this delegate shares 50% of their block rewards, about 1,018 SXP a day. In this hypothetical scenario, this means that for every 1,000 SXP voting for this delegate, 0.509 SXP are rewarded to voters each day (1,000 / 2,000,000 * 1,018 = 0.509 SXP).
+(1) We are going to use some easier to understand numbers. Lets say a delegate has 2,000,000 total vote weight and this puts them at rank 50. A Solar delegate at rank 50 produces ~2,623 SXP per day (based on their position in the top 53). Lets also say this delegate shares 50% of their block rewards, about 1,311.5 SXP a day. In this hypothetical scenario, this means that for every 1,000 SXP voting for this delegate, 0.65575 SXP are rewarded to voters each day (1,000 / 2,000,000 * 0.50 * 2,623 = 0.65575 SXP).
 
-(2) Now for comparison, we have another delegate. They have 10,000,000 total vote power/influence and are at rank 2. Assuming they share 100% of block rewards (2,037 SXP per day), this means that for every 1,000 SXP voting for this delegate, 0.2037 SXP are rewarded to voters each day (1,000 / 10,000,000 * 2,037 = 0.2037 SXP). This means that you earn ~60% less voting for this high-ranked delegate, despite him sharing double the amount of the former delegate.
+(2) Now for comparison, we have another delegate. They have 5,000,000 total vote weight and are at rank 2. A Solar delegate at rank 2 produces ~1,400 SXP per day (based on their position in the top 53), this means that for every 1,000 SXP voting for this delegate, 0.28 SXP are rewarded to voters each day (1,000 / 5,000,000 * 1.00 * 1,400 = 0.28 SXP). This means that you earn ~58% less voting for this high-ranked delegate, despite him sharing double the amount of the former delegate.
 
 
 ### While the sharing percentages are lower, the smaller portion of total votes it needs to be divided through makes it more profitable to vote for the lower ranked delegate.
@@ -43,7 +43,7 @@ The aim of this section is to help clarify the effect delegates share and vote w
 
 **We have used extreme examples here, but this has been done to demonstrate the principle of vote dilution and it's effects.**
 
-Dilution of votes for Solar Delegates will adjust constantly based on vote weight. That is also the reason why reward sharing to voters fluctuates with every payment run. 
+Dilution of votes for Solar delegates will adjust constantly based on vote weight. That is also the reason why reward sharing to voters fluctuates with every payment run. 
 
 The community have built some very nice calculators that provide a rough estimate of the reward you can expect - but its not a number set in stone, as the amount of votes can change over time, and sometimes even share percentages are adjusted. Of course, as more people start voting for the lower sharing delegates, their profitability will also start to drop. 
 
