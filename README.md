@@ -73,6 +73,7 @@
 ***Official** Solar Websites. Listed first due to relevance.*
 
 * [Solar Website](https://solar.org/) - Official Solar Website.
+* [Solar Blog](https://blog.solar.org/) - Official Solar Blog.
 * [Solar Documentation](https://github.com/Solar-network/docs) - Solar Documentation Suite.
 * [Solar Introduction](https://blog.swipe.io/meet-solar-an-energy-efficient-delegated-proof-of-stake-blockchain-rebranded-for-sxp-d8cc714f21c7) - Blog Introducing Solar Blockchain.
 * Solar Social Media:
@@ -349,6 +350,7 @@
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
     * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
+    * [Solar Vote - geops](https://github.com/Bx64/solar-vote) - Tool to monitor your votes and get recommendations on vote switches, created by geops.
     * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
@@ -393,6 +395,9 @@
     * [Testnet Faucet (Telegram) - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
 * True Block Weight Payout Scripts
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
+    * [core2_tbw - osrn](https://github.com/osrn/core2_tbw) - Automated payout script for delegates (free to use), updated by osrn.
+    * [core3-tbw - goose](https://github.com/galperins4/core3-tbw) - Automated payout script for delegates (free to use), created by goose.
+    * [core3-tbw - osrn](https://github.com/osrn/core3-tbw) - Automated payout script for delegates (free to use), updated by osrn.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
     * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
 * Websites
