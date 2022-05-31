@@ -214,6 +214,8 @@
 *Exchanges where SXP can be traded.*
 
 * New
+    * [Bitget](https://www.bitget.com/)
+        * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
