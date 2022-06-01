@@ -215,6 +215,7 @@
 
 * New
     * [Bitget](https://www.bitget.com/)
+        * [SXP - USDT](https://www.bitget.com/en/spot/SXPUSDT_SPBL)
         * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
@@ -342,16 +343,20 @@
     * [Delegate Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for delegates across multiple chains including Solar, created by geops.
     * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
+    * [Solar CLI - friendsoflittleyus](https://github.com/PhillipJacobsen/solar-cli) - A command line interface to perform tasks such as check wallet balance, sign / verify messages, and send transactions, created by friendsoflittleyus.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
     * [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
     * [TBW Node monitoring - sevi](https://github.com/sevi93/tbw_node_monitoring/) - Node monitoring tool for your TBW relay node, created by sevi.
 * Core Plugins
+    * [Core API Extensions - friendsoflittleyus](https://github.com/e-m-s-y/core-api-extension/tree/solar) - A core plugin that extends the core-api package by adding custom endpoints, created by friendsoflittleyus.
     * [Core Auto Refunds - dpos.info](https://github.com/dpos-info/core-auto-refunds) - Auto refund plugin for HTLC unlocks, created by dpos.info.
     * [Core Voter Count - dpos.info](https://github.com/dpos-info/core-voter-count) - Adds voter count to delegates API response, created by dpos.info.
+    * [MQTT plugin - deadlock](https://github.com/deadlock-delegate/mqtt) - MQTT plugin that broadcasts events to a MQTT broker, created by deadlock.
     * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
     * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
+    * [Socket Event Forwarder - friendsoflittleyus](https://github.com/e-m-s-y/socket-event-forwarder/tree/solar) - A bridgechian plugin for forwarding real-time blockchain events through socket.io, created by friendsoflittleyus.
     * [Solar Vote - geops](https://github.com/Bx64/solar-vote) - Tool to monitor your votes and get recommendations on vote switches, created by geops.
     * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
