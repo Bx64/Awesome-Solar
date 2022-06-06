@@ -31,16 +31,20 @@
         - SXPSwap
         - Wallets
 
-- [Exchanges](#Exchanges)
-    - New
-    - Old
-    
-- [Mainnet API Documentation](#mainnet-api-documentation)
+- [Solar Mainnet API Documentation](#solar-mainnet-api-documentation)
     - Mainnet API
         - Public REST-API
         - Webhook API
 
-- [Social Media (Community)](#social-media-community)
+- [Solar Media Appearances](#solar-media-appearances)
+    - AMA-events
+    - Conferences & panels
+
+- [Exchanges](#exchanges)
+    - New
+    - Old
+
+- [Telegram Channels (Community)](#telegram-channels-community)
     - Solar Africa
     - Solar Asia
     - Solar Australia
@@ -209,6 +213,47 @@
 
 [Back to top](#Contents)
 
+## Solar Mainnet API Documentation
+
+***Official** Solar Mainnet API Documentation.*
+
+* [Mainnet API](https://docs.solar.org/api/) - Solar mainnet API.
+    * Public REST-API
+        * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
+        * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
+            * [Blockchain](https://docs.solar.org/api/manager-api/endpoints/blockchain/) - Documentation on blockchain endpoint.
+            * [Blocks](https://docs.solar.org/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
+            * [Delegates](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
+            * [Node](https://docs.solar.org/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
+            * [Peers](https://docs.solar.org/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
+            * [Transactions](https://docs.solar.org/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
+            * [Votes](https://docs.solar.org/api/public-rest-api/endpoints/votes/) - Documentation on votes endpoint.
+            * [Wallets](https://docs.solar.org/api/public-rest-api/endpoints/wallets/) - Documentation on wallets endpoint.
+        * [Modify API response](https://docs.solar.org/api/public-rest-api/modify-response/) - How to modify the API response.
+        * [Troubleshooting](https://docs.solar.org/api/public-rest-api/troubleshooting/) - Troubleshooting the public API.
+    * Webhook API
+        * [Endpoints](https://docs.solar.org/api/webhook-api/endpoints/) - Explanation about possible webhook endpoints.
+        * [Getting Started](https://docs.solar.org/api/webhook-api/getting-started/) - Getting started with webhooks.
+        * [Usage](https://docs.solar.org/api/webhook-api/usage/) - Explanation about how to use webhooks.
+
+[Back to top](#Contents)
+
+## Solar Media Appearances
+
+***Official** Solar media appearances.*
+
+* AMA-events
+    * [Bitget - AMA with Solar](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
+    * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
+    * [Respect Trade - AMA with project lead, Nayiem](https://t.me/RespectTrade/388202) - AMA with Solar Project Lead Nayiem in Respect Trade Telegram.
+    * [Solar - AMA with project lead, Nayiem](https://t.me/Solar/41684) - AMA with Solar Project Lead Nayiem in Solar Telegram.
+* Conferences & panels
+    * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by Solar Senior Brand Ambassador, Tief.
+    * [TheCapital2022 - "Welcome to the Metaverse" panel discussion](https://youtu.be/3DAzr-5tnDo) - "Welcome to the Metaverse" panel discussion at #TheCapital2022 with Solar Senior Brand Ambassador, Tief.
+    * [Cryptojobs - Future of DeFi on the blockchain](https://twitter.com/GetCryptoJobs/status/1532638572464861186) - Twitter Space with Solar Senior Brand Ambassador, Tief and other industry experts.
+
+[Back to top](#Contents)
+
 ## Exchanges
 
 *Exchanges where SXP can be traded.*
@@ -245,32 +290,7 @@
 
 [Back to top](#Contents)
 
-## Mainnet API Documentation
-
-***Official** Solar Mainnet API Documentation.*
-
-* [Mainnet API](https://docs.solar.org/api/) - Solar mainnet API.
-    * Public REST-API
-        * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
-        * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
-            * [Blockchain](https://docs.solar.org/api/manager-api/endpoints/configuration/) - Documentation on blockchain endpoint.
-            * [Blocks](https://docs.solar.org/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
-            * [Delegates](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
-            * [Node](https://docs.solar.org/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
-            * [Peers](https://docs.solar.org/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
-            * [Transactions](https://docs.solar.org/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
-            * [Votes](https://docs.solar.org/api/public-rest-api/endpoints/votes/) - Documentation on votes endpoint.
-            * [Wallets](https://docs.solar.org/api/public-rest-api/endpoints/wallets/) - Documentation on wallets endpoint.
-        * [Modify API response](https://docs.solar.org/api/public-rest-api/modify-response/) - How to modify the API response.
-        * [Troubleshooting](https://docs.solar.org/api/public-rest-api/troubleshooting/) - Troubleshooting the public API.
-    * Webhook API
-        * [Endpoints](https://docs.solar.org/api/webhook-api/endpoints/) - Explanation about possible webhook endpoints.
-        * [Getting Started](https://docs.solar.org/api/webhook-api/getting-started/) - Getting started with webhooks.
-        * [Usage](https://docs.solar.org/api/webhook-api/usage/) - Explanation about how to use webhooks.
-
-[Back to top](#Contents)
-
-## Social Media (Community)
+## Telegram Channels (Community)
 
 ***Unofficial** social media channels by Solar community members/delegates.*
 
@@ -383,7 +403,7 @@
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
-    * [Vote Report - biz_classic](https://solar.classicdelegate.biz/api/delegate/voteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
+    * [Vote Report - biz_classic](https://solar.classicdelegate.biz/VoteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
