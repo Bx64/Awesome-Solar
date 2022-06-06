@@ -39,6 +39,7 @@
 - [Solar Media Appearances](#solar-media-appearances)
     - AMA-events
     - Conferences & panels
+    - Discussions & talks
 
 - [Exchanges](#exchanges)
     - New
@@ -250,6 +251,8 @@
 * Conferences & panels
     * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by Solar Senior Brand Ambassador, Tief.
     * [TheCapital2022 - "Welcome to the Metaverse" panel discussion](https://youtu.be/3DAzr-5tnDo) - "Welcome to the Metaverse" panel discussion at #TheCapital2022 with Solar Senior Brand Ambassador, Tief.
+* Discussions & talks
+    * [Crypto Current - Paying the Way to Sustainable Decentralized Payments with Solar](https://www.youtube.com/watch?v=DxCKHAySkT8) - Discussion with Tief on Paving the Way to Sustainable Decentralized Payments with Solar Network.
     * [Cryptojobs - Future of DeFi on the blockchain](https://twitter.com/GetCryptoJobs/status/1532638572464861186) - Twitter Space with Solar Senior Brand Ambassador, Tief and other industry experts.
 
 [Back to top](#Contents)
