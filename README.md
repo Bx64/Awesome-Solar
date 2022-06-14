@@ -25,6 +25,7 @@
     - Documentation Website
         - API
         - Brand
+        - Core
         - Exchange Integration
         - Project
         - SDK
@@ -156,6 +157,9 @@
         * [Brand-Guidelines](https://docs.solar.org/assets/mediakit/guidelines.pdf) - Guidelines on how to use the Solar brand.
         * [Download GitHub Banners](https://docs.solar.org/assets/mediakit/github.zip) - Download the banners used on GitHub.
         * [Download Mediakit](https://docs.solar.org/assets/mediakit/mediakit.zip) - Mediakit download containing all Solar branded items.
+    * Core
+        * [Welcome to Solar Core](https://docs.solar.org/core/intro/) - Solar Core release updates.
+        * [3.3.0](https://docs.solar.org/assets/mediakit/github.zip) - Release notes on Solar Core 3.3.0.
     * Exchange Integration
         * Core Node Introduction
             * [Core Node Hardware Requirements](https://docs.solar.org/exchanges/node-installation/hardware-requirements/) - How to setup your Core Node.
@@ -245,6 +249,7 @@
 
 * AMA-events
     * [Bitget - AMA with Solar](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
+    * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
     * [Respect Trade - AMA with project lead, Nayiem](https://t.me/RespectTrade/388202) - AMA with Solar Project Lead Nayiem in Respect Trade Telegram.
     * [Solar - AMA with project lead, Nayiem](https://t.me/Solar/41684) - AMA with Solar Project Lead Nayiem in Solar Telegram.
