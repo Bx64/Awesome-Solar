@@ -84,6 +84,9 @@
 * [Solar Introduction](https://blog.swipe.io/meet-solar-an-energy-efficient-delegated-proof-of-stake-blockchain-rebranded-for-sxp-d8cc714f21c7) - Blog Introducing Solar Blockchain.
 * Solar Social Media:
     * [Solar Discord](https://discord.solar.org) - Solar Discord Server.
+    * [Solar Facebook](https://www.facebook.com/OfficialSolarNetwork) - Solar Facebook page.
+    * [Solar Instagram](https://www.instagram.com/solarnetworkofficial/) - Solar Instagram page.
+    * [Solar LinkedIn](https://www.linkedin.com/company/solarnetworkofficial) - Solar LinkedIn page.
     * [Solar Telegram - Chat](https://t.me/Solar_Network) - Solar Telegram Chat Channel
     * [Solar Telegram - Delegate Announcements](https://t.me/solar_delegates) - Solar Telegram Delegates Announcements Channel.
     * [Solar Telegram - News](https://t.me/solar) - Solar Telegram News Channel.
@@ -354,9 +357,11 @@
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
     * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+    * [Delegate leitesv](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
     * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
     * [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Twitter Spaces.
     * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
+    * [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Twitter Spaces.
     * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
     * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
     * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
