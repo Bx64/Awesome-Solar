@@ -1,0 +1,33 @@
+# Block Production on Solar
+
+In this article, we'll be discussing **block production** and how it works in Solar. Being a delegated proof-of-stake (DPoS) blockchain, the process on Solar is slightly different from other consensus models used by Bitcoin (proof-of-work) and Ethereum (proof-of-stake).
+
+## Solar is DPoS
+In delegated proof-of-stake networks such as Solar there are a set number of nodes (known as validators, block producers or delegates) that are allowed to forge new blocks. In Solar, there are 53 forging delegates. Delegates have to gain votes from other network participants, who pledge their account balance as votes, and once they have a total amount of votes that put them into the top 53, they will be able to forge blocks and earn rewards. The account balance of participants who vote for a forging delegate remain unlocked and therefore it is possible to immediately spend funds held in an address. The amount of votes per address varies across different DPoS networks, but the principle is the same: one coin means one vote power. Generally, delegates will write a proposal on how they will participate in the Solar community and contribute to the Solar ecosystem - in return, they will share a portion of the block rewards with their voters.
+
+## Rounds, ranks and forging order
+Once delegates receive enough votes to enter the top 53 delegates, they will start actively producing blocks. In proof-of-work networks such as Bitcoin, the probability of mining a block increase as you have a higher hashrate (better/more mining equipment), and in proof-of-stake the probabilities of earning a staking reward increase as you have more coins. For Solar, this is not the case; each delegate has an equal chance to forge blocks, as long as they are in the top 53. This is because, whilst entering the top 53 requires a delegate to have a high voteweight, block production occurs in rounds of 53 blocks.
+
+### Rounds and delegate ranks?
+Every set of 53 blocks, starting with genesis block (blockheight 1) is known as a **round** of blocks. Round 1 contains blocks 1-53, round 2 contains blocks 54-106, round 3 contains blocks 107-159, et cetera. At the start of each round (before block 54, before block 107, ..) the total voteweight of each delegate is assessed and the delegates in **rank** 1 - 53 are noted. These 53 delegates will be able to forge in the respective round. If a delegate loses votes during the round, and drops out of the top 53, they will still be able to forge during that round since ranks are not updated during each rounds, but only at the start of a new round.
+
+### Rounds and forging order?
+Each round, after the delegates ranked 1 - 53 are noted, a random order of those 53 delegates is created. This random order is known as the **forging order**. This random forging order is recalculated for each round, so generally rounds following after eachother will have a different forging order - even if the delegates in the top 53 have not changed.
+
+## A round of forging
+After the top 53 delegates has been noted and a random forging order of all 53 delegates has been calculated, delegates are given the chance to produce blocks in the respective round. On Solar, there are 8 second blocktimes and these 8 seconds are also knows as a **forging slot** for the delegate. Of these 8 seconds, every delegate has six seconds to produce a block, as the last two seconds are reserved for broadcasting the forged block and allowing it to propagate through the network. Assuming all delegates forge in time, that is in the first six seconds of their slot, a round will take 8 * 53 = 424 seconds (roughly 7 minutes) to complete before moving on to a new round.
+
+### What if a delegate misses a block?
+As mentioned in the paragraph above, each delegate has a slot of 8 seconds in which they are allowed to forge (6 seconds to produce a block and 2 seconds to propagate it through the network). But sometimes, a delegate may not be able to produce a block within these 8 seconds. Their server might be inaccessible or offline, it may suffer from timedrift (where the server clock is too far off the actual time) or a delegate may have setup a server with hardware specifications that are sub-par.
+
+When a delegate fails to forge in their slot, no block is created and their forging slot is forfeited. The delegates next in line in the forging order will continue the round and attempt to produce blocks as if nothing happened. However, after each delegate has had an attempt at forging, there are now only 52 blocks in the round. As a round **must** consist of 53 blocks, an additional slot is added to the round. The delegate that was first in the random forging order, will be awared this additional slot and they are allowed to forge a second block in the round.
+
+If multiple delegates fail to forge, or if the delegate assigned to this additional slot fails to forge as well, additional slots will be added to the round until 53 blocks have been produced. Each additional slot will go to the next delegate in the forging order (additional slot for first missed block to first delegate in random forging order, additional slot for second missed block to the second delegate in random forging order, and so on). This means that when delegates fail to forge, they are essentially delaying transaction confirmation times on the network. Therefore it is important to verify that the delegate you vote for does not miss any blocks.
+
+## Summary
+
+Blocks are produced in rounds of 53 blocks. At the start of each round, the top 53 delegates (ranked 1 - 53) are taken and a random forging order is calculated. Each delegate is awarded an 8 second slot to produce a block, of which the last 2 seconds are reserved for propagating the produced block through the network. If a delegate fails to forge, he forfeits his slot and an additional slot is assigned to the first delegate in the random forging order of that round (and if multiple blocks are missed, the next slot goes to the second delegate in forging order, then the third delegate and so forth). Voters should hold delegates accountable for their block production, as missed blocks harm transaction confirmations on the network.
+
+---
+
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/delegates/bfx)**.

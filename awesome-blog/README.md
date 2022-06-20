@@ -5,6 +5,7 @@ In this blog, Solar delegate **[bfx](https://delegates.solar.org/delegates/bfx)*
 ## Articles:
 * [AMA with Solar Community](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md)
 * [AMA with StealthEX](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md)
+* [Block Production on Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md)
 * [Deflation in Solar](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md)
 * [Staking your SXP (Solar Network)](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md)
 * [Voting and Reward Dilution](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md)

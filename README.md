@@ -254,6 +254,7 @@
     * [Bitget - AMA with Solar](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
     * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
+    * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
     * [Respect Trade - AMA with project lead, Nayiem](https://t.me/RespectTrade/388202) - AMA with Solar Project Lead Nayiem in Respect Trade Telegram.
     * [Solar - AMA with project lead, Nayiem](https://t.me/Solar/41684) - AMA with Solar Project Lead Nayiem in Solar Telegram.
 * Conferences & panels
@@ -344,8 +345,9 @@
 
 * Blogs & Podcasts
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-        * [AMA with Solar Community - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram.
-        * [AMA with StealthEX - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram.
+        * [AMA with Solar Community - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram with delegate bfx.
+        * [AMA with StealthEX - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram with delegate bfx.
+        * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article on how blocks are produced on Solar, created by bfx.
         * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
         * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
@@ -397,6 +399,7 @@
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
 * Guides & Articles
+    * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article on how blocks are produced on Solar, created by bfx.
     * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
     * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
     * [Fix common wallet issues - arktoshi](https://sxpdirectory.com/fix-common-issues/) - Information on how to fix common wallet issues, created by arktoshi.
