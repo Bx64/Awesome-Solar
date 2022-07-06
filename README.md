@@ -61,7 +61,7 @@
     - Core Plugins
     - Desktop Wallet Plugins
     - Development Packages
-    - Guides & Articles
+    - Guides & Videos
     - Interoperability
     - Network Statistics
     - Products & Stores
@@ -70,7 +70,6 @@
     - Social Media Bots
     - True Block Weight Payout Scripts
     - Websites
-        - Delegate Websites
 
 [Back to top](#Contents)
 
@@ -255,9 +254,10 @@
     * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
-    * [Respect Trade - AMA with project lead, Nayiem](https://t.me/RespectTrade/388202) - AMA with Solar Project Lead Nayiem in Respect Trade Telegram.
-    * [Solar - AMA with project lead, Nayiem](https://t.me/Solar/41684) - AMA with Solar Project Lead Nayiem in Solar Telegram.
+    * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
+    * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
 * Conferences & panels
+    * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief will visit Korea Blockchain week on behalf of Solar.
     * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by Solar Senior Brand Ambassador, Tief.
     * [TheCapital2022 - "Welcome to the Metaverse" panel discussion](https://youtu.be/3DAzr-5tnDo) - "Welcome to the Metaverse" panel discussion at #TheCapital2022 with Solar Senior Brand Ambassador, Tief.
 * Discussions & talks
@@ -355,15 +355,17 @@
         * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization; on Solar mainnet launch, created by sigma.
         * [Episode 2](https://www.youtube.com/watch?v=3JK1by-SgqQ) - Second episode of Solar Summarization; on Solar desktop wallet, created by sigma.
         * [Episode 3](https://www.youtube.com/watch?v=nMKJJSnsH9A) - Third episode of Solar Summarization; on Awesome Solar, created by sigma.
+        * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
 * Community AMA-events
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
     * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
-    * [Delegate leitesv](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
+    * [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
+    * [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
     * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
-    * [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Twitter Spaces.
+    * [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Solar Twitter Spaces.
     * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
-    * [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Twitter Spaces.
+    * [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Solar Twitter Spaces.
     * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
     * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
     * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
@@ -398,19 +400,19 @@
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
-* Guides & Articles
-    * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article on how blocks are produced on Solar, created by bfx.
-    * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
-    * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
-    * [Fix common wallet issues - arktoshi](https://sxpdirectory.com/fix-common-issues/) - Information on how to fix common wallet issues, created by arktoshi.
-    * [How to create SXP wallet - arktoshi](https://sxpdirectory.com/create-sxp-wallet/) - Information on how to create a SXP wallet, created by arktoshi.
-    * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
-    * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
-    * [How to stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
-    * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
-    * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
-    * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Information about staking your SXP on Solar Network, created by bfx.
-    * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Information about voting for a delegate and how dilution impacts your returns, created by bfx.
+* Guides & Videos
+    * Guides
+        * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
+        * [Fix common wallet issues - arktoshi](https://sxpdirectory.com/fix-common-issues/) - Information on how to fix common wallet issues, created by arktoshi.
+        * [How to create SXP wallet - arktoshi](https://sxpdirectory.com/create-sxp-wallet/) - Information on how to create a SXP wallet, created by arktoshi.
+        * [How to stake SXP - arktoshi](https://sxpdirectory.com/stake-sxp/) - Information on how to stake SXP, created by arktoshi.
+    * Videos
+        * [Definition of DPoS and Why does SXP use it? - studiocoina](https://www.youtube.com/watch?v=7C8jjJ3DKxY) - Information on DPoS and SXP, created by studiocoina.
+        * [How to create SXP wallet - beta106](https://www.youtube.com/watch?v=DbRlkZ9ME_U) - Information on how to create a SXP wallet, created by beta106.
+        * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
+        * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
+        * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
+        * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
 * Interoperability
     * [Jumpgate - deadlock](https://github.com/deadlock-delegate/jumpgate) - A portal between DPoS blockchains, created by deadlock.
 * Network Statistics
