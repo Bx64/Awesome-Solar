@@ -114,6 +114,7 @@
     * [Desktop Wallet](https://github.com/Solar-network/desktop-wallet) - GitHub Repository for the Solar Desktop Wallet.
     * [Desktop Wallet Plugins](https://github.com/Solar-network/desktop-wallet-plugins) - GitHub Repository for the Solar Desktop Wallet Plugins.
     * [Docs](https://github.com/Solar-Network/docs) - GitHub Repository for Solar documentation.
+    * [Ledger-App-Solar](https://github.com/Solar-Network/ledger-app-solar) - GitHub repository for the Solar Ledger App.
     * [Peers](https://github.com/Solar-Network/peers) - GitHub Repository for Solar seed peers.
     * [PHP Client](https://github.com/Solar-Network/php-client) - GitHub Repository for Solar PHP client.
     * [Python Client](https://github.com/Solar-Network/python-client) - GitHub Repository for Solar Python client.
