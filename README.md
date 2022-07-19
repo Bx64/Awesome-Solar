@@ -121,7 +121,6 @@
     * [Python Crypto](https://github.com/Solar-Network/python-crypto) - GitHub Repository for Solar Python crypto.
     * [Python SLP](https://github.com/Solar-Network/python-slp) - GitHub Repository for Solar Side Ledger Protocol in Python.
     * [Solar Explorer](https://github.com/Solar-Network/solar-explorer) - GitHub Repository for Solar explorer.
-    * [Solar-JS-SDK](https://github.com/Solar-Network/solar-js-sdk) - GitHub Repository for Solar JavaScript software development kit.
     * [Swap Contract](https://github.com/Solar-network/swap-contract) - GitHub Repository for Solar ERC-20/BSC-20 > SXP (Solar) swap.
     * [Translations](https://github.com/Solar-network/translations) - GitHub Repository for Solar translations.
     * [Website](https://github.com/Solar-Network/website) - GitHub Repository for Solar new website.
@@ -162,7 +161,8 @@
         * [Download Mediakit](https://docs.solar.org/assets/mediakit/mediakit.zip) - Mediakit download containing all Solar branded items.
     * Core
         * [Welcome to Solar Core](https://docs.solar.org/core/intro/) - Solar Core release updates.
-        * [3.3.0](https://docs.solar.org/assets/mediakit/github.zip) - Release notes on Solar Core 3.3.0.
+        * [3.3.0](https://docs.solar.org/core/updates/3.3.0/) - Release notes on Solar Core 3.3.0.
+        * [Release 4.0.1 Nebula](https://docs.solar.org/core/updates/4.0.1/) - Release notes on Solar Core 4.0.1 "Nebula".
     * Exchange Integration
         * Core Node Introduction
             * [Core Node Hardware Requirements](https://docs.solar.org/exchanges/node-installation/hardware-requirements/) - How to setup your Core Node.
@@ -283,13 +283,10 @@
         * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-SXP)
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
     * [XeggeX](https://xeggex.com)
-        * [SXP - ARK](https://xeggex.com/market/SXP_ARK)
         * [SXP - BTC](https://xeggex.com/market/SXP_BTC)
-        * [SXP - BNB](https://xeggex.com/market/SXP_BNB)
-        * [SXP - ETH](https://xeggex.com/market/SXP_ETH)
+        * [SXP - DKD](https://xeggex.com/market/SXP_DKD)
         * [SXP - USDT](https://xeggex.com/market/SXP_USDT)
         * [SXP - USDC](https://xeggex.com/market/SXP_USDC)
-        * [SXP - XQR](https://xeggex.com/market/SXP_XQR)
 * [Old](https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
     * [Binance](https://www.binance.com/en/trade/SXP_USDT)
     * [Bithumb](https://www.bithumb.com/trade/order/SXP_KRW)
