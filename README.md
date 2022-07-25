@@ -257,6 +257,7 @@
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
+    * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
 * Conferences & panels
     * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief will visit Korea Blockchain week on behalf of Solar.
     * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by Solar Senior Brand Ambassador, Tief.
@@ -410,6 +411,7 @@
         * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
         * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
         * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
+        * [Solar July mid-term valuation - dokdo](https://www.youtube.com/watch?v=ZkeLQzjGc7A) - Information on the first 3rd-party KYC-verified multicurrency mobile wallet with staking and voting for SXP, created by dokdo.
         * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
 * Interoperability
     * [Jumpgate - deadlock](https://github.com/deadlock-delegate/jumpgate) - A portal between DPoS blockchains, created by deadlock.
