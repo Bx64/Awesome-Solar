@@ -61,6 +61,7 @@
     - Core Plugins
     - Desktop Wallet Plugins
     - Development Packages
+    - Games
     - Guides & Videos
     - Interoperability
     - Network Statistics
@@ -399,6 +400,8 @@
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
+* Games
+    * [Friends of Little Yus - Steam](https://store.steampowered.com/app/1752430/Friends_of_little_Yus/) - Speedrun to the flag as fast as possible, created by friendsoflittleyus.
 * Guides & Videos
     * Guides
         * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
