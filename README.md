@@ -277,6 +277,8 @@
     * [Bitget](https://www.bitget.com/)
         * [SXP - USDT](https://www.bitget.com/en/spot/SXPUSDT_SPBL)
         * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
+    * [BitMart](https://www.bitmart.com/)
+        * [SXP - USDT](https://www.bitmart.com/trade/en?symbol=SXP_USDT)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
@@ -347,10 +349,11 @@
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
         * [AMA with Solar Community - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram with delegate bfx.
         * [AMA with StealthEX - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram with delegate bfx.
-        * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article on how blocks are produced on Solar, created by bfx.
-        * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - On deflation through SLP transaction fee burn, created by bfx.
-        * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - On how staking your SXP works, created by bfx.
-        * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - On the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
+        * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article about how blocks are produced on Solar, created by bfx.
+        * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - Article about deflation through SLP transaction fee burn, created by bfx.
+        * [Delegated Proof-of-Stake - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Delegated-Proof-of-Stake.md) - Article about Delegated Proof-of-Stake (DPoS) consensus, delegates and the importance of voting, created by bfx.
+        * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Article about how staking your SXP works, created by bfx.
+        * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Article about the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * Solar Summarization Podcasts - sigma
         * [Episode 1](https://www.youtube.com/watch?v=27BYTOvUHxc) - First episode of Solar Summarization; on Solar mainnet launch, created by sigma.
         * [Episode 2](https://www.youtube.com/watch?v=3JK1by-SgqQ) - Second episode of Solar Summarization; on Solar desktop wallet, created by sigma.
