@@ -335,7 +335,7 @@
     * [Solar Scandinavia](https://t.me/SolarNetwork_Scandinavia)
     * [Solar Spain](https://t.me/solar_ESP)
 * Solar North America
-    * None so far.
+    * [Solar Mexico](https://t.me/SolarMexico)
 * Solar South America
     * [Solar Brasil](https://t.me/SolarNetwork_Brasil)
 
