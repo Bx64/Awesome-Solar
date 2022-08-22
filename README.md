@@ -256,6 +256,7 @@
     * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
+    * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with Solar Senior Brand Ambassador, Tief.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
