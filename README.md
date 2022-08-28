@@ -338,6 +338,7 @@
 * Solar North America
     * [Solar Mexico](https://t.me/SolarMexico)
 * Solar South America
+    * [Solar Argentina](https://t.me/SolarNetwork_Argentina)
     * [Solar Brasil](https://t.me/SolarNetwork_Brasil)
     * [Solar Latin America](https://t.me/SolarLATAM)
 
