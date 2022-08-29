@@ -252,7 +252,8 @@
 ***Official** Solar media appearances.*
 
 * AMA-events
-    * [Bitget - AMA with Solar](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
+    * [Bitget - AMA with Solar, Jun. '22](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
+    * [Bitget - AMA with Solar, Aug. '22](https://twitter.com/i/spaces/1ZkKz) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
     * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
