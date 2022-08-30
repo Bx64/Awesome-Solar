@@ -128,14 +128,14 @@
 
 ***Official** Mainnet Resources.*
 
-* [Solar Mainnet API](https://sxp.mainnet.sh/api/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
+* [Solar Mainnet API](https://api.solar.org/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Solar Mainnet Block Explorer](https://explorer.solar.org/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
 * [Solar Mainnet Wallet](https://solar.org/desktop-wallet/) - Mainnet Wallet for managing your SXP.
 * [Solar Mainnet Delegate Proposals](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
 
 ***Official** Testnet Resources.*
 
-* [Solar Testnet API](https://sxp.testnet.sh/api/) - Solar Testnet API - API's expose different resources and data provided by the Core Server (Node).
+* [Solar Testnet API](https://tapi.solar.org/) - Solar Testnet API - API's expose different resources and data provided by the Core Server (Node).
 * [Solar Testnet Block Explorer](https://texplorer.solar.org/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
 * [Solar Testnet Wallet](https://solar.org/desktop-wallet/) - Testnet Wallet for managing your SXP.
 
@@ -457,8 +457,8 @@
     * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
-    * [Contributions - aurelion_sol](https://aurelion-sol.com/contributions.txt) - A text list of delegate contributions reported on the delegate proposal site, created by aurelion_sol.
-    * [Solar Block Explorer - cactus1549](https://explore.solar/) - An alternative block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
+    * [Contributions - aurelion_sol](https://aurelion-sol.com/delegatesContributions.txt) - A text list of delegate contributions reported on the delegate proposal site, created by aurelion_sol.
+    * [Solar Block Explorer - cactus1549](https://explore.solar/) - The block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
     * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
