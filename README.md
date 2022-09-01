@@ -268,6 +268,7 @@
 * Discussions & talks
     * [Crypto Current - Paying the Way to Sustainable Decentralized Payments with Solar](https://www.youtube.com/watch?v=DxCKHAySkT8) - Discussion with Tief on Paving the Way to Sustainable Decentralized Payments with Solar Network.
     * [Cryptojobs - Future of DeFi on the blockchain](https://twitter.com/GetCryptoJobs/status/1532638572464861186) - Twitter Space with Solar Senior Brand Ambassador, Tief and other industry experts.
+    * [Go English - Interview with Solar Network](https://www.youtube.com/watch?v=XVBN73IvmiU&t=11s) - Interview with Go English campaign done by Solar Senior Brand Ambassador, Tief.
 
 [Back to top](#Contents)
 
@@ -281,6 +282,8 @@
         * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
     * [BitMart](https://www.bitmart.com/)
         * [SXP - USDT](https://www.bitmart.com/trade/en?symbol=SXP_USDT)
+    * [ChangeNOW](https://www.changenow.io/)
+        * [SXP - 450 cryptocurrencies](https://changenow.io/currencies/solar-network)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
