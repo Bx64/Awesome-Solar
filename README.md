@@ -258,6 +258,7 @@
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
     * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with Solar Senior Brand Ambassador, Tief.
+    * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with Solar Senior Brand Ambassador Tief.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
@@ -288,6 +289,9 @@
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
         * [SXP - USDT](https://www.gate.io/trade/SXP_USDT)
+    * [LBank](https://lbank.info/)
+        * [SXP - USD](https://www.lbank.info/exchange/sxp/usdt)
+        * [SXP - USD (futures)](https://futures.lbank.info/futures.html#/SXPUSDT)
     * [Upbit](https://upbit.com)
         * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-SXP)
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
@@ -463,6 +467,7 @@
     * [Contributions - aurelion_sol](https://aurelion-sol.com/delegatesContributions.txt) - A text list of delegate contributions reported on the delegate proposal site, created by aurelion_sol.
     * [Solar Block Explorer - cactus1549](https://explore.solar/) - The block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
     * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
+    * [Solar Library](https://solarlibrary.org/) - Turkish community website (with translation plugin), created by a number of Solar moderators, delegates and community members.
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
