@@ -455,12 +455,13 @@
     * [BurnSxpDaily Tracker (Twitter) - mtaylan](https://twitter.com/BurnSxpDaily) - Automatically updating burn tracker bot on Twitter, created by mtaylan.
     * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
     * [Testnet Faucet (Telegram) - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
-* True Block Weight Payout Scripts
+* True Block Weight Payout Scripts/Core Plugins
+    * [cactus-tbw - cactus1549](https://github.com/Cactus-15-49/cactus-tbw) - A true blockweight core plugin, created by cactus1549.
+    * [cactus-pool - bfx](https://github.com/Bx64/cactus-pool) - A pool dashboard for the cactus-tbw core plugin (ported from core3-tbw), created by bfx.
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
-    * [core2_tbw - osrn](https://github.com/osrn/core2_tbw) - Automated payout script for delegates (free to use), updated by osrn.
     * [core3-tbw - goose](https://github.com/galperins4/core3-tbw) - Automated payout script for delegates (free to use), created by goose.
-    * [core3-tbw - osrn](https://github.com/osrn/core3-tbw) - Automated payout script for delegates (free to use), updated by osrn.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
+    * [lazy ledger - osrn](https://github.com/osrn/lazy-ledger) - A true blockweight core plugin, created by osrn.
     * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
