@@ -252,24 +252,25 @@
 ***Official** Solar media appearances.*
 
 * AMA-events
-    * [Bitget - AMA with Solar, Jun. '22](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
-    * [Bitget - AMA with Solar, Aug. '22](https://twitter.com/i/spaces/1ZkKz) - Bitget AMA with Solar Senior Brand Ambassador, Tief.
-    * [Cowboys of Crypto - Solar Brand Ambassador AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with Solar Senior Brand Ambassador, Tief.
-    * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with Solar Senior Brand Ambassador, Tief.
-    * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with Solar Senior Brand Ambassador, Tief.
-    * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with Solar Senior Brand Ambassador, Tief.
-    * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with Solar Senior Brand Ambassador Tief.
+    * [Bitget - AMA with Solar, Jun. '22](https://twitter.com/bitgetglobal/status/1531559175511228416) - Bitget AMA with ex-Solar Senior Brand Ambassador, Tief.
+    * [Bitget - AMA with Solar, Aug. '22](https://twitter.com/i/spaces/1ZkKz) - Bitget AMA with ex-Solar Senior Brand Ambassador, Tief.
+    * [ChangeNOW - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/changenow_io/status/1582736093128298497) - ChangeNOW AMA with Solar Senior Brand Ambassador, Elaine.
+    * [Cowboys of Crypto - ex-Solar Senior Brand Ambassador Tief AMA](https://youtu.be/cIgDLAVrjfs) - Cowboys of Crypto AMA with ex-Solar Senior Brand Ambassador, Tief.
+    * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with ex-Solar Senior Brand Ambassador, Tief.
+    * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with ex-Solar Senior Brand Ambassador, Tief.
+    * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with ex-Solar Senior Brand Ambassador, Tief.
+    * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with ex-Solar Senior Brand Ambassador Tief.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
 * Conferences & panels
-    * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief will visit Korea Blockchain week on behalf of Solar.
-    * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by Solar Senior Brand Ambassador, Tief.
-    * [TheCapital2022 - "Welcome to the Metaverse" panel discussion](https://youtu.be/3DAzr-5tnDo) - "Welcome to the Metaverse" panel discussion at #TheCapital2022 with Solar Senior Brand Ambassador, Tief.
+    * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief have visited Korea Blockchain week on behalf of Solar.
+    * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by ex-Solar Senior Brand Ambassador, Tief.
+    * [TheCapital2022 - "Welcome to the Metaverse" panel discussion](https://youtu.be/3DAzr-5tnDo) - "Welcome to the Metaverse" panel discussion at #TheCapital2022 with ex-Solar Senior Brand Ambassador, Tief.
 * Discussions & talks
     * [Crypto Current - Paying the Way to Sustainable Decentralized Payments with Solar](https://www.youtube.com/watch?v=DxCKHAySkT8) - Discussion with Tief on Paving the Way to Sustainable Decentralized Payments with Solar Network.
-    * [Cryptojobs - Future of DeFi on the blockchain](https://twitter.com/GetCryptoJobs/status/1532638572464861186) - Twitter Space with Solar Senior Brand Ambassador, Tief and other industry experts.
-    * [Go English - Interview with Solar Network](https://www.youtube.com/watch?v=XVBN73IvmiU&t=11s) - Interview with Go English campaign done by Solar Senior Brand Ambassador, Tief.
+    * [Cryptojobs - Future of DeFi on the blockchain](https://twitter.com/GetCryptoJobs/status/1532638572464861186) - Twitter Space with ex-Solar Senior Brand Ambassador, Tief and other industry experts.
+    * [Go English - Interview with Solar Network](https://www.youtube.com/watch?v=XVBN73IvmiU&t=11s) - Interview with Go English campaign done by ex-Solar Senior Brand Ambassador, Tief.
 
 [Back to top](#Contents)
 
@@ -278,20 +279,26 @@
 *Exchanges where SXP can be traded.*
 
 * New
+    * [Bibox](https://www.bibox.com/)
+        * [SXP - USDT](https://www.bibox.com/en/exchange/basic/SXP_USDT)
     * [Bitget](https://www.bitget.com/)
         * [SXP - USDT](https://www.bitget.com/en/spot/SXPUSDT_SPBL)
         * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
     * [BitMart](https://www.bitmart.com/)
         * [SXP - USDT](https://www.bitmart.com/trade/en?symbol=SXP_USDT)
     * [ChangeNOW](https://www.changenow.io/)
-        * [SXP - 450 cryptocurrencies](https://changenow.io/currencies/solar-network)
+        * [SXP - 450+ cryptocurrencies](https://changenow.io/currencies/solar-network)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
         * [SXP - USDT](https://www.gate.io/trade/SXP_USDT)
+    * [Jubi](https://jbex.com/)
+        * [SXP - USDT](https://www.jbex.com/exchange/SXP2/USDT)
     * [LBank](https://lbank.info/)
         * [SXP - USD](https://www.lbank.info/exchange/sxp/usdt)
         * [SXP - USD (futures)](https://futures.lbank.info/futures.html#/SXPUSDT)
+    * [StealthEX](https://stealthex.io/)
+        * [SXP - 800+ cryptocurrencies](https://stealthex.io/?to=sxpmainnet)
     * [Upbit](https://upbit.com)
         * [SXP - BTC](https://upbit.com/exchange?code=CRIX.UPBIT.BTC-SXP)
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
@@ -370,6 +377,7 @@
         * [Episode 2](https://www.youtube.com/watch?v=3JK1by-SgqQ) - Second episode of Solar Summarization; on Solar desktop wallet, created by sigma.
         * [Episode 3](https://www.youtube.com/watch?v=nMKJJSnsH9A) - Third episode of Solar Summarization; on Awesome Solar, created by sigma.
         * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
+        * [Episode 5](https://www.youtube.com/watch?v=Kbnb3-aM88Q) - Fifth episode of Solar Summarization; on achieved milestones, created by sigma.
 * Community AMA-events
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
@@ -411,6 +419,9 @@
     * [Solar Vote - geops](https://github.com/Bx64/solar-vote) - Tool to monitor your votes and get recommendations on vote switches, created by geops.
     * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
+    * Translation plugins
+        * [Italian - kaos](https://github.com/delkaos/solar-wallet_italian-plugin) - Italian language plugin, created by kaos.
+        * [Turkish - mtaylan](https://github.com/mtaylan/turkish-language-plugin) - Turkish language plugin, created by mtaylan.
     * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
@@ -426,6 +437,7 @@
         * [Definition of DPoS and Why does SXP use it? - studiocoina](https://www.youtube.com/watch?v=7C8jjJ3DKxY) - Information on DPoS and SXP, created by studiocoina.
         * [How to create SXP wallet - beta106](https://www.youtube.com/watch?v=DbRlkZ9ME_U) - Information on how to create a SXP wallet, created by beta106.
         * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
+        * [How to install SXPF@H - mtaylan](https://www.youtube.com/watch?v=Bv_OtbKnJwg) - Information on how to install Folding@Home, created by mtaylan.
         * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
         * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
         * [Solar July mid-term valuation - dokdo](https://www.youtube.com/watch?v=ZkeLQzjGc7A) - Information on the first 3rd-party KYC-verified multicurrency mobile wallet with staking and voting for SXP, created by dokdo.
@@ -437,12 +449,14 @@
     * Solar Network Info - friendsoflittleyus
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
+    * [Solar Statistics - SolarLibrary](https://solarlibrary.org/solar-statistics/) - A Turkish statistics page with translation plugin, created by SolarLibrary.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/VoteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
     * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
 * Reward Calculators
+    * [Solar Reward Calculator - dpos.info](https://dpos.info/solar) - A reward calculator, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
     * [Verifier - st3v3n](https://verifier.dutchpool.io/solar/#/) - A payout verifier, created by st3v3n.
     * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
@@ -456,8 +470,8 @@
     * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
     * [Testnet Faucet (Telegram) - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
 * True Block Weight Payout Scripts/Core Plugins
-    * [cactus-tbw - cactus1549](https://github.com/Cactus-15-49/cactus-tbw) - A true blockweight core plugin, created by cactus1549.
     * [cactus-pool - bfx](https://github.com/Bx64/cactus-pool) - A pool dashboard for the cactus-tbw core plugin (ported from core3-tbw), created by bfx.
+    * [cactus-tbw - cactus1549](https://github.com/Cactus-15-49/cactus-tbw) - A true blockweight core plugin, created by cactus1549.
     * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
     * [core3-tbw - goose](https://github.com/galperins4/core3-tbw) - Automated payout script for delegates (free to use), created by goose.
     * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
