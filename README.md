@@ -71,6 +71,10 @@
     - Social Media Bots
     - True Block Weight Payout Scripts
     - Websites
+- [District53](#district53)
+    - Websites
+    - GitHub
+    - Social Media
 
 [Back to top](#Contents)
 
@@ -260,6 +264,7 @@
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with ex-Solar Senior Brand Ambassador, Tief.
     * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with ex-Solar Senior Brand Ambassador, Tief.
     * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with ex-Solar Senior Brand Ambassador Tief.
+    * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
@@ -333,6 +338,7 @@
     * [Solar India](https://t.me/solarSXP_india)
     * [Solar Indonesia](https://t.me/SolarNetwork_Indonesia)
     * [Solar Iran](https://t.me/solarNetwork_IRAN)
+    * [Solar Japan](https://t.me/SolarNetwork_Japan)
     * [Solar Korea](https://t.me/solar_kr)
     * [Solar Phillippines](https://t.me/SolarNetwork_Phillippines)
     * [Solar Russia](https://t.me/SolarNetworkRu)
@@ -402,12 +408,12 @@
     * [Delegate Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for delegates across multiple chains including Solar, created by geops.
     * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
-    * [Solar CLI - friendsoflittleyus](https://github.com/PhillipJacobsen/solar-cli) - A command line interface to perform tasks such as check wallet balance, sign / verify messages, and send transactions, created by friendsoflittleyus.
+    * [Solar CLI - nybl](https://github.com/PhillipJacobsen/solar-cli) - A command line interface to perform tasks such as check wallet balance, sign / verify messages, and send transactions, created by nybl.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
     * [Solar Node Monitor Telegram - mtaylan](https://solar.mtaylan.com/index.php/install-solar_telegram_monitor/) - Core alerts sent directly to your personal Telegram bot, created by mtaylan.
     * [TBW Node monitoring - sevi](https://github.com/sevi93/tbw_node_monitoring/) - Node monitoring tool for your TBW relay node, created by sevi.
 * Core Plugins
-    * [Core API Extensions - friendsoflittleyus](https://github.com/e-m-s-y/core-api-extension/tree/solar) - A core plugin that extends the core-api package by adding custom endpoints, created by friendsoflittleyus.
+    * [Core API Extensions - emsy](https://github.com/e-m-s-y/core-api-extension/tree/solar) - A core plugin that extends the core-api package by adding custom endpoints, created by emsy.
     * [Core Auto Refunds - dpos.info](https://github.com/dpos-info/core-auto-refunds) - Auto refund plugin for HTLC unlocks, created by dpos.info.
     * [Core Voter Count - dpos.info](https://github.com/dpos-info/core-voter-count) - Adds voter count to delegates API response, created by dpos.info.
     * [MQTT plugin - deadlock](https://github.com/deadlock-delegate/mqtt) - MQTT plugin that broadcasts events to a MQTT broker, created by deadlock.
@@ -415,7 +421,7 @@
     * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
     * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
-    * [Socket Event Forwarder - friendsoflittleyus](https://github.com/e-m-s-y/socket-event-forwarder/tree/solar) - A bridgechian plugin for forwarding real-time blockchain events through socket.io, created by friendsoflittleyus.
+    * [Socket Event Forwarder - emsy](https://github.com/e-m-s-y/socket-event-forwarder/tree/solar) - A bridgechian plugin for forwarding real-time blockchain events through socket.io, created by emsy.
     * [Solar Vote - geops](https://github.com/Bx64/solar-vote) - Tool to monitor your votes and get recommendations on vote switches, created by geops.
     * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
@@ -426,7 +432,7 @@
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
 * Games
-    * [Friends of Little Yus - Steam](https://store.steampowered.com/app/1752430/Friends_of_little_Yus/) - Speedrun to the flag as fast as possible, created by friendsoflittleyus.
+    * [Friends of Little Yus - Steam](https://store.steampowered.com/app/1752430/Friends_of_little_Yus/) - Speedrun to the flag as fast as possible, created by emsy.
 * Guides & Videos
     * Guides
         * [ERC20 BEP20-to-Native SXP Swap Guide - arktoshi](https://sxpdirectory.com/swap-sxp-guide/) - Information on how to swap, created by arktoshi.
@@ -445,16 +451,16 @@
 * Interoperability
     * [Jumpgate - deadlock](https://github.com/deadlock-delegate/jumpgate) - A portal between DPoS blockchains, created by deadlock.
 * Network Statistics
-    * [Delegate Rankings Visualiser - friendsoflittleyus](https://solar.friendsoflittleyus.nl/delegate-ranking) - A delegate ranking change visualiser, created by friendsoflittleyus.
-    * Solar Network Info - friendsoflittleyus
-        * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by friendsoflittleyus.
-        * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by friendsoflittleyus.
+    * Solar Network Info - emsy & nybl
+        * [Grafana dashboards](https://grafana.nybl.ca/) - Several Grafana dashboards displaying network information, created by nybl.
+        * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by emsy & nybl.
+        * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by emsy & nybl.
     * [Solar Statistics - SolarLibrary](https://solarlibrary.org/solar-statistics/) - A Turkish statistics page with translation plugin, created by SolarLibrary.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/VoteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
-    * [Friends of Little Yus Merchandise - friendsoflittleyus](https://shop.friendsoflittleyus.nl) - Merchandise store, created by friendsoflittleyus.
-    * [Relay @ Home - friendsoflittleyus](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by friendsoflittleyus.
+    * [Friends of Little Yus Merchandise - emsy & nybl](https://shop.friendsoflittleyus.nl) - Merchandise store, created by emsy & nybl.
+    * [Relay @ Home - emsy & nybl](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by emsy & nybl.
 * Reward Calculators
     * [Solar Reward Calculator - dpos.info](https://dpos.info/solar) - A reward calculator, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
@@ -468,7 +474,7 @@
     * [ARK Faucet (Discord) - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
     * [BurnSxpDaily Tracker (Twitter) - mtaylan](https://twitter.com/BurnSxpDaily) - Automatically updating burn tracker bot on Twitter, created by mtaylan.
     * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
-    * [Testnet Faucet (Telegram) - friendsoflittleyus](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by friendsoflittleyus.
+    * [Testnet Faucet (Telegram) - nybl](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by nybl.
 * True Block Weight Payout Scripts/Core Plugins
     * [cactus-pool - bfx](https://github.com/Bx64/cactus-pool) - A pool dashboard for the cactus-tbw core plugin (ported from core3-tbw), created by bfx.
     * [cactus-tbw - cactus1549](https://github.com/Cactus-15-49/cactus-tbw) - A true blockweight core plugin, created by cactus1549.
@@ -486,15 +492,37 @@
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
     * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
-    * [Voter Chat - friendsoflittleyus](http://chat.littleyus.com/) - Proof of concept chat app that uses MQTT and Solar testnet wallets to sign messages.
+    * [Voter Chat - nybl](http://chat.littleyus.com/) - Proof of concept chat app that uses MQTT and Solar testnet wallets to sign messages, created by nybl.
     * Delegate Websites
         * [Delegate Proposals Website - leitesv](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
         * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.
         * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
-        * [Solar - friendsoflittleyus](https://friendsoflittleyus.nl/) - Website with delegate information, created by friendsoflittleyus.
+        * [Solar - emsy & nybl](https://friendsoflittleyus.nl/) - Website with delegate information, created by emsy & nybl (formerly friendsoflittleyus).
         * [Solar - fun](https://www.arkfun.io/) - Website with delegate information, created by fun.
         * [Solar - kimchi](https://www.kimchigraphics.com/) - Website with 2D & 3D graphics, created by kimchi.
         * [Solar - mtaylan](https://solar.mtaylan.com/) - Website with delegate information, created by mtaylan.
         * [Solar - osrn](https://osrn.github.io/) - Website with delegate information, created by osrn.
+
+[Back to top](#Contents)
+
+## District53
+
+*A voxel-based metaverse game created by Dokdo UAB, a centralised platform which aims to enhance the Solar ecosystem.*
+
+* Websites
+    * [District53.io](https://district53.io/) - The official website for District53.
+        * [Land auctions](https://district53.io/auctions) - Land auctions for parcels of land in District53.
+        * [Land map](https://map.district53.io/) - Land map of the District53 metaverse.
+* GitHub
+    * [District53 GitHub](https://github.com/district53)
+    * [Game client](https://github.com/district53/minetest/releases/latest)
+* Social Media
+    * [Facebook](https://www.facebook.com/District53Metaverse)
+    * [LinkedIn](https://www.linkedin.com/company/district-53-metaverse)
+    * [Telegram](https://t.me/district_53)
+    * [TikTok](https://www.tiktok.com/@d53metaverse)
+    * [Twitch](https://www.twitch.tv/district53)
+    * [Twitter](https://twitter.com/D53Metaverse)
+    * [YouTube](https://www.youtube.com/channel/UCn0UCgGTGtttY8t_CIcquMg)
 
 [Back to top](#Contents)
