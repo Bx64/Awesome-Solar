@@ -264,6 +264,7 @@
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with ex-Solar Senior Brand Ambassador, Tief.
     * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with ex-Solar Senior Brand Ambassador, Tief.
     * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with ex-Solar Senior Brand Ambassador Tief.
+    * [NowPayments - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/nowpayments_io/status/1592587153024114688) - AMA with NowPayments and Solar Senior Brand Ambassador Elaine.
     * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
@@ -302,6 +303,8 @@
     * [LBank](https://lbank.info/)
         * [SXP - USD](https://www.lbank.info/exchange/sxp/usdt)
         * [SXP - USD (futures)](https://futures.lbank.info/futures.html#/SXPUSDT)
+    * [SimpleSwap](https://simpleswap.io/)
+        * [SXP - 340+ cryptocurrencies](https://simpleswap.io/crypto-to-crypto?to=sxpmainnet)
     * [StealthEX](https://stealthex.io/)
         * [SXP - 800+ cryptocurrencies](https://stealthex.io/?to=sxpmainnet)
     * [Upbit](https://upbit.com)
@@ -342,6 +345,7 @@
     * [Solar Korea](https://t.me/solar_kr)
     * [Solar Phillippines](https://t.me/SolarNetwork_Phillippines)
     * [Solar Russia](https://t.me/SolarNetworkRu)
+    * [Solar Thailand](https://t.me/SolarNetwork_Thailand)
     * [Solar Turkey](https://t.me/solarnetwork_tr)
     * [Solar Vietnam](https://t.me/Solar_VN)
 * Solar Australia
@@ -523,6 +527,6 @@
     * [TikTok](https://www.tiktok.com/@d53metaverse)
     * [Twitch](https://www.twitch.tv/district53)
     * [Twitter](https://twitter.com/D53Metaverse)
-    * [YouTube](https://www.youtube.com/channel/UCn0UCgGTGtttY8t_CIcquMg)
+    * [YouTube](https://www.youtube.com/channel/UC9MmjRD4_SHJzsjhHBJ3LMg)
 
 [Back to top](#Contents)
