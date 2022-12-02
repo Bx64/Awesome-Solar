@@ -71,9 +71,14 @@
     - Social Media Bots
     - True Block Weight Payout Scripts
     - Websites
+
 - [District53](#district53)
     - Websites
     - GitHub
+    - Social Media
+
+- [tymt](#tymt)
+    - Websites
     - Social Media
 
 [Back to top](#Contents)
@@ -392,6 +397,7 @@
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
     * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+    * [Delegate gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
     * [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
     * [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
     * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
@@ -518,15 +524,31 @@
         * [Land auctions](https://district53.io/auctions) - Land auctions for parcels of land in District53.
         * [Land map](https://map.district53.io/) - Land map of the District53 metaverse.
 * GitHub
-    * [District53 GitHub](https://github.com/district53)
-    * [Game client](https://github.com/district53/minetest/releases/latest)
+    * [District53 GitHub](https://github.com/district53) - The official District53 GitHub.
+    * [Game Client](https://github.com/district53/minetest/releases/latest) - The official District53 Game Client.
 * Social Media
-    * [Facebook](https://www.facebook.com/District53Metaverse)
-    * [LinkedIn](https://www.linkedin.com/company/district-53-metaverse)
-    * [Telegram](https://t.me/district_53)
-    * [TikTok](https://www.tiktok.com/@d53metaverse)
-    * [Twitch](https://www.twitch.tv/district53)
-    * [Twitter](https://twitter.com/D53Metaverse)
-    * [YouTube](https://www.youtube.com/channel/UC9MmjRD4_SHJzsjhHBJ3LMg)
+    * [Discord](https://discord.district53.io) - The official District53 Discord.
+    * [Facebook](https://www.facebook.com/District53Metaverse) - The official District53 Facebook page.
+    * [LinkedIn](https://www.linkedin.com/company/district-53-metaverse) - The official District53 LinkedIn page.
+    * [Telegram](https://t.me/district_53) - The official District53 Telegram chat.
+    * [TikTok](https://www.tiktok.com/@d53metaverse) - The official District53 TikTok page.
+    * [Twitch](https://www.twitch.tv/district53) - The official District53 Twitch channel.
+    * [Twitter](https://twitter.com/D53Metaverse) - The official District53 Twitter.
+    * [YouTube](https://www.youtube.com/channel/UC9MmjRD4_SHJzsjhHBJ3LMg) - The official District53 YouTube channel.
+
+[Back to top](#Contents)
+
+## tymt
+
+*The next generation game launcher enhanced with a wide variety of tools and SDK's for traditional games, blockchain and Web3 applications.*
+
+* Websites
+    * [tymt.com](https://tymt.com/) - The official website for tymt.
+* Social Media
+    * [Discord](https://discord.gg/mumrhtYjUf) - The official tymt Discord.
+    * [Facebook](https://www.facebook.com/tymtcom) - The official tymt Facebook page. 
+    * [Telegram](https://t.me/tymt_com) - The official tymt Telegram chat.
+    * [Twitch](https://www.twitch.tv/tymt_com) - The official tymt Twitch channel.
+    * [Twitter](https://twitter.com/tymt_com) - The official tymt Twitter.
 
 [Back to top](#Contents)
