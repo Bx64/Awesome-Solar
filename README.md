@@ -64,6 +64,7 @@
     - Games
     - Guides & Videos
     - Interoperability
+    - Internet of Things (IoT)
     - Network Statistics
     - Products & Stores
     - Reward Calculators
@@ -130,10 +131,14 @@
     * [Python Client](https://github.com/Solar-Network/python-client) - GitHub Repository for Solar Python client.
     * [Python Crypto](https://github.com/Solar-Network/python-crypto) - GitHub Repository for Solar Python crypto.
     * [Python SLP](https://github.com/Solar-Network/python-slp) - GitHub Repository for Solar Side Ledger Protocol in Python.
+    * [Security](https://github.com/Solar-network/security) - GitHub Repository for Solar Security reports & audits.
+        * [Security and Analysis Report for Solar Core](https://github.com/Solar-network/security/blob/main/solar-core/security-and-analysis-report-for-solar-core.v1.00.pdf) - Security and Analysis Report for Solar Core, by gym.
+        * [Swap Contract Audit](https://github.com/Solar-network/security/blob/main/swap-portal/contract-audit.pdf) - Swap Contract Audit by Certik.
     * [Solar Explorer](https://github.com/Solar-Network/solar-explorer) - GitHub Repository for Solar explorer.
     * [Swap Contract](https://github.com/Solar-network/swap-contract) - GitHub Repository for Solar ERC-20/BSC-20 > SXP (Solar) swap.
     * [Translations](https://github.com/Solar-network/translations) - GitHub Repository for Solar translations.
     * [Website](https://github.com/Solar-Network/website) - GitHub Repository for Solar new website.
+    * [.github Profile](https://github.com/Solar-Network/.github) - GitHub Repository for Solar Network profile.
 
 ***Official** Mainnet Resources.*
 
@@ -274,6 +279,7 @@
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
+    * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Solar Senior Brand Ambassador, Elaine and Marija.
 * Conferences & panels
     * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief have visited Korea Blockchain week on behalf of Solar.
     * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by ex-Solar Senior Brand Ambassador, Tief.
@@ -393,6 +399,7 @@
         * [Episode 3](https://www.youtube.com/watch?v=nMKJJSnsH9A) - Third episode of Solar Summarization; on Awesome Solar, created by sigma.
         * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
         * [Episode 5](https://www.youtube.com/watch?v=Kbnb3-aM88Q) - Fifth episode of Solar Summarization; on achieved milestones, created by sigma.
+        * [Episode 6](https://www.youtube.com/watch?v=RxL43EpuR3g) - Sixth episode of Solar Summarization; on District53 and tymt, created by sigma.
 * Community AMA-events
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
@@ -460,6 +467,8 @@
         * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
 * Interoperability
     * [Jumpgate - deadlock](https://github.com/deadlock-delegate/jumpgate) - A portal between DPoS blockchains, created by deadlock.
+* Internet of Things (IoT)
+    * [Simple Solar MQTT](https://github.com/PhillipJacobsen/Simple_Solar_MQTT) - Demo application using authenticated MQTT access to receive Solar.org blockchain events, created by nybl.
 * Network Statistics
     * Solar Network Info - emsy & nybl
         * [Grafana dashboards](https://grafana.nybl.ca/) - Several Grafana dashboards displaying network information, created by nybl.
