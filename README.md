@@ -279,6 +279,7 @@
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
+    * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
     * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Solar Senior Brand Ambassador, Elaine and Marija.
 * Conferences & panels
     * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief have visited Korea Blockchain week on behalf of Solar.
@@ -339,7 +340,6 @@
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
     * [Bittrex](https://global.bittrex.com/Market/Index?MarketName=BTC-SXP)
     * [Coinone](https://coinone.co.kr/exchange/trade/sxp/)
-    * [FTX](https://ftx.com/trade/SXP/USD)
     * [Huobi](https://www.huobi.com/en-us/exchange/sxp_usdt)
     * [Poloniex](https://poloniex.com/exchange/BTC_SXP)
 
@@ -409,7 +409,9 @@
 * Community AMA-events
     * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
     * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
+    * [Delegate fnoufnou & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with fnoufnou & Solar Senior Brand Ambassador, Elaine.
     * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+    * [Delegate goat & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with goat & Solar Senior Brand Ambassador, Elaine.
     * [Delegate gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
     * [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
     * [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
