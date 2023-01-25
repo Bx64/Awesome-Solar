@@ -42,6 +42,8 @@
     - Conferences & panels
     - Discussions & talks
 
+- [Community AMA-events](#community-AMA-events) 
+
 - [Exchanges](#exchanges)
     - New
     - Old
@@ -56,7 +58,6 @@
 
 - [Tools & Resources (Delegates)](#tools--resources-delegates)
     - Blogs & Podcasts
-    - Community AMA-events
     - Core Management
     - Core Plugins
     - Desktop Wallet Plugins
@@ -292,6 +293,31 @@
 
 [Back to top](#Contents)
 
+## Community AMA-events
+
+*AMA-events with delegates held in Solar community channels and related social media.*
+
+* [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
+* [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
+* [Delegate fnoufnou & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with fnoufnou & Solar Senior Brand Ambassador, Elaine.
+* [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+* [Delegate goat & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with goat & Solar Senior Brand Ambassador, Elaine.
+* [Delegate gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
+* [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
+* [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
+* [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
+* [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Solar Twitter Spaces.
+* [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
+* [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Solar Twitter Spaces.
+* [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
+* [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
+* [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
+* [NowPayments & delegate sigma](https://twitter.com/NOWPayments_io/status/1506681181756137479) - AMA with sigma on Solar on NowPayments Twitter Spaces.
+* [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
+* [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
+
+[Back to top](#Contents)
+
 ## Exchanges
 
 *Exchanges where SXP can be traded.*
@@ -406,25 +432,6 @@
         * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
         * [Episode 5](https://www.youtube.com/watch?v=Kbnb3-aM88Q) - Fifth episode of Solar Summarization; on achieved milestones, created by sigma.
         * [Episode 6](https://www.youtube.com/watch?v=RxL43EpuR3g) - Sixth episode of Solar Summarization; on District53 and tymt, created by sigma.
-* Community AMA-events
-    * [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
-    * [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
-    * [Delegate fnoufnou & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with fnoufnou & Solar Senior Brand Ambassador, Elaine.
-    * [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
-    * [Delegate goat & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with goat & Solar Senior Brand Ambassador, Elaine.
-    * [Delegate gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
-    * [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
-    * [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
-    * [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
-    * [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Solar Twitter Spaces.
-    * [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
-    * [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Solar Twitter Spaces.
-    * [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
-    * [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
-    * [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
-    * [NowPayments & delegate sigma](https://twitter.com/NOWPayments_io/status/1506681181756137479) - AMA with sigma on Solar on NowPayments Twitter Spaces.
-    * [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
-    * [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
 * Core Management
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends delegate change notifications to Discord, created by biz_classic.
     * Core Control - geops
