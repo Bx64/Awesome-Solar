@@ -18,7 +18,7 @@ With transparency in mind, the original article will still be available below fo
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for block producer **[bfx](https://delegates.solar.org/delegates/bfx)**.
 
 ---
 
@@ -32,9 +32,9 @@ Solar has several transaction types which we will consider "regular" transaction
 
 - Transferring SXP;
 - Multipayments (transfer to multiple addresses);
-- (Un)voting a delegate;
+- (Un)voting a block producer;
 - Registering a second passphrase;
-- Registering or resigning a delegate;
+- Registering or resigning a block producer;
 - Creating a multisignature address.
 
 Additionally, Solar provides SLP transactions which are used for creating and interacting with both fungible token (SLP-1) contracts and non-fungible token (SLP-2) contracts. SLP-1 is comparable to ERC20 tokens (such as USDT, wETH, ..) and SLP-2 is comparable to ERC721 NFTs (such as BAYC, ENS, ..) on the Ethereum blockchain. These transactions include:
@@ -45,7 +45,7 @@ Additionally, Solar provides SLP transactions which are used for creating and in
 
 ### Transaction fees: distributed or burnt?
 
-The regular transactions have either static or dynamic fees depending on the type of transaction. Fees are paid by the creator of the transaction and forged by delegates in their blocks. The fees for these regular transactions are added to the block reward and paid to the delegate that forged said block and can be redistributed to voters through reward sharing. This also holds for contract interaction transactions.
+The regular transactions have either static or dynamic fees depending on the type of transaction. Fees are paid by the creator of the transaction and produced by block producers in their blocks. The fees for these regular transactions are added to the block reward and paid to the block producer that produced said block and can be redistributed to voters through reward sharing. This also holds for contract interaction transactions.
 
 However, all transaction fees used for contract deployment, i.e. creating token contracts, are sent to a seperate address instead of being added to the block reward. Therefore, these fees are not re-entering the circulating supply. The transaction fee for creating a token on the Solar blockchain is set at 5 SXP and each time a token contract is created, this fee is sent to the seperate address and taken out of circulating supply.
 
@@ -73,8 +73,8 @@ As you can see, the amount of SXP burnt each month depends on how many token con
 The way fees are distributed or burnt can be summarized in the following way:
 
 - All contract deployment/token creation fees are collected in a seperate address and burnt monthly, for both SLP-1 and SLP-2 contracts;
-- All other transactions (regular transactions & contract interactions, as described above) are added to block rewards for forging delegates and to a large extent redistributed to voters through reward sharing.
+- All other transactions (regular transactions & contract interactions, as described above) are added to block rewards for active block producers and to a large extent redistributed to voters through reward sharing.
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for block producer **[bfx](https://delegates.solar.org/delegates/bfx)**.

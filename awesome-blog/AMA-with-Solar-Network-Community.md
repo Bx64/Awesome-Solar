@@ -12,23 +12,23 @@
 
 **Leonidas:** *Q1: Could you tell us a little about yourself, where did you work before Solar, how many years of experience do you have.*
 
-**BFX:** Hello everyone, I am `bfx` and I have been a delegate on several DPoS blockchains for a few years. These include projects with similar blockchain infrastructure as Solar, namely ARK, Compendia and Qredit but also networks using a different infrastructure. For Solar, I am also a technical advisor. I've a background in general mathematics and have been involved in crypto for six years now, starting with several PoW-miners and made the switch to (D)PoS-staking a year later. My interests include anything tech-related, both hardware and software.
+**BFX:** Hello everyone, I am `bfx` and I have been a block producer on several DPoS blockchains for a few years. These include projects with similar blockchain infrastructure as Solar, namely ARK, Compendia and Qredit but also networks using a different infrastructure. For Solar, I am also a technical advisor. I've a background in general mathematics and have been involved in crypto for six years now, starting with several PoW-miners and made the switch to (D)PoS-staking a year later. My interests include anything tech-related, both hardware and software.
 
 **Leonidas:** *Q2: Solar Network shared the 2022 roadmap, how would you interpret the projects to be done?*
 
 **BFX:** I think Solar is aiming high for this year, with a lot of very interesting features to be deployed. Not only a mainnet launch, but also Side Ledger Protocol allowing both fungible tokens and non-fungible tokens to be created, a metaverse, NFT marketplace, Solar in space, a community foundation to help the project along with grants and a launchpad are a lot of features to be released in one year. However, judging from the speed with which the team has worked over the past weeks, I am positive about their ability to realise these goals. There is something interesting for everyone and this should help the project grow very quickly.
 
-**Leonidas:** *Q3: According to our current knowledge, the community will vote for the delegates for the stake pool, why should they vote for you?*
+**Leonidas:** *Q3: According to our current knowledge, the community will vote for the block producers for the stake pool, why should they vote for you?*
 
-**BFX:** I think it is important to have many contributing delegates that add value to the project. I will try to give a brief summary on how I intend to add value to the Solar Network:
+**BFX:** I think it is important to have many contributing block producers that add value to the project. I will try to give a brief summary on how I intend to add value to the Solar Network:
 
 - I will help the team as a technical advisor, helping them implement features properly and providing them with support wherever I can. One such example was the dynamic rewards;
 - I have my own contributions such as [Awesome Solar](https://github.com/Bx64/Awesome-Solar) and the blog it contains;
-- I help other delegates test their contributions, such as core plugins, tools and scripts;
+- I help other block producers test their contributions, such as core plugins, tools and scripts;
 - I add to and improve existing contributions, such as with the node monitoring script
 - I try to be engaged with the community and help spread awareness by providing the community with resources and information.
 
-You can read more about my intentions and view my full proposal here: [BFX delegate proposal](https://delegates.solar.org/delegates/bfx).
+You can read more about my intentions and view my full proposal here: [BFX block producer proposal](https://delegates.solar.org/delegates/bfx).
 
 **Leonidas:** Thank you for your answers, if you're ready I'll take a chat for the community to ask their questions.
 
@@ -40,11 +40,11 @@ You can read more about my intentions and view my full proposal here: [BFX deleg
 
 **BFX:** SXP has a lot of upcoming features that are displayed in the roadmap and whitepaper, which make it a very versatile blockchain with a lot of possibilities for other projects to build upon. For the second part of your question, community feedback will be instrumental to Solar Network once the governance module goes live since the community will be able to vote on all proposals made for Solar Network through that module. Therefore the community will be able to decide what way the project goes afterwards.
 
-**Bertug:** *Q5: Hi sir, first welcome. What should we pay attention to when choosing the delegates we will vote for?*
+**Bertug:** *Q5: Hi sir, first welcome. What should we pay attention to when choosing the block producers we will vote for?*
 
-**BFX:** When voting for a delegate, many people only look at sharing rate. However, this method is flawed due to the reason of reward dilution. You can find examples in [my article here]( https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md).
+**BFX:** When voting for a block producer, many people only look at sharing rate. However, this method is flawed due to the reason of reward dilution. You can find examples in [my article here]( https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md).
 
-Essentially, you should look for delegates that benefit the project in ways you find important. There are delegates that focus on security, creating additional plugins, engaging the community and helping marketing. The contributions delegates make to the project are the reason they will add value to the project. Therefore, you should consider these when you decide who to vote for. Also, you should know that you can create multiple addresses in your wallet and vote for a seperate delegate with each address, so you do not need to vote for just one delegate; you can vote for all those that you find worthy. Lastly, you should make sure that delegates are true to their proposal and really do what they have promised, and should unvote them in case they do not do this.
+Essentially, you should look for block producers that benefit the project in ways you find important. There are block producers that focus on security, creating additional plugins, engaging the community and helping marketing. The contributions block producers make to the project are the reason they will add value to the project. Therefore, you should consider these when you decide who to vote for. Also, you should know that you can create multiple addresses in your wallet and vote for a seperate block producer with each address, so you do not need to vote for just one block producer; you can vote for all those that you find worthy. Lastly, you should make sure that block producers are true to their proposal and really do what they have promised, and should unvote them in case they do not do this.
 
 **Nuh AKINCI:** *Q6: What do you consider are the most important characteristics of BFX that make the difference related to the other competitors? What do you consider is the big challenge that BFX should pass in the Solar Community?*
 
@@ -54,13 +54,13 @@ Essentially, you should look for delegates that benefit the project in ways you 
 
 **BFX:** Marketing will start once the mainnet is launched, and unfortunately I am not able to go into much detail at this time as I do not have all the information regarding marketing. You should be sure to know that getting the word out about Solar Network will definitely be a focus of the team.
 
-**Seduc7ioN:** *Q8: How did you decide to be a delegate in the Solar project, commercially or to really like and benefit from the project?*
+**Seduc7ioN:** *Q8: How did you decide to be a block producer in the Solar project, commercially or to really like and benefit from the project?*
 
-**BFX:** I have been involved with several people that are currently working on Solar through other projects. I know gym and cactus1549 through ARK, Nayiem through Qredit and a lot of other delegates and several community members through these and other projects I have been involved in, most as a delegate. The ideas and features that are key to Solar Network got me excited, since it has taken a very broad range of features and will be focussing them all in one project. I think I can add value to the project as I have described in one of the earlier questions and through my proposal, and therefore I decided to join as a delegate. Nayiem then asked me to also give advice on the technical side, and I was happy to join them in doing so.
+**BFX:** I have been involved with several people that are currently working on Solar through other projects. I know gym and cactus1549 through ARK, Nayiem through Qredit and a lot of other block producers and several community members through these and other projects I have been involved in, most as a block producer. The ideas and features that are key to Solar Network got me excited, since it has taken a very broad range of features and will be focussing them all in one project. I think I can add value to the project as I have described in one of the earlier questions and through my proposal, and therefore I decided to join as a block producer. Nayiem then asked me to also give advice on the technical side, and I was happy to join them in doing so.
 
 **Eyüp KURŞUN:** *Q9: Will there be ledger support for solar and staking when mainnet launches? because I want to bet on the $sxp ledger I bought from my ledger. Will there be a direct stake feature from ledger, not through the application?*
 
-**BFX:** Solar Network has native support for Ledger currently through the desktop wallet, and you will be able to stake and vote using the wallet. A Ledger app that does not require a wallet is currently not available, but could be proposed. For sure, you will be able to keep your funds secure ánd benefit from staking all on your Ledger. Even with multiple addresses so you can vote for multiple delegates, from one device.
+**BFX:** Solar Network has native support for Ledger currently through the desktop wallet, and you will be able to stake and vote using the wallet. A Ledger app that does not require a wallet is currently not available, but could be proposed. For sure, you will be able to keep your funds secure ánd benefit from staking all on your Ledger. Even with multiple addresses so you can vote for multiple block producers, from one device.
 
 **h k:** *Q10: You mentioned that you understand the technique. What is your opinion about the current price chart of Solar?*
 
@@ -79,7 +79,7 @@ I think this concludes most of the questions, when I scan them there are similar
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate ****[bfx](https://delegates.solar.org/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for block producer ****[bfx](https://delegates.solar.org/delegates/bfx)**.
 
 ---
 
@@ -164,4 +164,4 @@ Sanırım bu, soruların çoğunu sonlandırıyor, onları taradığımda cevapl
 
 ---
 
-If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for delegate **[bfx](https://delegates.solar.org/delegates/bfx)**.
+If you found this article helpful, check out [my other articles](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) and please consider voting for block producer **[bfx](https://delegates.solar.org/delegates/bfx)**.

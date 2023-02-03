@@ -1,5 +1,5 @@
 # Awesome Solar
- A publicly curated list of awesome Solar websites, resources, documentation, tools, software, delegate & community efforts. Created & curated by delegate **[bfx](https://delegates.solar.org/delegates/bfx)**, please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
+ A publicly curated list of awesome Solar websites, resources, documentation, tools, software, block producer & community efforts. Created & curated by block producer **[bfx](https://delegates.solar.org/delegates/bfx)**, please consider voting if you find this resource useful. Forked from & inspired by [awesome-go](https://github.com/avelino/awesome-go).
  
  ** Disclaimer - All of the resources available below are publicly available, we cannot guarantee the accuracy or efficacy of the resources listed, and are not liable for any submitted content.
 
@@ -56,7 +56,7 @@
     - Solar North America
     - Solar South America
 
-- [Tools & Resources (Delegates)](#tools--resources-delegates)
+- [Tools & Resources (Block producers)](#tools--resources-block-producers)
     - Blogs & Podcasts
     - Core Management
     - Core Plugins
@@ -99,7 +99,7 @@
     * [Solar Instagram](https://www.instagram.com/solarnetworkofficial/) - Solar Instagram page.
     * [Solar LinkedIn](https://www.linkedin.com/company/solarnetworkofficial) - Solar LinkedIn page.
     * [Solar Telegram - Chat](https://t.me/Solar_Network) - Solar Telegram Chat Channel
-    * [Solar Telegram - Delegate Announcements](https://t.me/solar_delegates) - Solar Telegram Delegates Announcements Channel.
+    * [Solar Telegram - Block Producers Public](https://t.me/solar_delegates) - Solar Telegram Block Producers Announcements Channel.
     * [Solar Telegram - News](https://t.me/solar) - Solar Telegram News Channel.
     * [Solar Twitter](https://twitter.com/SolarNetwork) - Solar Twitter Account.
     * Old Social Media:
@@ -144,14 +144,14 @@
 ***Official** Mainnet Resources.*
 
 * [Solar Mainnet API](https://api.solar.org/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
-* [Solar Mainnet Block Explorer](https://explorer.solar.org/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
+* [Solar Mainnet Block Explorer](https://explorer.solar.org/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
 * [Solar Mainnet Wallet](https://solar.org/desktop-wallet/) - Mainnet Wallet for managing your SXP.
-* [Solar Mainnet Delegate Proposals](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
+* [Solar Mainnet Block Producer Proposals](https://delegates.solar.org/) - Block Producer proposals of Solar Mainnet block producers.
 
 ***Official** Testnet Resources.*
 
 * [Solar Testnet API](https://tapi.solar.org/) - Solar Testnet API - API's expose different resources and data provided by the Core Server (Node).
-* [Solar Testnet Block Explorer](https://texplorer.solar.org/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Delegates and Wallet Information.
+* [Solar Testnet Block Explorer](https://texplorer.solar.org/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
 * [Solar Testnet Wallet](https://solar.org/desktop-wallet/) - Testnet Wallet for managing your SXP.
 
 [Back to top](#Contents)
@@ -228,7 +228,7 @@
             * [How to Add a Contact](https://docs.solar.org/desktop-wallet/user-guides/how-to-add-a-contact/) - How to add a contact using the desktop wallet.
             * [How to Create or Import a Wallet?](https://docs.solar.org/desktop-wallet/user-guides/how-to-create-or-import-wallets/) - How to create or import a wallet using the desktop wallet.
             * [How to Register a Second Passphrase?](https://docs.solar.org/desktop-wallet/user-guides/how-to-register-second-passphrase/) - How to register a second passphrase using the desktop wallet.
-            * [How to Register or Resign a Delegate?](https://docs.solar.org/desktop-wallet/user-guides/how-to-register-or-resign-delegate/) - How to register or resign a delegate using the desktop wallet.
+            * [How to Register or Resign a Block Producer?](https://docs.solar.org/desktop-wallet/user-guides/how-to-register-or-resign-delegate/) - How to register or resign a block producer using the desktop wallet.
             * [How to Send an SXP Transfer?](https://docs.solar.org/desktop-wallet/user-guides/how-to-send/) - How to send SXP transfers using the desktop wallet.
             * [How to Sign and Verify Messages?](https://docs.solar.org/desktop-wallet/user-guides/how-to-sign-and-verify/) - How to sign and verify messages using the desktop wallet.
             * [How to Vote or Unvote in the Desktop Wallet?](https://docs.solar.org/desktop-wallet/user-guides/how-to-vote/) - How to vote or unvote using the desktop wallet.
@@ -245,9 +245,9 @@
     * Public REST-API
         * [Getting started](https://docs.solar.org/api/public-rest-api/getting-started/) - Getting started with the public API.
         * [Endpoints](https://docs.solar.org/api/public-rest-api/endpoints/intro/) - Explanation about possible API endpoints.
+            * [Block Producer](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on block producer endpoint.
             * [Blockchain](https://docs.solar.org/api/manager-api/endpoints/blockchain/) - Documentation on blockchain endpoint.
             * [Blocks](https://docs.solar.org/api/public-rest-api/endpoints/blocks/) - Documentation on blocks endpoint.
-            * [Delegates](https://docs.solar.org/api/public-rest-api/endpoints/delegates/) - Documentation on delegates endpoint.
             * [Node](https://docs.solar.org/api/public-rest-api/endpoints/node/) - Documentation on node endpoint.
             * [Peers](https://docs.solar.org/api/public-rest-api/endpoints/peers/) - Documentation on peers endpoint.
             * [Transactions](https://docs.solar.org/api/public-rest-api/endpoints/transactions/) - Documentation on transactions endpoint.
@@ -295,26 +295,26 @@
 
 ## Community AMA-events
 
-*AMA-events with delegates held in Solar community channels and related social media.*
+*AMA-events with block producers held in Solar community channels and related social media.*
 
-* [Delegate arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
-* [Delegate bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
-* [Delegate fnoufnou & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with fnoufnou & Solar Senior Brand Ambassador, Elaine.
-* [Delegate goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
-* [Delegate goat & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with goat & Solar Senior Brand Ambassador, Elaine.
-* [Delegate gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
-* [Delegate leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
-* [Delegate leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
-* [Delegate mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
-* [Delegate sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Solar Twitter Spaces.
-* [Delegate osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
-* [Delegates fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Solar Twitter Spaces.
-* [Delegates gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
-* [Delegates toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
-* [FNDZ & delegate goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
-* [NowPayments & delegate sigma](https://twitter.com/NOWPayments_io/status/1506681181756137479) - AMA with sigma on Solar on NowPayments Twitter Spaces.
-* [SimpleHold & delegate goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
-* [StealthEx & delegate bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
+* [Block Producer arktoshi](https://t.me/solarnetwork_tr/3978) - AMA with arktoshi in Solar Turkey chat.
+* [Block Producer bfx](https://t.me/solarnetwork_tr/41532) - AMA with bfx in Solar Turkey chat.
+* [Block Producer fnoufnou & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with fnoufnou & Solar Senior Brand Ambassador, Elaine.
+* [Block Producer goat](https://t.me/solarnetwork_tr/33949) - AMA with goat in Solar Turkey chat.
+* [Block Producer goat & Elaine](https://blog.solar.org/ama-with-delegate-fnoufnou-e41cdf5b5e43) - AMA with goat & Solar Senior Brand Ambassador, Elaine.
+* [Block Producer gym](https://t.me/Solar/125423) - AMA with Solar Core lead developer gym, in Solar Telegram Chat.
+* [Block Producer leitesv (Bitget)](https://t.me/Solar/103391) - AMA with leitesv in Bitget Spain chat.
+* [Block Producer leitesv (Solar)](https://twitter.com/solarnetwork/status/1541638195757993984) - AMA with leitesv on Solar Twitter Spaces.
+* [Block Producer mtaylan](https://t.me/solarnetwork_tr/10211) - AMA with mtaylan in Solar Turkey chat.
+* [Block Producer sigma](https://twitter.com/YaketyO/status/1528327368167018496) - AMA with sigma on Solar Twitter Spaces.
+* [Block Producer osrn](https://t.me/solarnetwork_tr/17917) - AMA with osrn in Solar Turkey chat.
+* [Block Producers fnoufnou & cams_yellow_jacket](https://twitter.com/i/spaces/1yNxaYQVAjdxj) - AMA with fnoufnou & cams_yellow_jacket on Solar Twitter Spaces.
+* [Block Producers gym & cactus1549](https://t.me/solarnetwork_tr/53091) - AMA with gym & cactus1549 in Solar Turkey chat.
+* [Block Producers toons & arktoshi](https://t.me/Solar_VN/19070) - AMA with toons & arktoshi in Solar Vietnam chat.
+* [FNDZ & Block Producer goat](https://t.me/fndzdao/13923) - AMA with goat on Solar in FNDZ chat.
+* [NowPayments & Block Producer sigma](https://twitter.com/NOWPayments_io/status/1506681181756137479) - AMA with sigma on Solar on NowPayments Twitter Spaces.
+* [SimpleHold & Block Producer goose](https://simplehold.io/blog/article/solar-ama) - AMA with goose on Solar in SimpleHold chat.
+* [StealthEx & Block Producer bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA with bfx on Solar in StealthEx community chat.
 
 [Back to top](#Contents)
 
@@ -373,7 +373,7 @@
 
 ## Telegram Channels (Community)
 
-***Unofficial** social media channels by Solar community members/delegates.*
+***Unofficial** social media channels by Solar community members/block producers.*
 
 * Solar Africa
     * [Solar Africa](https://t.me/SolarNetwork_Africa)
@@ -412,17 +412,17 @@
 
 [Back to top](#Contents)
 
-## Tools & Resources (Delegates)
+## Tools & Resources (Block Producers)
 
-***Unofficial** tools & resources developed by Solar delegates.*
+***Unofficial** tools & resources developed by Solar block producers.*
 
 * Blogs & Podcasts
     * [Awesome Solar blog - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/README.md) - Blog on a range of topics concerning the Solar ecosystem, created by bfx.
-        * [AMA with Solar Community - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram with delegate bfx.
-        * [AMA with StealthEX - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram with delegate bfx.
+        * [AMA with Solar Community - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-Solar-Network-Community.md) - AMA session with Solar Community, held on Telegram with block producer bfx.
+        * [AMA with StealthEX - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/AMA-with-StealthEX.md) - AMA session with StealthEX about the Solar, held on Telegram with block producer bfx.
         * [Block Production on Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Block-Production.md) - Article about how blocks are produced on Solar, created by bfx.
         * [Deflation in Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Deflation-in-Solar.md) - Article about deflation through SLP transaction fee burn, created by bfx.
-        * [Delegated Proof-of-Stake - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Delegated-Proof-of-Stake.md) - Article about Delegated Proof-of-Stake (DPoS) consensus, delegates and the importance of voting, created by bfx.
+        * [Delegated Proof-of-Stake - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Delegated-Proof-of-Stake.md) - Article about Delegated Proof-of-Stake (DPoS) consensus, block producers and the importance of voting, created by bfx.
         * [Staking your SXP (Solar Network) - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Staking-your-SXP.md) - Article about how staking your SXP works, created by bfx.
         * [Voting and Reward Dilution - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/awesome-blog/Voting-and-reward-dilution.md) - Article about the importance of voting and how reward dilution works as total amount of votes differs, created by bfx.
     * Solar Summarization Podcasts - sigma
@@ -432,13 +432,14 @@
         * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
         * [Episode 5](https://www.youtube.com/watch?v=Kbnb3-aM88Q) - Fifth episode of Solar Summarization; on achieved milestones, created by sigma.
         * [Episode 6](https://www.youtube.com/watch?v=RxL43EpuR3g) - Sixth episode of Solar Summarization; on District53 and tymt, created by sigma.
+                * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
 * Core Management
-    * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends delegate change notifications to Discord, created by biz_classic.
+    * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
+    * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
     * Core Control - geops
         * [Solar Control mainnet - geops](https://github.com/geopsllc/solar-control/tree/master) - Core Control makes node management easy, created by geops.
         * [Solar Control testnet - geops](https://github.com/geopsllc/solar-control/tree/dev) - Core Control makes node management easy, created by geops.
-    * [Delegate Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for delegates across multiple chains including Solar, created by geops.
-    * [Lazy Delegate - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
+    * [Lazy Block Producer - osrn](https://github.com/osrn/lazy-delegate) - Python Solar node monitoring with Discord notification, based on the script by mtaylan, created by osrn.
     * [NodeMonitoring for Discord & Telegram - bfx](https://github.com/Bx64/NodeMonitoring) - Updated & refactored version of the script by mtaylan, with added features & support for ARK - created by bfx.
     * [Solar CLI - nybl](https://github.com/PhillipJacobsen/solar-cli) - A command line interface to perform tasks such as check wallet balance, sign / verify messages, and send transactions, created by nybl.
     * [Solar Node Monitor Discord - mtaylan](https://solar.mtaylan.com/index.php/install-solar_discord_monitor/) - Core alerts sent directly to your personal Discord bot, created by mtaylan.
@@ -447,20 +448,20 @@
 * Core Plugins
     * [Core API Extensions - emsy](https://github.com/e-m-s-y/core-api-extension/tree/solar) - A core plugin that extends the core-api package by adding custom endpoints, created by emsy.
     * [Core Auto Refunds - dpos.info](https://github.com/dpos-info/core-auto-refunds) - Auto refund plugin for HTLC unlocks, created by dpos.info.
-    * [Core Voter Count - dpos.info](https://github.com/dpos-info/core-voter-count) - Adds voter count to delegates API response, created by dpos.info.
+    * [Core Voter Count - dpos.info](https://github.com/dpos-info/core-voter-count) - Adds voter count to block producer API response, created by dpos.info.
     * [MQTT plugin - deadlock](https://github.com/deadlock-delegate/mqtt) - MQTT plugin that broadcasts events to a MQTT broker, created by deadlock.
-    * [Productivity Statistics - gym](https://github.com/alessiodf/productivity-statistics) - Includes statistics to delegates API endpoint to display the number of missed rounds and slots for each delegate, along with a productivity score, created by gym.
-    * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by delegates to be monitored for activity, created by gym.
+    * [Relay Verifier - gym](https://github.com/alessiodf/verify-relay) - Allows relays ran by block producers to be monitored for activity, created by gym.
+    * [Reliability Statistics - gym](https://github.com/alessiodf/productivity-statistics) - Includes statistics to block producer API endpoint to display the number of failed rounds and slots for each block producer, along with a reliability score, created by gym.
     * [Rocket Boot - gym](https://github.com/alessiodf/rocket-boot) - Dumps and reloads database in-memory state to/from disk for quicker core restarts, created by gym.
-    * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth forging round statistics including forging times and round positions, created by tortoise_emperor, created by gym.
+    * [Round Monitor - gym](https://github.com/alessiodf/round-monitor) - Provides in-depth block production round statistics including block production times and round positions, created by tortoise_emperor, created by gym.
     * [Socket Event Forwarder - emsy](https://github.com/e-m-s-y/socket-event-forwarder/tree/solar) - A bridgechian plugin for forwarding real-time blockchain events through socket.io, created by emsy.
     * [Solar Vote - geops](https://github.com/Bx64/solar-vote) - Tool to monitor your votes and get recommendations on vote switches, created by geops.
-    * [Universal Delegate Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts delegate statistics over WebSocket protocol, created by gym.
+    * [Universal Block Producer Monitor Server - gym](https://github.com/alessiodf/universal-delegate-monitor-server) - Broadcasts block producer statistics over WebSocket protocol, created by gym.
 * Desktop Wallet Plugins
     * Translation plugins
         * [Italian - kaos](https://github.com/delkaos/solar-wallet_italian-plugin) - Italian language plugin, created by kaos.
         * [Turkish - mtaylan](https://github.com/mtaylan/turkish-language-plugin) - Turkish language plugin, created by mtaylan.
-    * [Universal Delegate Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives delegate statistics over WebSocket protocol, created by gym.
+    * [Universal Block Producer Monitor - gym](https://github.com/alessiodf/universal-delegate-monitor) - Plugin that receives block producer statistics over WebSocket protocol, created by gym.
 * Development Packages
     * [dart-crypto - st3v3n](https://github.com/dutchpool/solar-dart-crypto) - dart-crypto package for Dart/Flutter projects, created by st3v3n.
 * Games
@@ -477,7 +478,7 @@
         * [How to create SXP wallet - studiocoina](https://www.youtube.com/watch?v=VYtUvyemEQE) - Information on how to create a SXP wallet, created by studiocoina.
         * [How to install SXPF@H - mtaylan](https://www.youtube.com/watch?v=Bv_OtbKnJwg) - Information on how to install Folding@Home, created by mtaylan.
         * [How to send SXP - studiocoina](https://www.youtube.com/watch?v=JyVRMJsoYnI) - Information on how to transfer SXP, created by studiocoina.
-        * [How to vote delegate, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
+        * [How to vote block producer, stake and earn SXP - studiocoina](https://www.youtube.com/watch?v=TEyQ841wUvA) - Information on how to stake SXP, created by studiocoina.
         * [Solar July mid-term valuation - dokdo](https://www.youtube.com/watch?v=ZkeLQzjGc7A) - Information on the first 3rd-party KYC-verified multicurrency mobile wallet with staking and voting for SXP, created by dokdo.
         * [Staking on ARK Core Based Blockchains - cams_yellow_jacket](https://youtu.be/9t0G7F8VW60) - Information on how staking works, created by cams_yellow_jacket.
 * Interoperability
@@ -507,35 +508,35 @@
 * Social Media Bots
     * [ARK Faucet (Discord) - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
     * [BurnSxpDaily Tracker (Twitter) - mtaylan](https://twitter.com/BurnSxpDaily) - Automatically updating burn tracker bot on Twitter, created by mtaylan.
-    * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, delegate payout and position, and more, created by cactus1549.
+    * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, block producer payout and position, and more, created by cactus1549.
     * [Testnet Faucet (Telegram) - nybl](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by nybl.
 * True Block Weight Payout Scripts/Core Plugins
     * [cactus-pool - bfx](https://github.com/Bx64/cactus-pool) - A pool dashboard for the cactus-tbw core plugin (ported from core3-tbw), created by bfx.
     * [cactus-tbw - cactus1549](https://github.com/Cactus-15-49/cactus-tbw) - A true blockweight core plugin, created by cactus1549.
-    * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for delegates (free to use), created by goose.
-    * [core3-tbw - goose](https://github.com/galperins4/core3-tbw) - Automated payout script for delegates (free to use), created by goose.
-    * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for delegates (1% fee), created by cryptology.
+    * [core2_tbw - goose](https://github.com/galperins4/core2_tbw) - Automated payout script for block producers (free to use), created by goose.
+    * [core3-tbw - goose](https://github.com/galperins4/core3-tbw) - Automated payout script for block producers (free to use), created by goose.
+    * [cryptology_tbw - cryptology](https://github.com/wownmedia/cryptology_tbw) - Automated payout script for block producers (1% fee), created by cryptology.
     * [lazy ledger - osrn](https://github.com/osrn/lazy-ledger) - A true blockweight core plugin, created by osrn.
-    * [zen delegate manager - toons](https://github.com/Moustikitos/ark-zen) - Delegate manager with automated payout script (free to use), created by toons.
+    * [zen block producer manager - toons](https://github.com/Moustikitos/ark-zen) - Block producer manager with automated payout script (free to use), created by toons.
 * Websites
     * [Awesome Solar - bfx](https://github.com/Bx64/Awesome-Solar/blob/main/README.md) - You are here! Everything on Solar in one awesome resource, created by bfx.
-    * [Contributions - aurelion_sol](https://aurelion-sol.com/delegatesContributions.txt) - A text list of delegate contributions reported on the delegate proposal site, created by aurelion_sol.
-    * [Solar Block Explorer - cactus1549](https://explore.solar/) - The block explorer for transactions, blocks, delegates and wallet information, created by cactus1549.
+    * [Contributions - aurelion_sol](https://aurelion-sol.com/delegatesContributions.txt) - A text list of block producer contributions reported on the block producer proposal site, created by aurelion_sol.
+    * [Solar Block Explorer - cactus1549](https://explore.solar/) - The block explorer for transactions, blocks, block producers and wallet information, created by cactus1549.
     * [Solar Income Estimator - goose](https://solar.dpos.tax/) - Solar Income Estimator helps with tax reporting, created by goose (and arkmoon).
-    * [Solar Library](https://solarlibrary.org/) - Turkish community website (with translation plugin), created by a number of Solar moderators, delegates and community members.
+    * [Solar Library](https://solarlibrary.org/) - Turkish community website (with translation plugin), created by a number of Solar moderators, block producers and community members.
     * [Solar Vietnam - arktoshi](https://SXPViet.com) - Vietnamese community website, created by arktoshi.
-    * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar delegates, created by arbaro.
+    * [Solar Vote Changes - arbaro](https://solar.arbarodelegate.eu/) - Voter and position changes of Solar block producers, created by arbaro.
     * [SXP Directory - arktoshi](https://sxpdirectory.com/) - Directory with several links for Solar, created by arktoshi.
     * [Voter Chat - nybl](http://chat.littleyus.com/) - Proof of concept chat app that uses MQTT and Solar testnet wallets to sign messages, created by nybl.
-    * Delegate Websites
-        * [Delegate Proposals Website - leitesv](https://delegates.solar.org/) - Delegate proposals of Solar Mainnet delegates.
-        * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with delegate payout information, created by bfx.
-        * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with delegate information, created by biz_classic.
-        * [Solar - emsy & nybl](https://friendsoflittleyus.nl/) - Website with delegate information, created by emsy & nybl (formerly friendsoflittleyus).
-        * [Solar - fun](https://www.arkfun.io/) - Website with delegate information, created by fun.
+    * Block Producer Websites
+        * [Block Producer Proposals Website - leitesv](https://delegates.solar.org/) - Block producer proposals of Solar Mainnet block producers.
+        * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with block producer payout information, created by bfx.
+        * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with block producer information, created by biz_classic.
+        * [Solar - emsy & nybl](https://friendsoflittleyus.nl/) - Website with block producer information, created by emsy & nybl (formerly friendsoflittleyus).
+        * [Solar - fun](https://www.arkfun.io/) - Website with block producer information, created by fun.
         * [Solar - kimchi](https://www.kimchigraphics.com/) - Website with 2D & 3D graphics, created by kimchi.
-        * [Solar - mtaylan](https://solar.mtaylan.com/) - Website with delegate information, created by mtaylan.
-        * [Solar - osrn](https://osrn.github.io/) - Website with delegate information, created by osrn.
+        * [Solar - mtaylan](https://solar.mtaylan.com/) - Website with block producer information, created by mtaylan.
+        * [Solar - osrn](https://osrn.github.io/) - Website with block producer information, created by osrn.
 
 [Back to top](#Contents)
 
