@@ -279,6 +279,7 @@
     * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
+    * [Solar - Dokdo AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
     * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
     * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Solar Senior Brand Ambassador, Elaine and Marija.
@@ -503,6 +504,7 @@
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by emsy & nybl.
     * [Solar Statistics - SolarLibrary](https://solarlibrary.org/solar-statistics/) - A Turkish statistics page with translation plugin, created by SolarLibrary.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
+    * [VoteReport - bfx](https://votereport.bfx-delegate.xyz/) - A text-style votereport with current ranks and voteweight for block producers in dark mode, created by bfx.
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/VoteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - emsy & nybl](https://shop.friendsoflittleyus.nl) - Merchandise store, created by emsy & nybl.
