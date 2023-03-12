@@ -375,7 +375,6 @@
     * [Binance](https://www.binance.com/en/trade/SXP_USDT)
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
     * [Bittrex](https://global.bittrex.com/Market/Index?MarketName=BTC-SXP)
-    * [Coinone](https://coinone.co.kr/exchange/trade/sxp/)
     * [HitBTC](https://hitbtc.com/sxp-to-usdt)
     * [Kraken](https://www.kraken.com/prices/swipe?quote=usd)
     * [Poloniex](https://poloniex.com/exchange/BTC_SXP)
@@ -401,7 +400,7 @@
     * [Solar Phillippines](https://t.me/SolarNetwork_Phillippines)
     * [Solar Russia](https://t.me/SolarNetworkRu)
     * [Solar Thailand](https://t.me/SolarNetwork_Thailand)
-    * [Solar Turkey](https://t.me/solarnetwork_tr)
+    * [Solar Türkiye](https://t.me/solarnetwork_tr)
     * [Solar Vietnam](https://t.me/Solar_VN)
 * Solar Australia
     * None so far.
@@ -444,7 +443,8 @@
         * [Episode 4](https://www.youtube.com/watch?v=d9wW45d3eyc) - Fourth episode of Solar Summarization; on the Solar Q2 update, created by sigma.
         * [Episode 5](https://www.youtube.com/watch?v=Kbnb3-aM88Q) - Fifth episode of Solar Summarization; on achieved milestones, created by sigma.
         * [Episode 6](https://www.youtube.com/watch?v=RxL43EpuR3g) - Sixth episode of Solar Summarization; on District53 and tymt, created by sigma.
-                * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
+        * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
+        * [Episode 8](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Eighth episode of Solar Summarization; on latest news, created by sigma.
 * Core Management
     * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
