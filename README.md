@@ -45,8 +45,8 @@
 - [Community AMA-events](#community-AMA-events) 
 
 - [Exchanges](#exchanges)
-    - New
-    - Old
+    - Mainnet
+    - Swipe ERC/BSC (old)
 
 - [Telegram Channels (Community)](#telegram-channels-community)
     - Solar Africa
@@ -56,7 +56,7 @@
     - Solar North America
     - Solar South America
 
-- [Tools & Resources (Block producers)](#tools--resources-block-producers)
+- [Tools & Resources (Block Producers)](#tools--resources-block-producers)
     - Blogs & Podcasts
     - Core Management
     - Core Plugins
@@ -279,7 +279,7 @@
     * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
-    * [Solar - Dokdo AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
+    * [Solar - Dokdo: Solar Card AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
     * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
     * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Solar Senior Brand Ambassador, Elaine and Marija.
@@ -323,7 +323,7 @@
 
 *Exchanges where SXP can be traded.*
 
-* New
+* Mainnet
     * [Bibox](https://www.bibox.com/)
         * [SXP - USDT](https://www.bibox.com/en/exchange/basic/SXP_USDT)
     * [Bitget](https://www.bitget.com/)
@@ -335,8 +335,13 @@
         * [SXP - USDT](https://www.bitmart.com/trade/en?symbol=SXP_USDT)
     * [ChangeNOW](https://www.changenow.io/)
         * [SXP - 450+ cryptocurrencies](https://changenow.io/currencies/solar-network)
+    * [CoinEx](https://www.coinex.com/)
+        * [SXP - USDC](https://www.coinex.com/exchange/SXP-USDC)
+        * [SXP - USDT](https://www.coinex.com/exchange/SXP-USDT)
     * [Coinone](https://coinone.co.kr/)
         * [SXP - KRW](https://coinone.co.kr/exchange/trade/sxp/krw)
+    * [Deepcoin](https://deepcoin.com/)
+        * [SXP - USDT](https://www.deepcoin.com/en/Spot?currentId=SXP%2FUSDT)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
@@ -371,8 +376,8 @@
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
     * [Whitebit](https://whitebit.com/)
         * [SXP - USDT](https://whitebit.com/trade/SXP-USDT)
-* [Old](https://coinmarketcap.com/currencies/sxp/markets/) - Several listed below, more available here.
-    * [Binance](https://www.binance.com/en/trade/SXP_USDT)
+* [Swipe ERC/BSC (old)](https://coinmarketcap.com/currencies/sxp/markets/)
+    * [Binance](https://www.binance.com/en/trade/SXP_USDT) - migrating!
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
     * [Bittrex](https://global.bittrex.com/Market/Index?MarketName=BTC-SXP)
     * [HitBTC](https://hitbtc.com/sxp-to-usdt)
