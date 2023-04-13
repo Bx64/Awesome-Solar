@@ -450,6 +450,7 @@
         * [Episode 6](https://www.youtube.com/watch?v=RxL43EpuR3g) - Sixth episode of Solar Summarization; on District53 and tymt, created by sigma.
         * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
         * [Episode 8](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Eighth episode of Solar Summarization; on latest news, created by sigma.
+        * [Episode 9](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Ninth episode of Solar Summarization; on latest news, created by sigma.
 * Core Management
     * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
@@ -509,7 +510,7 @@
         * [Testnet](https://friendsoflittleyus.nl/solar-testnet-network-info/) - Testnet network information page, created by emsy & nybl.
     * [Solar Statistics - SolarLibrary](https://solarlibrary.org/solar-statistics/) - A Turkish statistics page with translation plugin, created by SolarLibrary.
     * [Supply and burn information - sl33p](https://sunburn-sxp.vercel.app/) - Information on total supply and total fees burned, created by sl33p.
-    * [VoteReport - bfx](https://votereport.bfx-delegate.xyz/) - A text-style votereport with current ranks and voteweight for block producers in dark mode, created by bfx.
+    * [VoteReport - bfx](https://votereport.bfx.technology/) - A text-style votereport with current ranks and voteweight for block producers in dark mode, created by bfx.
     * [Vote Report - biz_classic](https://solar.classicdelegate.biz/VoteReport.txt) - A text-style vote report with actual voting statistics, created by biz_classic.
 * Products & Stores
     * [Friends of Little Yus Merchandise - emsy & nybl](https://shop.friendsoflittleyus.nl) - Merchandise store, created by emsy & nybl.
@@ -548,7 +549,7 @@
     * [Voter Chat - nybl](http://chat.littleyus.com/) - Proof of concept chat app that uses MQTT and Solar testnet wallets to sign messages, created by nybl.
     * Block Producer Websites
         * [Block Producer Proposals Website - leitesv](https://delegates.solar.org/) - Block producer proposals of Solar Mainnet block producers.
-        * [Solar - bfx](https://solar.bfx-delegate.xyz) - Website with block producer payout information, created by bfx.
+        * [Solar - bfx](https://solar.bfx.technology/) - Website with block producer payout information, created by bfx.
         * [Solar - biz_classic](https://solar.classicdelegate.biz/) - Website with block producer information, created by biz_classic.
         * [Solar - emsy & nybl](https://friendsoflittleyus.nl/) - Website with block producer information, created by emsy & nybl (formerly friendsoflittleyus).
         * [Solar - fun](https://www.arkfun.io/) - Website with block producer information, created by fun.
