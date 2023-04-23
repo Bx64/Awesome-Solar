@@ -504,6 +504,7 @@
 * Internet of Things (IoT)
     * [Simple Solar MQTT](https://github.com/PhillipJacobsen/Simple_Solar_MQTT) - Demo application using authenticated MQTT access to receive Solar.org blockchain events, created by nybl.
 * Network Statistics
+    * [Block Producer Summary - kimchi](https://www.kimchigraphics.com/block-producer-summary/) - A summary of blocks produced, missed and ranks of all active block producers, created by kimchi.
     * Solar Network Info - emsy & nybl
         * [Grafana dashboards](https://grafana.nybl.ca/) - Several Grafana dashboards displaying network information, created by nybl.
         * [Mainnet](https://friendsoflittleyus.nl/solar-mainnet-network-info/) - Mainnet network information page, created by emsy & nybl.
