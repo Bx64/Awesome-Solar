@@ -70,7 +70,7 @@
     - Products & Stores
     - Reward Calculators
     - Reward Programs
-    - Social Media Bots
+    - (Social Media) Bots
     - True Block Weight Payout Scripts
     - Websites
 
@@ -520,15 +520,17 @@
     * [Solar Reward Calculator - dpos.info](https://dpos.info/solar) - A reward calculator, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
     * [Verifier - st3v3n](https://verifier.dutchpool.io/solar/#/) - A payout verifier, created by st3v3n.
+    * [Vote Optimiser - st3v3n](https://solar.dutchpool.io/vote_optimiser/#/) - A vote optimiser, created by st3v3n.
     * [Vote Simulator - biz_classic](https://solar.classicdelegate.biz/simulator) - Get real-time payout information based on rank, voteweight and your balance, created by biz_classic.
 * Reward Programs
     * [Learn about Solar Network - CoinMarketCap](https://coinmarketcap.com/earn/project/solar) - Learn & Earn campaign on CoinMarketCap, created by Solar.
     * [Relay Node Programs - cams_yellow_jacket](https://sites.google.com/view/cyjsrelaynodeprograms/home) - Users will be rewarded with SXP for running a relay node, created by cams_yellow_jacket.
     * [SXP faucet - biz_classic](https://solar.classicdelegate.biz/faucet) - Users can roll and will be rewarded SXP based on roll result, created by biz_classic.
-* Social Media Bots
+* (Social Media) Bots
     * [ARK Faucet (Discord) - fonk](https://github.com/qvanphong/ark-faucet-discord-bot) - Faucet for Discord with SXP support, created by fonk.
     * [BurnSxpDaily Tracker (Twitter) - mtaylan](https://twitter.com/BurnSxpDaily) - Automatically updating burn tracker bot on Twitter, created by mtaylan.
     * [Solar Network Monitor (Telegram) - cactus1549](https://t.me/solarnetworkmonitorbot) - Bot to monitor your addresses, block producer payout and position, and more, created by cactus1549.
+    * [Solar Vote Cap Messenger - kippers](https://github.com/dutchpool/solar-vote-cap-messenger) - Bot to message voters that exceed votecap, created by kippers.
     * [Testnet Faucet (Telegram) - nybl](https://t.me/dSXP_bot) - Faucet where users can request 100 testnet SXP coins, and check their balance, created by nybl.
 * True Block Weight Payout Scripts/Core Plugins
     * [cactus-pool - bfx](https://github.com/Bx64/cactus-pool) - A pool dashboard for the cactus-tbw core plugin (ported from core3-tbw), created by bfx.
