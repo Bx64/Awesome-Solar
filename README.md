@@ -517,6 +517,7 @@
     * [Friends of Little Yus Merchandise - emsy & nybl](https://shop.friendsoflittleyus.nl) - Merchandise store, created by emsy & nybl.
     * [Relay @ Home - emsy & nybl](https://friendsoflittleyus.nl/relayhome) - Relay@Home shop, created by emsy & nybl.
 * Reward Calculators
+    * [Solar (SXP) Reward Calculator - bfx](https://calculator.bfx.technology/) - An accurate & fast reward calculator for Solar, created by bfx.
     * [Solar Reward Calculator - dpos.info](https://dpos.info/solar) - A reward calculator, created by dpos.info.
     * [SXP Stake Calculator - fonk](https://calculator.sxpviet.com/) - Stake calculator website, created by fonk.
     * [Verifier - st3v3n](https://verifier.dutchpool.io/solar/#/) - A payout verifier, created by st3v3n.
