@@ -18,8 +18,8 @@
     - Whitepaper*
     - Roadmap*
     - GitHub
-    - Network: Mainnet
-    - Network: Testnet
+    - Network Resources
+    - Solarscan
 
 - [Solar Documentation](#solar-documentation)
     - Documentation Website
@@ -46,7 +46,7 @@
 
 - [Exchanges](#exchanges)
     - Mainnet
-    - Swipe ERC/BSC (old)
+    - Legacy (Swipe ERC-20/BSC-20)
 
 - [Telegram Channels (Community)](#telegram-channels-community)
     - Solar Africa
@@ -117,16 +117,17 @@
 ***Official** Solar GitHub.*
 
 * [Solar GitHub](https://github.com/Solar-Network) - Official Solar GitHub.
+    * [Client](https://github.com/Solar-network/client) - GitHub Repository for Solar API client.
     * [Core](https://github.com/Solar-Network/core) - GitHub Repository for Solar core.
         * [Core Mainnet Setup](https://github.com/Solar-Network/core#installation) - Mainnet Core Setup (Automated Relay/Core Setup).
         * [Core Testnet Setup](https://github.com/Solar-Network/core/tree/develop#installation) - Testnet Core Setup (Automated Relay/Core Setup).
         * [Mainnet Blockchain Milestones](https://github.com/Solar-network/core/blob/main/packages/crypto/src/networks/mainnet/milestones.json) - Solar Blockchain Milestones.
         * [Testnet Blockchain Milestones](https://github.com/Solar-network/core/blob/main/packages/crypto/src/networks/testnet/milestones.json) - Solar Blockchain Milestones.
-    * [Crypto Networks](https://github.com/Solar-Network/crypto-networks) - GitHub Repository for Solar cryptography networks.
     * [Desktop Wallet](https://github.com/Solar-network/desktop-wallet) - GitHub Repository for the Solar Desktop Wallet.
     * [Desktop Wallet Plugins](https://github.com/Solar-network/desktop-wallet-plugins) - GitHub Repository for the Solar Desktop Wallet Plugins.
     * [Docs](https://github.com/Solar-Network/docs) - GitHub Repository for Solar documentation.
     * [Ledger-App-Solar](https://github.com/Solar-Network/ledger-app-solar) - GitHub repository for the Solar Ledger App.
+    * [Media](https://github.com/Solar-network/media) - GitHub repository for Solar media resources and assets.
     * [Peers](https://github.com/Solar-Network/peers) - GitHub Repository for Solar seed peers.
     * [PHP Client](https://github.com/Solar-Network/php-client) - GitHub Repository for Solar PHP client.
     * [Python Client](https://github.com/Solar-Network/python-client) - GitHub Repository for Solar Python client.
@@ -141,18 +142,18 @@
     * [Website](https://github.com/Solar-Network/website) - GitHub Repository for Solar new website.
     * [.github Profile](https://github.com/Solar-Network/.github) - GitHub Repository for Solar Network profile.
 
-***Official** Mainnet Resources.*
+***Official** Network Resources.*
 
 * [Solar Mainnet API](https://api.solar.org/) - Mainnet API - API's expose different resources and data provided by the Core Server (Node).
-* [Solar Mainnet Block Explorer](https://explorer.solar.org/) - Mainnet Explorer - Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
 * [Solar Mainnet Wallet](https://solar.org/desktop-wallet/) - Mainnet Wallet for managing your SXP.
 * [Solar Mainnet Block Producer Proposals](https://delegates.solar.org/) - Block Producer proposals of Solar Mainnet block producers.
-
-***Official** Testnet Resources.*
-
 * [Solar Testnet API](https://tapi.solar.org/) - Solar Testnet API - API's expose different resources and data provided by the Core Server (Node).
-* [Solar Testnet Block Explorer](https://texplorer.solar.org/) - Testnet Explorer - Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
 * [Solar Testnet Wallet](https://solar.org/desktop-wallet/) - Testnet Wallet for managing your SXP.
+
+***Solarscan**: Mainnet & Testnet Explorer.* 
+
+* [Solarscan: Mainnet Explorer](https://solarscan.com/) - Mainnet Explorer. Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
+* [Solarscan: Testnet Explorer](https://testnet.solarscan.com/) - Testnet Explorer. Viewing tool for Transactions, Blocks, Block Producers and Wallet Information.
 
 [Back to top](#Contents)
 
@@ -274,15 +275,16 @@
     * [Cryptojobs - AMA: Growth, Culture & Community in Web3](https://twitter.com/jeffreytief/status/1531788286498177024) - A discussion about growth, culture and community in Web3 with ex-Solar Senior Brand Ambassador, Tief.
     * [Girl Gone Crypto - Decentralization, Metaverse Gaming and More](https://www.youtube.com/watch?v=7ju2HCxCt04) - Interview with ex-Solar Senior Brand Ambassador, Tief.
     * [KBW2022 Conference and District53 Side Event Updates](https://twitter.com/SolarNetwork/status/1559034155958439937) - Update on the Korean Blockchain Week 2022 with ex-Solar Senior Brand Ambassador, Tief.
-    * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with ex-Solar Senior Brand Ambassador Tief.
-    * [NowPayments - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/nowpayments_io/status/1592587153024114688) - AMA with NowPayments and Solar Senior Brand Ambassador Elaine.
-    * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador Elaine.
+    * [Nemus Partnership - Solar AMA](https://twitter.com/solarnetwork/status/1566958924204765189) - AMA with co-founder Charlie of Nemus Earth, with ex-Solar Senior Brand Ambassador, Tief.
+    * [NowPayments - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/nowpayments_io/status/1592587153024114688) - AMA with NowPayments and Solar Senior Brand Ambassador, Elaine.
+    * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador, Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Dokdo: Solar Card AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
     * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
-    * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Solar Senior Brand Ambassador, Elaine and Marija.
+    * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Marija & Solar Senior Brand Ambassador, Elaine.
+    * [Travala - AMA with Solar Senior Brand Ambassador, Elaine & Shane](https://blog.solar.org/solar-and-travala-ama-6b6a797f23aa) - Travala AMA with Shane & Solar Senior Brand Ambassador, Elaine.
 * Conferences & panels
     * [Korea Blockchain Week - Nayiem & Tief](https://koreablockchainweek.com/) - Nayiem & Tief have visited Korea Blockchain week on behalf of Solar.
     * [TheCapital2022 - Event Opening](https://www.youtube.com/watch?v=bfPhp5QdBjQ) - TheCapital2022 event opening talk by ex-Solar Senior Brand Ambassador, Tief.
@@ -326,6 +328,12 @@
 * Mainnet
     * [Bibox](https://www.bibox.com/)
         * [SXP - USDT](https://www.bibox.com/en/exchange/basic/SXP_USDT)
+    * [Binance](https://www.binance.com/)
+        * [SXP - BNB](https://www.binance.com/en/trade/SXP_BNB)
+        * [SXP - BTC](https://www.binance.com/en/trade/SXP_BTC)
+        * [SXP - BUSD](https://www.binance.com/en/trade/SXP_BUSD)
+        * [SXP - TRY](https://www.binance.com/en/trade/SXP_TRY)
+        * [SXP - USDT](https://www.binance.com/en/trade/SXP_USDT)
     * [Bitget](https://www.bitget.com/)
         * [SXP - USDT](https://www.bitget.com/en/spot/SXPUSDT_SPBL)
         * [SXP - USDT (futures)](https://www.bitget.com/mix/usdt/SXPUSDT_UMCBL)
@@ -346,11 +354,6 @@
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
         * [SXP - USDT](https://www.gate.io/trade/SXP_USDT)
-    * [Hotbit](https://www.hotbit.io/)
-        * [SXP - BTC](https://www.hotbit.io/exchange?symbol=SXP_BTC)
-        * [SXP - USDT](https://www.hotbit.io/exchange?symbol=SXP_USDT)
-        * [SXP1D5L - USDT](https://www.hotbit.io/etf?symbol=SXP1D5L_USDT)
-        * [SXP1D5S - USDT](https://www.hotbit.io/etf?symbol=SXP1D5S_USDT)
     * [Huobi](https://www.huobi.com/)
         * [SXP - USDT](https://www.huobi.com/en-us/exchange/sxp_usdt)
     * [Jubi](https://jbex.com/)
@@ -376,12 +379,10 @@
         * [SXP - KRW](https://upbit.com/exchange?code=CRIX.UPBIT.KRW-SXP)
     * [Whitebit](https://whitebit.com/)
         * [SXP - USDT](https://whitebit.com/trade/SXP-USDT)
-* [Swipe ERC/BSC (old)](https://coinmarketcap.com/currencies/sxp/markets/)
-    * [Binance](https://www.binance.com/en/trade/SXP_USDT) - migrating!
+* Legacy (Swipe ERC-20/BSC-20)
     * [Bitstamp](https://www.bitstamp.net/markets/sxp/eur/)
     * [Bittrex](https://global.bittrex.com/Market/Index?MarketName=BTC-SXP)
     * [HitBTC](https://hitbtc.com/sxp-to-usdt)
-    * [Kraken](https://www.kraken.com/prices/swipe?quote=usd)
     * [Poloniex](https://poloniex.com/exchange/BTC_SXP)
     * [Probit](https://www.probit.com/app/exchange/SXP-USDT)
 
