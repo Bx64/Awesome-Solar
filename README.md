@@ -282,6 +282,7 @@
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
     * [Solar - Dokdo: Solar Card AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
+    * [Solar - Q3 AMA with Nayiem](https://blog.solar.org/solar-ama-transcript-de6c8f0b1dd9) - AMA with Nayiem and Solar Brand Ambassador, Elaine about upcoming releases, Core 5.0, SVM, moon.store, US Market and more in Solar Telegram. 
     * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
     * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Marija & Solar Senior Brand Ambassador, Elaine.
     * [Travala - AMA with Solar Senior Brand Ambassador, Elaine & Shane](https://blog.solar.org/solar-and-travala-ama-6b6a797f23aa) - Travala AMA with Shane & Solar Senior Brand Ambassador, Elaine.
@@ -452,8 +453,9 @@
         * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
         * [Episode 8](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Eighth episode of Solar Summarization; on latest news, created by sigma.
         * [Episode 9](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Ninth episode of Solar Summarization; on latest news, created by sigma.
-        * [Episode 10](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Eighth episode of Solar Summarization; on the closing of the swap portal, created by sigma.
-        * [Episode 11](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Ninth episode of Solar Summarization; on whitepaper V2 & new roadmap, created by sigma.
+        * [Episode 10](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Tenth episode of Solar Summarization; on the closing of the swap portal, created by sigma.
+        * [Episode 11](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Eleventh episode of Solar Summarization; on whitepaper V2 & new roadmap, created by sigma.
+        * [Episode 12](https://www.youtube.com/watch?v=nskdmrpgGCo) - Twelfth episode of Solar Summarization; on market & D53, created by sigma.
 * Core Management
     * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
