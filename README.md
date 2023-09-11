@@ -351,6 +351,7 @@
         * [SXP - KRW](https://coinone.co.kr/exchange/trade/sxp/krw)
     * [Deepcoin](https://deepcoin.com/)
         * [SXP - USDT](https://www.deepcoin.com/en/Spot?currentId=SXP%2FUSDT)
+    * [Exolix](https://exolix.com/)
     * [Gate.io](https://www.gate.io/)
         * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
         * [SXP - USD](https://www.gate.io/trade/SXP_USD)
@@ -453,9 +454,12 @@
         * [Episode 7](https://www.youtube.com/watch?v=lY9rR7lLXE0) - Seventh episode of Solar Summarization; on latest news, created by sigma.
         * [Episode 8](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Eighth episode of Solar Summarization; on latest news, created by sigma.
         * [Episode 9](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Ninth episode of Solar Summarization; on latest news, created by sigma.
-        * [Episode 10](https://www.youtube.com/watch?v=jvpkwhZiK-4) - Tenth episode of Solar Summarization; on the closing of the swap portal, created by sigma.
-        * [Episode 11](https://www.youtube.com/watch?v=_9AvQR0Xa48) - Eleventh episode of Solar Summarization; on whitepaper V2 & new roadmap, created by sigma.
+        * [Episode 10](https://www.youtube.com/watch?v=4IPOJgUYR2o) - Tenth episode of Solar Summarization; on the closing of the swap portal, created by sigma.
+        * [Episode 11](https://www.youtube.com/watch?v=4HrZKILYbc4) - Eleventh episode of Solar Summarization; on whitepaper V2 & new roadmap, created by sigma.
         * [Episode 12](https://www.youtube.com/watch?v=nskdmrpgGCo) - Twelfth episode of Solar Summarization; on market & D53, created by sigma.
+        * [Episode 13](https://www.youtube.com/watch?v=QMjaE7jCs3U) - Thirteenth episode of Solar Summarization; on market & recent AMA, created by sigma.
+        * [Episode 14](https://www.youtube.com/watch?v=eTqwOEXaBz4) - Fourteenth episode of Solar Summarization; on market & prizes, created by sigma.
+        * [Episode 15](https://www.youtube.com/watch?v=Ad_ys5J5MsU) - Fifteenth episode of Solar Summarization; on market & new whitepaper, created by sigma.
 * Core Management
     * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
