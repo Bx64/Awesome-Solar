@@ -213,13 +213,6 @@
             * [Complementary Examples](https://docs.solar.org/sdk/typescript/complementary-examples/) - Typescript SDK Complementary Examples.
             * [Crypto](https://docs.solar.org/sdk/typescript/crypto/getting-started/) - Typescript SDK Crypto.
             * [Installation](https://docs.solar.org/sdk/typescript/installation/) - Typescript SDK Installation.
-    * SXPSwap
-        * [Introduction](https://docs.solar.org/sxpswap/introduction/) - Introduction to the ERC-20/BSC-20 to Solar Mainnet swap.
-        * Swap / Migration
-            * [Users](https://docs.solar.org/sxpswap/users/metamask/) - Getting started with your swap for users of MetaMask or Trust Wallet.
-            * [Exchanges](https://docs.solar.org/sxpswap/exchanges/getting-started/) - Getting started with your migration for exchanges.
-        * Technical Details
-            * [Security](https://docs.solar.org/sxpswap/technical-details/security/introduction/) - Security technical details for the swap.
     * Wallets
         * [Introduction](https://docs.solar.org/desktop-wallet/intro/) - Introduction to the Solar Desktop Wallet.
         * [An Introduction to SXP Rewards (Staking)](https://docs.solar.org/desktop-wallet/introduction-to-solar-rewards/) - Introduction to staking using the Solar Desktop Wallet.
@@ -278,9 +271,11 @@
     * [RBC Office - AMA with Solar Senior Brand Ambassador, Elaine](https://twitter.com/rbcoffice/status/1588046586143444992) - AMA with RBC Office and Solar Senior Brand Ambassador, Elaine.
     * [Respect Trade - AMA with Nayiem](https://t.me/RespectTrade/388202) - AMA with Nayiem in Respect Trade Telegram.
     * [Solar - AMA with Nayiem](https://t.me/Solar/41684) - AMA with Nayiem in Solar Telegram.
+    * [Solar - AMA with Lead Core Developer, Gym](https://blog.solar.org/unveiling-the-future-of-solar-ama-with-the-lead-core-developer-2afc52ed8d00) - Unveiling the Future of Solar about updates on the new Solar Core 5.0 codebase.
     * [Solar - Dokdo: Solar Card AMA with Nayiem](https://blog.solar.org/solar-debit-card-amas-transcript-39d8293e6eef) - AMA with Nayiem about Solar Card released by Dokdo in Solar Telegram.
     * [Solar - Foundation AMA with Nayiem](https://drive.google.com/file/d/1c1DU-A8eQTGih44CxOQq6YVBuFtX--Lz/view?usp=sharing) - AMA with Nayiem about the Solar Foundation.
-    * [Solar - Q3 AMA with Nayiem](https://blog.solar.org/solar-ama-transcript-de6c8f0b1dd9) - AMA with Nayiem and Solar Brand Ambassador, Elaine about upcoming releases, Core 5.0, SVM, moon.store, US Market and more in Solar Telegram. 
+    * [Solar - Q3 AMA with Nayiem](https://blog.solar.org/solar-ama-transcript-de6c8f0b1dd9) - AMA with Nayiem and Solar Brand Ambassador, Elaine about upcoming releases, Core 5.0, SVM, moon.store, US Market and more in Solar Telegram.
+    * [Solar - The First AMA Recap](https://blog.solar.org/first-ama-recap-78f1bfb513e9) - AMA event with Solar CMO Jacek and Elaine.
     * [Solar Core Lead Developer Gym & Elaine](https://blog.solar.org/ama-with-gym-b9a577023028) - AMA event with Solar Core Lead Developer gym, and Solar Senior Brand Ambassador, Elaine.
     * [StealthEx - AMA with Solar Senior Brand Ambassador, Elaine & Marija](https://t.me/Solar/125756) - StealthEx AMA with Marija & Solar Senior Brand Ambassador, Elaine.
     * [Travala - AMA with Solar Senior Brand Ambassador, Elaine & Shane](https://blog.solar.org/solar-and-travala-ama-6b6a797f23aa) - Travala AMA with Shane & Solar Senior Brand Ambassador, Elaine.
@@ -344,10 +339,9 @@
 * [CoinEx](https://www.coinex.com/)
     * [SXP - USDC](https://www.coinex.com/exchange/SXP-USDC)
     * [SXP - USDT](https://www.coinex.com/exchange/SXP-USDT)
+* [Coinmerce](https://coinmerce.io/en/solar/)
 * [Coinone](https://coinone.co.kr/)
     * [SXP - KRW](https://coinone.co.kr/exchange/trade/sxp/krw)
-* [Deepcoin](https://deepcoin.com/)
-    * [SXP - USDT](https://www.deepcoin.com/en/Spot?currentId=SXP%2FUSDT)
 * [Exolix](https://exolix.com/)
 * [Gate.io](https://www.gate.io/)
     * [SXP - ETH](https://www.gate.io/trade/SXP_ETH)
@@ -356,8 +350,8 @@
 * [HitBTC](https://hitbtc.com/)
     * [SXP - BTC](https://hitbtc.com/sxp-to-btc)
     * [SXP - USDT](https://hitbtc.com/sxp-to-usdt)
-* [Huobi](https://www.huobi.com/)
-    * [SXP - USDT](https://www.huobi.com/en-us/exchange/sxp_usdt)
+* [HTX](https://www.htx.com/)
+    * [SXP - USDT](https://www.htx.com/trade/sxp_usdt)
 * [Jubi](https://jbex.com/)
     * [SXP - USDT](https://www.jbex.com/exchange/SXP2/USDT)
 * [KuCoin](https://www.kucoin.com/)
@@ -372,6 +366,10 @@
     * [SXP - USDT futures](https://futures.mexc.com/exchange/SXP_USDT)
     * [SXP3L - USDT](https://www.mexc.com/exchange/SXP3L_USDT)
     * [SXP3S - USDT](https://www.mexc.com/exchange/SXP3S_USDT)
+* [Poloniex](https://poloniex.com/)
+    * [SXP-BTC](https://poloniex.com/trade/SXP_BTC?type=spot)
+    * [SXP-TRX](https://poloniex.com/trade/SXP_TRX?type=spot)
+    * [SXP-USDT](https://poloniex.com/trade/SXP_USDT?type=spot)
 * [SimpleSwap](https://simpleswap.io/)
     * [SXP - 340+ cryptocurrencies](https://simpleswap.io/crypto-to-crypto?to=sxpmainnet)
 * [StealthEX](https://stealthex.io/)
