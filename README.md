@@ -453,6 +453,7 @@
         * [Episode 14](https://www.youtube.com/watch?v=eTqwOEXaBz4) - Fourteenth episode of Solar Summarization; on market & prizes, created by sigma.
         * [Episode 15](https://www.youtube.com/watch?v=Ad_ys5J5MsU) - Fifteenth episode of Solar Summarization; on market & new whitepaper, created by sigma.
         * [Episode 16](https://www.youtube.com/watch?v=OsOkMIWJA2E) - Sixteenth episode of Solar Summarization; on market & upcoming Solar Mobile Wallet, created by sigma.
+        * [Episode 17](https://www.youtube.com/watch?v=xwO41oA13Mk) - Seventeenth episode of Solar Summarization; on Japan visit and Solar Core 5.0 progress, created by sigma.
 * Core Management
     * [Block Producer Check - geops](https://github.com/geopsllc/delegate-check/) - DPoS monitoring tool for block producers across multiple chains including Solar, created by geops.
     * [Core Alerter - biz_classic](https://github.com/eugeneli/core-alerter) - Core Alerter sends block producer change notifications to Discord, created by biz_classic.
